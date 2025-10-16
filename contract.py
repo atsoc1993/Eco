@@ -48,9 +48,9 @@ class Eco(ARC4Contract):
         self.eco_token = UInt64(0)
         self.eco_token_created = False
         self.eco_lp_token = UInt64(0)
-        self.plot_count = UInt64(1) #testing commas, reset to 1
+        self.plot_count = UInt64(1) 
         self.next_plot = UInt64(0)
-        self.plot_cost = UInt64(1_000_000)
+        self.plot_cost = UInt64(10_000)
         self.plot_reward_rate = UInt64(1_000_000)
         self.pool_logicsig_template = op.base64_decode(op.Base64.StdEncoding, b"BoAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQBbNQA0ADEYEkQxGYEBEkSBAUM=")
         self.tinyman_router = Application(148607000) #testnet
@@ -228,13 +228,14 @@ class Eco(ARC4Contract):
             default_frozen=False,
         ).submit()
 
-        self.next_plot = create_next_users_plot.created_asset.id
 
         itxn.AssetTransfer(
             asset_amount=1,
             asset_receiver=Txn.sender,
             xfer_asset=self.next_plot,
         ).submit()
+
+        self.next_plot = create_next_users_plot.created_asset.id
 
         post_mbr = get_mbr()
         refund_excess_mbr(pre_mbr, post_mbr, mbr_payment)
@@ -247,16 +248,16 @@ class Eco(ARC4Contract):
         
     @subroutine
     def add_plot_to_user_inventory(self) -> None:
-        box = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
+        users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
         plot_info = PlotInfo(plot_id=arc4.UInt64(self.next_plot), plot_last_claim_time=arc4.UInt64(0))
-        if box:
-            initial_box_length = box.length
-            box.resize(initial_box_length + 16)
-            box.splice(initial_box_length, 16, plot_info.bytes)
+        if users_plots:
+            initial_box_length = users_plots.length
+            users_plots.resize(initial_box_length + 16)
+            users_plots.splice(initial_box_length, 16, plot_info.bytes)
 
         else:
-            box.create(size=UInt64(16))
-            box.replace(0, plot_info.bytes)
+            users_plots.create(size=UInt64(16))
+            users_plots.replace(0, plot_info.bytes)
 
         
     @subroutine
@@ -273,5 +274,34 @@ class Eco(ARC4Contract):
 
         return Account.from_bytes(op.sha512_256(b'Program' + program_bytes))
     
+
+    @abimethod
+    def claim_plot_rewards(self) -> UInt64:
+        total_reward = self.calculate_plot_reward_and_reset_claim_times()
+        self.dispense_reward(total_reward)
+        return total_reward
+
+
+
+    @subroutine
+    def calculate_plot_reward_and_reset_claim_times(self) -> UInt64:
+        total_reward = UInt64(0)
+        users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
+        for i in urange(users_plots.length // 16):
+            individual_plot_bytes = users_plots.extract(i, i + 16)
+            plot_info = PlotInfo.from_bytes(individual_plot_bytes)
+            plot_reward = (Global.latest_timestamp - plot_info.plot_last_claim_time.as_uint64()) * self.plot_reward_rate
+            total_reward += plot_reward
+            plot_info.plot_last_claim_time = arc4.UInt64(Global.latest_timestamp)
+            users_plots.splice(i + 8, 8, plot_info.bytes)
+        return total_reward
+    
+    @subroutine
+    def dispense_reward(self, reward_amount: UInt64) -> None:
+        itxn.AssetTransfer(
+            xfer_asset=self.eco_token,
+            asset_amount=reward_amount,
+            asset_receiver=Txn.sender
+        ).submit()
 # class EcoMarket(ARC4Contract):
 

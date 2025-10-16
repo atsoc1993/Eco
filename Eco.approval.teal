@@ -4,12 +4,12 @@
 // algopy.arc4.ARC4Contract.approval_program() -> uint64:
 main:
     intcblock 0 1 3 4 1000000
-    bytecblock "next_plot" "eco_token" "plot_count" 0x "eco_lp_token" "plot_cost" "pool_logicsig_template" "tinyman_router" 0x30313233343536373839 "ECO" 0x0000000000000000 0x506c6f7420233a20 "PLOT"
+    bytecblock "eco_token" "next_plot" "plot_count" 0x "eco_lp_token" "plot_cost" "plot_reward_rate" "pool_logicsig_template" "tinyman_router" 0x30313233343536373839 "ECO" 0x151f7c75 0x0000000000000000 0x506c6f7420233a20 "PLOT"
     txn ApplicationID
     bnz main_after_if_else@2
     // contract.py:48
     // self.eco_token = UInt64(0)
-    bytec_1 // "eco_token"
+    bytec_0 // "eco_token"
     intc_0 // 0
     app_global_put
     // contract.py:49
@@ -29,7 +29,7 @@ main:
     app_global_put
     // contract.py:52
     // self.next_plot = UInt64(0)
-    bytec_0 // "next_plot"
+    bytec_1 // "next_plot"
     intc_0 // 0
     app_global_put
     // contract.py:53
@@ -39,19 +39,19 @@ main:
     app_global_put
     // contract.py:54
     // self.plot_reward_rate = UInt64(1_000_000)
-    pushbytes "plot_reward_rate"
+    bytec 6 // "plot_reward_rate"
     intc 4 // 1000000
     app_global_put
     // contract.py:55
     // self.pool_logicsig_template = op.base64_decode(op.Base64.StdEncoding, b"BoAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQBbNQA0ADEYEkQxGYEBEkSBAUM=")
     pushbytes 0x426f41594141414141414141414141414141414141414141414141414141414141414141675142624e51413041444559456b517847594542456b534241554d3d
     base64_decode StdEncoding
-    bytec 6 // "pool_logicsig_template"
+    bytec 7 // "pool_logicsig_template"
     swap
     app_global_put
     // contract.py:56
     // self.tinyman_router = Application(148607000) #testnet
-    bytec 7 // "tinyman_router"
+    bytec 8 // "tinyman_router"
     pushint 148607000 // 148607000
     app_global_put
 
@@ -59,18 +59,18 @@ main_after_if_else@2:
     // contract.py:46
     // class Eco(ARC4Contract):
     txn NumAppArgs
-    bz main___algopy_default_create@12
+    bz main___algopy_default_create@13
     txn OnCompletion
     !
     assert // OnCompletion must be NoOp
     txn ApplicationID
     assert
-    pushbytess 0x47e77c38 0x6f9911fd 0x71351241 // method "mint_eco(txn)uint64", method "bootstrap_via_outer_and_add_initial_liquidity(txn)void", method "mint_plot(txn,txn)void"
+    pushbytess 0x47e77c38 0x6f9911fd 0x71351241 0x7cce9f1f // method "mint_eco(txn)uint64", method "bootstrap_via_outer_and_add_initial_liquidity(txn)void", method "mint_plot(txn,txn)void", method "claim_plot_rewards()uint64"
     txna ApplicationArgs 0
-    match mint_eco bootstrap_via_outer_and_add_initial_liquidity mint_plot
+    match mint_eco bootstrap_via_outer_and_add_initial_liquidity mint_plot claim_plot_rewards
     err
 
-main___algopy_default_create@12:
+main___algopy_default_create@13:
     txn OnCompletion
     !
     txn ApplicationID
@@ -206,7 +206,7 @@ itoa:
     bz itoa_after_if_else@2
     // contract.py:35
     // digits = Bytes(b"0123456789")
-    bytec 8 // 0x30313233343536373839
+    bytec 9 // 0x30313233343536373839
     // contract.py:38
     // return digits[i]
     frame_dig -1
@@ -234,7 +234,7 @@ itoa_after_if_else@2:
     %
     // contract.py:35
     // digits = Bytes(b"0123456789")
-    bytec 8 // 0x30313233343536373839
+    bytec 9 // 0x30313233343536373839
     // contract.py:40
     // return itoa(i // radix) + digits[i % radix]
     swap
@@ -303,11 +303,11 @@ mint_eco:
     itxn_field ConfigAssetTotal
     // contract.py:67
     // unit_name='ECO',
-    bytec 9 // "ECO"
+    bytec 10 // "ECO"
     itxn_field ConfigAssetUnitName
     // contract.py:66
     // asset_name='ECO',
-    bytec 9 // "ECO"
+    bytec 10 // "ECO"
     itxn_field ConfigAssetName
     // contract.py:65
     // create_eco_txn = itxn.AssetConfig(
@@ -328,7 +328,7 @@ mint_eco:
     itxn_submit
     // contract.py:76
     // self.eco_token = create_eco_txn.created_asset.id
-    bytec_1 // "eco_token"
+    bytec_0 // "eco_token"
     itxn CreatedAssetID
     app_global_put
     // contract.py:10
@@ -343,13 +343,13 @@ mint_eco:
     // contract.py:86
     // return self.eco_token
     intc_0 // 0
-    bytec_1 // "eco_token"
+    bytec_0 // "eco_token"
     app_global_get_ex
     assert // check self.eco_token exists
     // contract.py:58
     // @abimethod
     itob
-    pushbytes 0x151f7c75
+    bytec 11 // 0x151f7c75
     swap
     concat
     log
@@ -388,7 +388,7 @@ bootstrap_via_outer_and_add_initial_liquidity:
     // contract.py:265
     // program_bytes = self.pool_logicsig_template
     intc_0 // 0
-    bytec 6 // "pool_logicsig_template"
+    bytec 7 // "pool_logicsig_template"
     app_global_get_ex
     assert // check self.pool_logicsig_template exists
     // contract.py:268
@@ -415,7 +415,7 @@ bootstrap_via_outer_and_add_initial_liquidity:
     // contract.py:269
     // arc4.UInt64(self.tinyman_router.id).bytes +
     intc_0 // 0
-    bytec 7 // "tinyman_router"
+    bytec 8 // "tinyman_router"
     app_global_get_ex
     assert // check self.tinyman_router exists
     dup
@@ -429,7 +429,7 @@ bootstrap_via_outer_and_add_initial_liquidity:
     // contract.py:270
     // arc4.UInt64(self.eco_token).bytes +
     intc_0 // 0
-    bytec_1 // "eco_token"
+    bytec_0 // "eco_token"
     app_global_get_ex
     assert // check self.eco_token exists
     dup
@@ -443,7 +443,7 @@ bootstrap_via_outer_and_add_initial_liquidity:
     concat
     // contract.py:271
     // arc4.UInt64(0).bytes +
-    bytec 10 // 0x0000000000000000
+    bytec 12 // 0x0000000000000000
     // contract.py:268-271
     // program_bytes[0:3] +
     // arc4.UInt64(self.tinyman_router.id).bytes +
@@ -594,7 +594,7 @@ bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13:
     itxn_begin
     // contract.py:182
     // asset_name=b'Plot #: ' + plot_count_with_commas,
-    bytec 11 // 0x506c6f7420233a20
+    bytec 13 // 0x506c6f7420233a20
     dig 2
     concat
     // contract.py:186
@@ -619,7 +619,7 @@ bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13:
     itxn_field ConfigAssetTotal
     // contract.py:183
     // unit_name='PLOT',
-    bytec 12 // "PLOT"
+    bytec 14 // "PLOT"
     itxn_field ConfigAssetUnitName
     itxn_field ConfigAssetName
     // contract.py:181
@@ -641,7 +641,7 @@ bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13:
     itxn_submit
     // contract.py:108
     // self.next_plot = self.mint_initial_plot()
-    bytec_0 // "next_plot"
+    bytec_1 // "next_plot"
     itxn CreatedAssetID
     app_global_put
     // contract.py:10
@@ -782,7 +782,7 @@ mint_plot:
     acct_params_get AcctMinBalance
     assert // account funded
     // contract.py:251
-    // box = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
+    // users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
     pushbytes 0x70
     txn Sender
     concat
@@ -790,26 +790,25 @@ mint_plot:
     // contract.py:252
     // plot_info = PlotInfo(plot_id=arc4.UInt64(self.next_plot), plot_last_claim_time=arc4.UInt64(0))
     intc_0 // 0
-    bytec_0 // "next_plot"
+    bytec_1 // "next_plot"
     app_global_get_ex
     assert // check self.next_plot exists
     itob
-    bytec 10 // 0x0000000000000000
+    bytec 12 // 0x0000000000000000
     concat
-    swap
+    cover 2
     // contract.py:253
-    // if box:
+    // if users_plots:
     box_len
     bury 1
     bz mint_plot_else_body@15
     // contract.py:254
-    // initial_box_length = box.length
-    dig 1
+    // initial_box_length = users_plots.length
     dup
     box_len
     assert // check Box exists
     // contract.py:255
-    // box.resize(initial_box_length + 16)
+    // users_plots.resize(initial_box_length + 16)
     dup
     pushint 16 // 16
     +
@@ -817,9 +816,9 @@ mint_plot:
     swap
     box_resize
     // contract.py:256
-    // box.splice(initial_box_length, 16, plot_info.bytes)
+    // users_plots.splice(initial_box_length, 16, plot_info.bytes)
     pushint 16 // 16
-    uncover 3
+    dig 3
     box_splice
 
 mint_plot_after_if_else@16:
@@ -868,7 +867,7 @@ mint_plot_after_if_else@10:
     itxn_begin
     // contract.py:222
     // asset_name=b'Plot #: ' + plot_count_with_commas,
-    bytec 11 // 0x506c6f7420233a20
+    bytec 13 // 0x506c6f7420233a20
     dig 7
     concat
     // contract.py:226
@@ -893,7 +892,7 @@ mint_plot_after_if_else@10:
     itxn_field ConfigAssetTotal
     // contract.py:223
     // unit_name='PLOT',
-    bytec 12 // "PLOT"
+    bytec 14 // "PLOT"
     itxn_field ConfigAssetUnitName
     itxn_field ConfigAssetName
     // contract.py:221
@@ -927,7 +926,7 @@ mint_plot_after_if_else@10:
     // contract.py:235
     // xfer_asset=self.next_plot,
     intc_0 // 0
-    bytec_0 // "next_plot"
+    bytec_1 // "next_plot"
     app_global_get_ex
     assert // check self.next_plot exists
     itxn_field XferAsset
@@ -951,7 +950,7 @@ mint_plot_after_if_else@10:
     itxn_submit
     // contract.py:238
     // self.next_plot = create_next_users_plot.created_asset.id
-    bytec_0 // "next_plot"
+    bytec_1 // "next_plot"
     swap
     app_global_put
     // contract.py:10
@@ -1032,15 +1031,137 @@ mint_plot_after_if_else@7:
 
 mint_plot_else_body@15:
     // contract.py:259
-    // box.create(size=UInt64(16))
-    dig 1
+    // users_plots.create(size=UInt64(16))
     dup
     pushint 16 // 16
     box_create
     pop
     // contract.py:260
-    // box.replace(0, plot_info.bytes)
+    // users_plots.replace(0, plot_info.bytes)
     intc_0 // 0
-    uncover 2
+    dig 2
     box_replace
     b mint_plot_after_if_else@16
+
+
+// contract.Eco.claim_plot_rewards[routing]() -> void:
+claim_plot_rewards:
+    // contract.py:288
+    // total_reward = UInt64(0)
+    intc_0 // 0
+    // contract.py:289
+    // users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
+    pushbytes 0x70
+    txn Sender
+    concat
+    dup
+    // contract.py:290
+    // for i in urange(users_plots.length // 16):
+    box_len
+    assert // check Box exists
+    pushint 16 // 16
+    /
+    intc_0 // 0
+
+claim_plot_rewards_for_header@2:
+    // contract.py:290
+    // for i in urange(users_plots.length // 16):
+    dup
+    dig 2
+    <
+    bz claim_plot_rewards_after_for@4
+    // contract.py:291
+    // individual_plot_bytes = users_plots.extract(i, i + 16)
+    dupn 2
+    pushint 16 // 16
+    +
+    dig 4
+    dup
+    cover 3
+    dig 2
+    uncover 2
+    box_extract
+    // contract.py:293
+    // plot_reward = (Global.latest_timestamp - plot_info.plot_last_claim_time.as_uint64()) * self.plot_reward_rate
+    global LatestTimestamp
+    dig 1
+    pushint 8 // 8
+    extract_uint64
+    -
+    intc_0 // 0
+    bytec 6 // "plot_reward_rate"
+    app_global_get_ex
+    assert // check self.plot_reward_rate exists
+    *
+    // contract.py:294
+    // total_reward += plot_reward
+    dig 7
+    +
+    bury 7
+    // contract.py:295
+    // plot_info.plot_last_claim_time = arc4.UInt64(Global.latest_timestamp)
+    global LatestTimestamp
+    itob
+    replace2 8
+    // contract.py:296
+    // users_plots.splice(i + 8, 8, plot_info.bytes)
+    dig 1
+    pushint 8 // 8
+    +
+    uncover 3
+    swap
+    pushint 8 // 8
+    uncover 3
+    box_splice
+    // contract.py:290
+    // for i in urange(users_plots.length // 16):
+    intc_1 // 1
+    +
+    bury 1
+    b claim_plot_rewards_for_header@2
+
+claim_plot_rewards_after_for@4:
+    // contract.py:301-305
+    // itxn.AssetTransfer(
+    //     xfer_asset=self.eco_token,
+    //     asset_amount=reward_amount,
+    //     asset_receiver=Txn.sender
+    // ).submit()
+    itxn_begin
+    // contract.py:302
+    // xfer_asset=self.eco_token,
+    intc_0 // 0
+    bytec_0 // "eco_token"
+    app_global_get_ex
+    assert // check self.eco_token exists
+    // contract.py:304
+    // asset_receiver=Txn.sender
+    txn Sender
+    itxn_field AssetReceiver
+    dig 4
+    dup
+    cover 2
+    itxn_field AssetAmount
+    itxn_field XferAsset
+    // contract.py:301
+    // itxn.AssetTransfer(
+    intc_3 // axfer
+    itxn_field TypeEnum
+    intc_0 // 0
+    itxn_field Fee
+    // contract.py:301-305
+    // itxn.AssetTransfer(
+    //     xfer_asset=self.eco_token,
+    //     asset_amount=reward_amount,
+    //     asset_receiver=Txn.sender
+    // ).submit()
+    itxn_submit
+    // contract.py:278
+    // @abimethod
+    itob
+    bytec 11 // 0x151f7c75
+    swap
+    concat
+    log
+    intc_1 // 1
+    return

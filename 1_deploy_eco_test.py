@@ -106,7 +106,8 @@ bootstrap_fee = PaymentParams(
     sender=test_account.address,
     signer=test_account.signer,
     receiver=pool_address,
-    amount=AlgoAmount(algo=1)
+    amount=AlgoAmount(algo=1),
+    validity_window=1000
 )
 
 
@@ -122,7 +123,9 @@ bootstrap_app_call = AppCallParams(
     rekey_to=TINYMAN_ROUTER_ADDRESS,
     signer=logic_sig.signer,
     max_fee=AlgoAmount(micro_algo=10_000),
-    asset_references=[create_eco.returns[0].value, ALGO]
+    asset_references=[create_eco.returns[0].value, ALGO],
+    validity_window=1000
+
 )
 
 group.add_app_call(
@@ -143,7 +146,8 @@ add_initial_liq_mbr_payment = algorand.create_transaction.payment(
         sender=test_account.address,
         signer=test_account.signer,
         receiver=eco_client.app_address,
-        amount=AlgoAmount(algo=2)
+        amount=AlgoAmount(algo=2),
+        validity_window=1000
     )
 )
 
