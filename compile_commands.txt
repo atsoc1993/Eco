@@ -1,1 +1,1 @@
-algokit compile py contract.py --output-arc56 --out-dir contract_files; 
+algokit compile py contract.py --output-arc56 --out-dir contract_files; algokitgen-py -a 'contract_files/Eco.arc56.json' -o 'contract_files/EcoClient.py'
