@@ -48,7 +48,7 @@ class Eco(ARC4Contract):
         self.eco_token = UInt64(0)
         self.eco_token_created = False
         self.eco_lp_token = UInt64(0)
-        self.plot_count = UInt64(10000) #testing commas, reset to 1
+        self.plot_count = UInt64(1) #testing commas, reset to 1
         self.next_plot = UInt64(0)
         self.plot_cost = UInt64(1_000_000)
         self.plot_reward_rate = UInt64(1_000_000)
