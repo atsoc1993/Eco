@@ -98,7 +98,7 @@ class Eco(ARC4Contract):
         LP_token = self.get_lp_token_id(pool_account=pool_address)
         optin_lp = itxn.AssetTransfer(xfer_asset=LP_token, asset_receiver=Global.current_application_address)
         transfer_asset = itxn.AssetTransfer(xfer_asset=self.eco_token, asset_receiver=pool_address, asset_amount=1)
-        transfer_algo = itxn.Payment(receiver=pool_address, amount=1)
+        transfer_algo = itxn.Payment(receiver=pool_address, amount=1_000_000)
         tiny_args = Bytes(b'add_initial_liquidity')
         add_lp_call = itxn.ApplicationCall(
             app_id=self.tinyman_router,
