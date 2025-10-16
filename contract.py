@@ -3,7 +3,7 @@ from algopy.arc4 import abimethod, Struct, DynamicArray
 
 @subroutine
 def is_creator() -> None:
-    assert Txn.sender == Global.current_application_address
+    assert Txn.sender == Global.creator_address
 
 @subroutine
 def get_mbr() -> UInt64:
@@ -56,7 +56,7 @@ class Eco(ARC4Contract):
         self.tinyman_router = Application(148607000) #testnet
 
     @abimethod
-    def mint_eco_token(self, mbr_payment: gtxn.Transaction) -> None:
+    def mint_eco(self, mbr_payment: gtxn.Transaction) -> None:
         is_creator()
         contract_is_receiver(mbr_payment)
         is_payment_txn(mbr_payment)
@@ -93,14 +93,15 @@ class Eco(ARC4Contract):
             receiver=pool_address,
             amount=1_000_000
         )
+
         bootstrap_args = (Bytes(b'bootstrap'),)
         bootstrap_app_call = itxn.ApplicationCall(
             app_id=self.tinyman_router,
             on_completion=OnCompleteAction.OptIn,
             app_args=(bootstrap_args),
             sender=pool_address,
-            rekey_to=pool_address,
-            assets=(Asset(self.eco_token), Asset(0)),
+            rekey_to=self.tinyman_router.address,
+            assets=(Asset(self.eco_token), Asset(0))
         )
         itxn.submit_txns(bootstrap_fee, bootstrap_app_call)
 
