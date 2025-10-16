@@ -109,5 +109,5 @@ def create_a_test_asset():
     print(f'Created test asset, ASA ID: {create_asset_tx.asset_id}')
     return create_asset_tx.asset_id
 
-test_asset_id = create_a_test_asset()
-bootstrap_tiny(test_asset_id)
+# test_asset_id = create_a_test_asset()
+# bootstrap_tiny(test_asset_id)

@@ -56,7 +56,7 @@ class Eco(ARC4Contract):
         self.tinyman_router = Application(148607000) #testnet
 
     @abimethod
-    def mint_eco(self, mbr_payment: gtxn.Transaction) -> None:
+    def mint_eco(self, mbr_payment: gtxn.Transaction) -> UInt64:
         is_creator()
         contract_is_receiver(mbr_payment)
         is_payment_txn(mbr_payment)
@@ -75,35 +75,70 @@ class Eco(ARC4Contract):
 
         self.eco_token = create_eco_txn.created_asset.id
 
-        pool_address = self.get_logicsig_address()
-        self.bootstrap_token(pool_address)
-        self.eco_lp_token = self.add_initial_liquidity(pool_address)
+        # pool_address = self.get_logicsig_address()
+        # self.bootstrap_token(pool_address) this requires a logic sig which is not available within inner txns
+        # self.eco_lp_token = self.add_initial_liquidity(pool_address)
         
-        self.next_plot = self.mint_initial_plot()
+        # self.next_plot = self.mint_initial_plot()
 
-        post_mbr = get_mbr() + 2_000_000 # Add 2 Algo for the bootstrap fee & initial liquidity add fee
+        post_mbr = get_mbr() # + 2_000_000 Add 2 Algo for the bootstrap fee & initial liquidity add fee
         refund_excess_mbr(pre_mbr, post_mbr, mbr_payment)
+        return self.eco_token
 
     # Purchase plots of land, tools for resource grinding, refineries for those resources, resources (raw & refined) can be exchanged for eco tokens
     # All purchases fund eco token liquidity and require a small amount of eco
 
-    @subroutine
-    def bootstrap_token(self, pool_address: Account) -> None:
-        bootstrap_fee = itxn.Payment(
-            receiver=pool_address,
-            amount=1_000_000
-        )
+    @abimethod
+    def bootstrap_via_outer_and_add_initial_liquidity(
+        self, 
+        # bootstrap_fee: gtxn.Transaction, 
+        # bootstrap_tx: gtxn.Transaction, 
+        mbr_payment: gtxn.Transaction
+    ) -> None:
+        is_creator()
+        contract_is_receiver(mbr_payment)
+        is_payment_txn(mbr_payment)
 
-        bootstrap_args = (Bytes(b'bootstrap'),)
-        bootstrap_app_call = itxn.ApplicationCall(
-            app_id=self.tinyman_router,
-            on_completion=OnCompleteAction.OptIn,
-            app_args=(bootstrap_args),
-            sender=pool_address,
-            rekey_to=self.tinyman_router.address,
-            assets=(Asset(self.eco_token), Asset(0))
-        )
-        itxn.submit_txns(bootstrap_fee, bootstrap_app_call)
+        pre_mbr = get_mbr()
+
+        pool_address = self.get_logicsig_address()
+        # self.is_bootstrapping(pool_address, bootstrap_fee, bootstrap_tx)
+        self.eco_lp_token = self.add_initial_liquidity(pool_address)
+
+        self.next_plot = self.mint_initial_plot()
+
+        post_mbr = get_mbr() + 1_000_000 # Add 1 Algo for the initial liquidity add fee
+        refund_excess_mbr(pre_mbr, post_mbr, mbr_payment)
+
+    # @subroutine
+    # def is_bootstrapping(self, pool_address: Account, bootstrap_fee: gtxn.Transaction, bootstrap_tx: gtxn.Transaction) -> None:
+    #     is_payment_txn(bootstrap_fee)
+    #     assert bootstrap_fee.receiver == pool_address
+    #     assert bootstrap_fee.amount == 1_000_000
+
+    #     # The latter two asserts are sufficient
+    #     # assert bootstrap_tx.type == TransactionType.ApplicationCall
+    #     # assert bootstrap_tx.sender == pool_address
+    #     assert bootstrap_tx.app_id == self.tinyman_router
+    #     assert bootstrap_tx.app_args(0) == b'bootstrap'
+
+    # @subroutine
+    # def bootstrap_token(self, pool_address: Account) -> None:
+    #     bootstrap_fee = itxn.Payment(
+    #         receiver=pool_address,
+    #         amount=1_000_000
+    #     )
+
+    #     bootstrap_args = (Bytes(b'bootstrap'),)
+    #     bootstrap_app_call = itxn.ApplicationCall(
+    #         app_id=self.tinyman_router,
+    #         on_completion=OnCompleteAction.OptIn,
+    #         app_args=(bootstrap_args),
+    #         sender=pool_address,
+    #         rekey_to=self.tinyman_router.address,
+    #         assets=(Asset(self.eco_token), Asset(0))
+    #     )
+    #     itxn.submit_txns(bootstrap_fee, bootstrap_app_call)
 
     @subroutine
     def add_initial_liquidity(self, pool_address: Account) -> UInt64:
@@ -144,7 +179,7 @@ class Eco(ARC4Contract):
                 plot_count_with_commas = plot_count_with_commas + plot_count_as_string[i]
 
         create_initial_plot = itxn.AssetConfig(
-            asset_name=b'Plot #: ' + itoa(self.plot_count),
+            asset_name=b'Plot #: ' + plot_count_with_commas,
             unit_name='PLOT',
             total=1,
             decimals=0,
