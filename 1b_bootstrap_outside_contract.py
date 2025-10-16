@@ -1,4 +1,4 @@
-from algokit_utils import AlgorandClient, PaymentParams, AlgoAmount, AppCallParams, LogicSigAccount, SigningAccount
+from algokit_utils import AlgorandClient, PaymentParams, AlgoAmount, AppCallParams, LogicSigAccount, SigningAccount, AssetCreateParams
 from algosdk.transaction import OnComplete
 from dotenv import load_dotenv
 from base64 import b64decode
@@ -40,6 +40,7 @@ def get_pool_logicsig(
 
 def bootstrap_tiny(asset_id):
 
+    print(f'Bootstrapping test asset: {asset_id} . . .')
     algorand = AlgorandClient.testnet()
     
 
@@ -85,4 +86,28 @@ def bootstrap_tiny(asset_id):
             'cover_app_call_inner_transaction_fees': True,
         }
     )
-    print(txn_response.tx_ids)
+    print(f'Bootstrapped: {txn_response.tx_ids[0]}')
+
+def create_a_test_asset():
+
+    algorand = AlgorandClient.testnet()
+
+    print(f'Creating test asset . . .')
+    create_asset_tx = algorand.send.asset_create(
+        params=AssetCreateParams(
+            sender=test_account.address,
+            signer=test_account.signer,
+            asset_name='TEST',
+            unit_name='T1',
+            decimals=0,
+            total=1_000_000,
+            manager=test_account.address,
+            validity_window=1000
+        )
+    )
+
+    print(f'Created test asset, ASA ID: {create_asset_tx.asset_id}')
+    return create_asset_tx.asset_id
+
+test_asset_id = create_a_test_asset()
+bootstrap_tiny(test_asset_id)
