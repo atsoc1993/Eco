@@ -4,24 +4,10 @@ from algosdk.transaction import OnComplete
 from algosdk.logic import get_application_address
 from base64 import b64decode
 from dotenv import load_dotenv, set_key
+from constants import eco_factory, test_account, algorand
 import os
 
-load_dotenv('.env')
 
-test_key = os.getenv('sk')
-test_address = os.getenv('pk')
-test_account = SigningAccount(
-    private_key=test_key,
-    address=test_address
-)
-
-algorand = AlgorandClient.testnet()
-
-eco_factory = EcoFactory(
-    algorand=algorand,
-    default_sender=test_account.address,
-    default_signer=test_account.signer,
-)
 
 print(f'Deploying Eco App . . .')
 eco_client, deploy_response = eco_factory.send.create.bare()
