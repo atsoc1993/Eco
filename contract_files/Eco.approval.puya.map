@@ -3,7 +3,7 @@
   "sources": [
     "../contract.py"
   ],
-  "mappings": "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",
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA+CQ;AAAiB;AAAjB;AACA;;;;;;;;;;;;;;;;;;;AAAyB;AAAzB;AACA;;AAAoB;AAApB;AACA;AAAkB;AAAlB;AACA;AAAiB;AAAjB;AACA;;AAAiB;;;AAAjB;AACA;;AAAwB;;AAAxB;AACsE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAxC;;AAA9B;;AAAA;AAAA;AACA;;AAAsB;;;;;AAAtB;AAVR;;AAAA;;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;;;;;;;;;;;;;;;;;;;;;;AAAA;;;AAAA;;;;;;;;;;AAAA;;;;;;;;;AAxCW;;AAAc;;AAAd;AAAP;;AAMH;;;AAEU;;AAAA;;AAAA;AAAa;AAAb;AAAA;AAAA;;;AAAA;;AAAsC;AAAtC;AAAA;;;;AAAP;AACJ;;AAAA;;;AACe;;AAAA;;AAAgB;;AAAhB;AAAP;;AAEO;;AAAA;;AAAsB;;AAAtB;AAAP;;;;;;AAMP;;;AAEc;;AAAA;;AAAA;AACF;;AAAA;;AAAA;AAAA;AACT;AACa;;;;;;AADb;;;AAAA;;;AAAA;;AAKH;;;AAIM;;AADK;;AACL;AAAP;;;AAFa;;AAGE;;AAAA;AAAA;AAAP;AAEQ;;AAJJ;;AAII;AAAL;;;AAA0B;;AAJzB;;AAIyB;AALxB;;AAKiB;AAAA;AAAA;AAAnB;AAAP;AAkBC;;AAAA;AAAA;AAEG;;;AACA;AAAA;;;AAvCG;AAAA;;AAAY;AAAZ;AAAP;AAZO;;AAAA;;AAAA;AAuDc;AAKL;;AACA;AACO;;;;;;;AAHN;;;AADH;;;;;;;;;;;;;AADI;;;;AADC;;;;AADE;;;AAAA;;;AAAA;AAWjB;;;AAAA;AAlEG;;AAAA;;AAAA;AA2EH;;AAAA;;;AACO;AAAA;AAAA;AAAA;AA5BV;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAiCA;;AAAA;AAAA;AAAA;AAOG;;;AACA;AAAA;;;AA7EG;;AAAY;AAAZ;AAAP;AAZO;;AAAA;;AAAA;AA4Pa;AAAA;;AAAA;AAAA;AAGZ;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA;;AAAA;;AAAA;AAAA;;AAAA;;AAAA;AACY;AAAA;;AAAA;AAAA;AAAZ;AAAA;AADA;;AAAA;AAAA;AAEY;AAAA;AAAA;AAAA;AAAZ;AAAA;AAFA;;AAAA;AAAA;AAGA;;;;;;;;;;AAHA;AAIA;;AAAA;;AAAA;AAAA;;AAAA;;AAAA;;AAAA;AAAA;;AAAA;AAAA;;AAAA;AAJA;AAOoC;;;;;;;;;AAAA;AAAA;AAAd;AA9GN;AAAA;;AAA6D;;;;;;;;;;;;;;;;;;;;;AAA7D;AAAA;AAhB8C;;AAWlE;;;;;;AAXW;;;AAAA;;;AAWgB;AAV8E;;;;;;;;;;;;;;;;;;;;;AAAxF;;;AAAA;;;AAU0B;AATgB;;;;;;;;AAA3C;;;AAAA;;;AAS0C;;;;;;;AAR9C;;;;;;;;;;;;;;;;;;;;;;;;;AAGM;;;;;;AAFJ;;;;AAAA;;;AAOd;AAnDA;;AAAA;AAAA;AA6D4B;AAAA;AAAA;AAAA;AAAL;;;AAAA;AACE;AAAzB;AAEG;AAAA;AAA+B;AAA/B;AAAX;;;;;;;AAW8B;AACP;;AAAA;;AAAA;AAIH;;AACA;AACO;;;;;;;AAHN;;;AADH;;;AADI;;;;;;AAFQ;;;AAAA;;;AAAA;AAzEtB;;;AAAA;AAlGG;;AAAA;;AAAA;AAoGoB;;AAAZ;AACX;;AAAA;AAAA;;AAAA;;;AApBH;AAAA;AAkFgB;AAAT;;AACS;;;AAArB;;AAAA;;AAAA;AAAA;;;AACgB;;AAAU;AAAV;AAAA;AAAA;;AACa;AAAV;AAAnB;;;AAC6C;;AAAyB;;;AAAzB;AAAA;;AAChB;AAAT;;AAC8C;;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAzB;;AAAA;AAAA;AAAA;;AALpB;AAAA;;;;;;;;;;;AAmBhB;;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAA;AAAA;;AAEG;;AAAA;;;AACA;AAAA;;;AA9KG;;AAAA;;AAAY;AAAZ;AAAP;AAAO;;AAAY;AAAZ;AAAP;AA8NW;AAAA;;AAAgB;;AAAhB;AAAP;AACO;;AAAc;AAAA;;AAAA;AAAA;AAAd;AAAP;AA3OG;;AAAA;;AAAA;AA+O0B;;;AAAO;;AAAP;AAAA;AACY;AAAA;AAAA;AAAA;AAAZ;AAA8D;;AAAZ;AAAnE;AAAA;;AACT;AAAA;;AAAX;;;AACiC;AAAA;AAAA;AACF;AAAqB;;AAArB;AAAnB;;AAAA;AAAA;AACuC;;AAAvC;;AAAA;AAlDJ;AAAA;AAAA;AAAA;AAAmB;AAAnB;AAAA;AAAA;;AAAA;AAEuB;;;AAAA;AAAA;;AACE;AAAzB;;AAEG;AAAA;AAAA;;AAA+B;AAA/B;AAAX;;;;;;;AAWiC;AACV;;AAAA;;AAAA;AAIH;;AACA;AACO;;;;;;;AAHN;;;AADH;;;AADI;;;;;;AAFW;;;AAAA;;;AAAA;;;AAWzB;AAEmB;;AACJ;AAAA;AAAA;AAAA;;;;;AAFE;;;AADjB;;;AAAA;;;AAAA;AAMA;AAAA;AAAA;AAnOG;;AAAA;;AAAA;AAsOH;;AAAA;AAAA;;AAAA;;;AA/CH;AAAA;AAmBgB;AAAT;;AACS;;;AAArB;;AAAA;;AAAA;AAAA;;;AACgB;;AAAU;AAAV;AAAA;AAAA;;AACa;AAAV;AAAnB;;;AAC6C;;AAAyB;;;AAAzB;AAAA;;AAChB;AAAT;;AAC8C;;AAAA;;AAAA;AAAA;;AAAA;AAAA;AAAzB;;AAAA;AAAA;AAAA;;AALpB;AAAA;;;;;;AA4CT;AAAwB;;AAAxB;;AACoB;AAApB;;AAAA;;;;AAwBW;AACc;;;AAAO;;AAAP;AAAA;AACb;AAAA;AAAsB;;AAAtB;AAAP;AAAjB;AAAA;;AAAA;AAAA;;;AAC2D;;AAAI;;AAAJ;AAAvB;;AAAA;AAAA;;AAAA;;AAAA;;AAAA;AAET;;AAA0B;;AAAA;;AAAA;AAA1B;AAAwE;AAAA;;AAAA;AAAA;AAAzE;AACd;;AAAA;AAAA;;AAC6C;;AAAZ;AAAjC;;AACmB;;AAAI;;AAAJ;AAAnB;;AAAA;AAA0B;;AAA1B;;AAAA;AANK;AAAA;;;;;;AAWT;AACe;AAAA;AAAA;AAAA;AAEI;;;;;;;;;;;;;AAHnB;;;AAAA;;;AAAA;AArBH;AAAA;;AAAA;AAAA;AAAA;AAAA;AAAA",
   "op_pc_offset": 0,
   "pc_events": {
     "1": {
@@ -14,9 +14,9 @@
       "op": "intcblock 0 1 3 4 1000000"
     },
     "10": {
-      "op": "bytecblock \"next_plot\" \"eco_token\" \"plot_count\" 0x \"eco_lp_token\" \"plot_cost\" \"pool_logicsig_template\" \"tinyman_router\" 0x30313233343536373839 \"ECO\" 0x0000000000000000 0x506c6f7420233a20 \"PLOT\""
+      "op": "bytecblock \"eco_token\" \"next_plot\" \"plot_count\" 0x \"eco_lp_token\" \"plot_cost\" \"plot_reward_rate\" \"pool_logicsig_template\" \"tinyman_router\" 0x30313233343536373839 \"ECO\" 0x151f7c75 0x506c6f7420233a20 \"PLOT\""
     },
-    "143": {
+    "156": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%0#0"
@@ -25,12 +25,12 @@
         "tmp%0#0"
       ]
     },
-    "145": {
+    "158": {
       "op": "bnz main_after_if_else@2",
       "stack_out": []
     },
-    "148": {
-      "op": "bytec_1 // \"eco_token\"",
+    "161": {
+      "op": "bytec_0 // \"eco_token\"",
       "defined_out": [
         "\"eco_token\""
       ],
@@ -38,7 +38,7 @@
         "\"eco_token\""
       ]
     },
-    "149": {
+    "162": {
       "op": "intc_0 // 0",
       "defined_out": [
         "\"eco_token\"",
@@ -49,11 +49,11 @@
         "0"
       ]
     },
-    "150": {
+    "163": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "151": {
+    "164": {
       "op": "pushbytes \"eco_token_created\"",
       "defined_out": [
         "\"eco_token_created\""
@@ -62,18 +62,18 @@
         "\"eco_token_created\""
       ]
     },
-    "170": {
+    "183": {
       "op": "intc_0 // 0",
       "stack_out": [
         "\"eco_token_created\"",
         "0"
       ]
     },
-    "171": {
+    "184": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "172": {
+    "185": {
       "op": "bytec 4 // \"eco_lp_token\"",
       "defined_out": [
         "\"eco_lp_token\""
@@ -82,18 +82,18 @@
         "\"eco_lp_token\""
       ]
     },
-    "174": {
+    "187": {
       "op": "intc_0 // 0",
       "stack_out": [
         "\"eco_lp_token\"",
         "0"
       ]
     },
-    "175": {
+    "188": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "176": {
+    "189": {
       "op": "bytec_2 // \"plot_count\"",
       "defined_out": [
         "\"plot_count\""
@@ -102,7 +102,7 @@
         "\"plot_count\""
       ]
     },
-    "177": {
+    "190": {
       "op": "intc_1 // 1",
       "defined_out": [
         "\"plot_count\"",
@@ -113,12 +113,12 @@
         "1"
       ]
     },
-    "178": {
+    "191": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "179": {
-      "op": "bytec_0 // \"next_plot\"",
+    "192": {
+      "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\""
       ],
@@ -126,18 +126,18 @@
         "\"next_plot\""
       ]
     },
-    "180": {
+    "193": {
       "op": "intc_0 // 0",
       "stack_out": [
         "\"next_plot\"",
         "0"
       ]
     },
-    "181": {
+    "194": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "182": {
+    "195": {
       "op": "bytec 5 // \"plot_cost\"",
       "defined_out": [
         "\"plot_cost\""
@@ -146,7 +146,7 @@
         "\"plot_cost\""
       ]
     },
-    "184": {
+    "197": {
       "op": "pushint 10000 // 10000",
       "defined_out": [
         "\"plot_cost\"",
@@ -157,12 +157,12 @@
         "10000"
       ]
     },
-    "187": {
+    "200": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "188": {
-      "op": "pushbytes \"plot_reward_rate\"",
+    "201": {
+      "op": "bytec 6 // \"plot_reward_rate\"",
       "defined_out": [
         "\"plot_reward_rate\""
       ],
@@ -170,7 +170,7 @@
         "\"plot_reward_rate\""
       ]
     },
-    "206": {
+    "203": {
       "op": "intc 4 // 1000000",
       "defined_out": [
         "\"plot_reward_rate\"",
@@ -181,11 +181,11 @@
         "1000000"
       ]
     },
-    "208": {
+    "205": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "209": {
+    "206": {
       "op": "pushbytes 0x426f41594141414141414141414141414141414141414141414141414141414141414141675142624e51413041444559456b517847594542456b534241554d3d",
       "defined_out": [
         "0x426f41594141414141414141414141414141414141414141414141414141414141414141675142624e51413041444559456b517847594542456b534241554d3d"
@@ -194,7 +194,7 @@
         "0x426f41594141414141414141414141414141414141414141414141414141414141414141675142624e51413041444559456b517847594542456b534241554d3d"
       ]
     },
-    "275": {
+    "272": {
       "op": "base64_decode StdEncoding",
       "defined_out": [
         "tmp%0#2"
@@ -203,8 +203,8 @@
         "tmp%0#2"
       ]
     },
-    "277": {
-      "op": "bytec 6 // \"pool_logicsig_template\"",
+    "274": {
+      "op": "bytec 7 // \"pool_logicsig_template\"",
       "defined_out": [
         "\"pool_logicsig_template\"",
         "tmp%0#2"
@@ -214,19 +214,19 @@
         "\"pool_logicsig_template\""
       ]
     },
-    "279": {
+    "276": {
       "op": "swap",
       "stack_out": [
         "\"pool_logicsig_template\"",
         "tmp%0#2"
       ]
     },
-    "280": {
+    "277": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "281": {
-      "op": "bytec 7 // \"tinyman_router\"",
+    "278": {
+      "op": "bytec 8 // \"tinyman_router\"",
       "defined_out": [
         "\"tinyman_router\""
       ],
@@ -234,7 +234,7 @@
         "\"tinyman_router\""
       ]
     },
-    "283": {
+    "280": {
       "op": "pushint 148607000 // 148607000",
       "defined_out": [
         "\"tinyman_router\"",
@@ -245,11 +245,11 @@
         "148607000"
       ]
     },
-    "288": {
+    "285": {
       "op": "app_global_put",
       "stack_out": []
     },
-    "289": {
+    "286": {
       "block": "main_after_if_else@2",
       "stack_in": [],
       "op": "txn NumAppArgs",
@@ -260,11 +260,11 @@
         "tmp%0#1"
       ]
     },
-    "291": {
-      "op": "bz main___algopy_default_create@12",
+    "288": {
+      "op": "bz main___algopy_default_create@13",
       "stack_out": []
     },
-    "294": {
+    "291": {
       "op": "txn OnCompletion",
       "defined_out": [
         "tmp%2#0"
@@ -273,7 +273,7 @@
         "tmp%2#0"
       ]
     },
-    "296": {
+    "293": {
       "op": "!",
       "defined_out": [
         "tmp%3#0"
@@ -282,12 +282,12 @@
         "tmp%3#0"
       ]
     },
-    "297": {
+    "294": {
       "error": "OnCompletion must be NoOp",
       "op": "assert // OnCompletion must be NoOp",
       "stack_out": []
     },
-    "298": {
+    "295": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%4#0"
@@ -296,27 +296,30 @@
         "tmp%4#0"
       ]
     },
-    "300": {
+    "297": {
       "op": "assert",
       "stack_out": []
     },
-    "301": {
-      "op": "pushbytess 0x47e77c38 0x6f9911fd 0x71351241 // method \"mint_eco(txn)uint64\", method \"bootstrap_via_outer_and_add_initial_liquidity(txn)void\", method \"mint_plot(txn,txn)void\"",
+    "298": {
+      "op": "pushbytess 0x47e77c38 0x6f9911fd 0x71351241 0x7cce9f1f // method \"mint_eco(txn)uint64\", method \"bootstrap_via_outer_and_add_initial_liquidity(txn)void\", method \"mint_plot(txn,txn)void\", method \"claim_plot_rewards()uint64\"",
       "defined_out": [
         "Method(bootstrap_via_outer_and_add_initial_liquidity(txn)void)",
+        "Method(claim_plot_rewards()uint64)",
         "Method(mint_eco(txn)uint64)",
         "Method(mint_plot(txn,txn)void)"
       ],
       "stack_out": [
         "Method(mint_eco(txn)uint64)",
         "Method(bootstrap_via_outer_and_add_initial_liquidity(txn)void)",
-        "Method(mint_plot(txn,txn)void)"
+        "Method(mint_plot(txn,txn)void)",
+        "Method(claim_plot_rewards()uint64)"
       ]
     },
-    "318": {
+    "320": {
       "op": "txna ApplicationArgs 0",
       "defined_out": [
         "Method(bootstrap_via_outer_and_add_initial_liquidity(txn)void)",
+        "Method(claim_plot_rewards()uint64)",
         "Method(mint_eco(txn)uint64)",
         "Method(mint_plot(txn,txn)void)",
         "tmp%6#0"
@@ -325,18 +328,19 @@
         "Method(mint_eco(txn)uint64)",
         "Method(bootstrap_via_outer_and_add_initial_liquidity(txn)void)",
         "Method(mint_plot(txn,txn)void)",
+        "Method(claim_plot_rewards()uint64)",
         "tmp%6#0"
       ]
     },
-    "321": {
-      "op": "match mint_eco bootstrap_via_outer_and_add_initial_liquidity mint_plot",
+    "323": {
+      "op": "match mint_eco bootstrap_via_outer_and_add_initial_liquidity mint_plot claim_plot_rewards",
       "stack_out": []
     },
-    "329": {
+    "333": {
       "op": "err"
     },
-    "330": {
-      "block": "main___algopy_default_create@12",
+    "334": {
+      "block": "main___algopy_default_create@13",
       "stack_in": [],
       "op": "txn OnCompletion",
       "defined_out": [
@@ -346,7 +350,7 @@
         "tmp%7#0"
       ]
     },
-    "332": {
+    "336": {
       "op": "!",
       "defined_out": [
         "tmp%8#0"
@@ -355,7 +359,7 @@
         "tmp%8#0"
       ]
     },
-    "333": {
+    "337": {
       "op": "txn ApplicationID",
       "defined_out": [
         "tmp%8#0",
@@ -366,7 +370,7 @@
         "tmp%9#0"
       ]
     },
-    "335": {
+    "339": {
       "op": "!",
       "defined_out": [
         "tmp%10#0",
@@ -377,7 +381,7 @@
         "tmp%10#0"
       ]
     },
-    "336": {
+    "340": {
       "op": "&&",
       "defined_out": [
         "tmp%11#0"
@@ -386,13 +390,13 @@
         "tmp%11#0"
       ]
     },
-    "337": {
+    "341": {
       "error": "OnCompletion must be NoOp && can only call when creating",
       "op": "return // on error: OnCompletion must be NoOp && can only call when creating",
       "defined_out": [],
       "stack_out": []
     },
-    "338": {
+    "342": {
       "subroutine": "contract.is_creator",
       "params": {},
       "block": "is_creator",
@@ -405,7 +409,7 @@
         "tmp%0#0"
       ]
     },
-    "340": {
+    "344": {
       "op": "global CreatorAddress",
       "defined_out": [
         "tmp%0#0",
@@ -416,7 +420,7 @@
         "tmp%1#0"
       ]
     },
-    "342": {
+    "346": {
       "op": "==",
       "defined_out": [
         "tmp%2#0"
@@ -425,15 +429,15 @@
         "tmp%2#0"
       ]
     },
-    "343": {
+    "347": {
       "op": "assert",
       "stack_out": []
     },
-    "344": {
+    "348": {
       "retsub": true,
       "op": "retsub"
     },
-    "345": {
+    "349": {
       "subroutine": "contract.contract_is_receiver",
       "params": {
         "txn#0": "uint64"
@@ -442,7 +446,7 @@
       "stack_in": [],
       "op": "proto 1 0"
     },
-    "348": {
+    "352": {
       "op": "frame_dig -1",
       "defined_out": [
         "txn#0 (copy)"
@@ -451,7 +455,7 @@
         "txn#0 (copy)"
       ]
     },
-    "350": {
+    "354": {
       "op": "gtxns TypeEnum",
       "defined_out": [
         "awst_tmp%0#0"
@@ -460,7 +464,7 @@
         "awst_tmp%0#0"
       ]
     },
-    "352": {
+    "356": {
       "op": "dup",
       "defined_out": [
         "awst_tmp%0#0"
@@ -470,7 +474,7 @@
         "awst_tmp%0#0"
       ]
     },
-    "353": {
+    "357": {
       "op": "intc_1 // pay",
       "defined_out": [
         "awst_tmp%0#0",
@@ -482,7 +486,7 @@
         "pay"
       ]
     },
-    "354": {
+    "358": {
       "op": "==",
       "defined_out": [
         "awst_tmp%0#0",
@@ -493,7 +497,7 @@
         "tmp%0#0"
       ]
     },
-    "355": {
+    "359": {
       "op": "dup",
       "stack_out": [
         "awst_tmp%0#0",
@@ -501,14 +505,14 @@
         "tmp%0#0"
       ]
     },
-    "356": {
+    "360": {
       "op": "bnz contract_is_receiver_bool_true@2",
       "stack_out": [
         "awst_tmp%0#0",
         "tmp%0#0"
       ]
     },
-    "359": {
+    "363": {
       "op": "frame_dig 0",
       "stack_out": [
         "awst_tmp%0#0",
@@ -516,7 +520,7 @@
         "awst_tmp%0#0"
       ]
     },
-    "361": {
+    "365": {
       "op": "intc_3 // axfer",
       "defined_out": [
         "awst_tmp%0#0",
@@ -530,7 +534,7 @@
         "axfer"
       ]
     },
-    "362": {
+    "366": {
       "op": "==",
       "defined_out": [
         "awst_tmp%0#0",
@@ -543,14 +547,14 @@
         "tmp%1#0"
       ]
     },
-    "363": {
+    "367": {
       "op": "bz contract_is_receiver_bool_false@3",
       "stack_out": [
         "awst_tmp%0#0",
         "tmp%0#0"
       ]
     },
-    "366": {
+    "370": {
       "block": "contract_is_receiver_bool_true@2",
       "stack_in": [
         "awst_tmp%0#0",
@@ -566,7 +570,7 @@
         "or_result%0#0"
       ]
     },
-    "367": {
+    "371": {
       "block": "contract_is_receiver_bool_merge@4",
       "stack_in": [
         "awst_tmp%0#0",
@@ -580,7 +584,7 @@
         "tmp%0#0"
       ]
     },
-    "368": {
+    "372": {
       "op": "frame_dig 1",
       "defined_out": [
         "tmp%0#0"
@@ -591,14 +595,14 @@
         "tmp%0#0"
       ]
     },
-    "370": {
+    "374": {
       "op": "bz contract_is_receiver_else_body@6",
       "stack_out": [
         "awst_tmp%0#0",
         "tmp%0#0"
       ]
     },
-    "373": {
+    "377": {
       "op": "frame_dig -1",
       "defined_out": [
         "tmp%0#0",
@@ -610,7 +614,7 @@
         "txn#0 (copy)"
       ]
     },
-    "375": {
+    "379": {
       "op": "gtxns Receiver",
       "defined_out": [
         "tmp%0#0",
@@ -622,7 +626,7 @@
         "tmp%4#0"
       ]
     },
-    "377": {
+    "381": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "tmp%0#0",
@@ -636,7 +640,7 @@
         "tmp%5#0"
       ]
     },
-    "379": {
+    "383": {
       "op": "==",
       "defined_out": [
         "tmp%0#0",
@@ -648,18 +652,18 @@
         "tmp%6#0"
       ]
     },
-    "380": {
+    "384": {
       "op": "assert",
       "stack_out": [
         "awst_tmp%0#0",
         "tmp%0#0"
       ]
     },
-    "381": {
+    "385": {
       "retsub": true,
       "op": "retsub"
     },
-    "382": {
+    "386": {
       "block": "contract_is_receiver_else_body@6",
       "stack_in": [
         "awst_tmp%0#0",
@@ -675,7 +679,7 @@
         "txn#0 (copy)"
       ]
     },
-    "384": {
+    "388": {
       "op": "gtxns AssetReceiver",
       "defined_out": [
         "tmp%7#0"
@@ -686,7 +690,7 @@
         "tmp%7#0"
       ]
     },
-    "386": {
+    "390": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "tmp%7#0",
@@ -699,7 +703,7 @@
         "tmp%8#0"
       ]
     },
-    "388": {
+    "392": {
       "op": "==",
       "defined_out": [
         "tmp%9#0"
@@ -710,18 +714,18 @@
         "tmp%9#0"
       ]
     },
-    "389": {
+    "393": {
       "op": "assert",
       "stack_out": [
         "awst_tmp%0#0",
         "tmp%0#0"
       ]
     },
-    "390": {
+    "394": {
       "retsub": true,
       "op": "retsub"
     },
-    "391": {
+    "395": {
       "block": "contract_is_receiver_bool_false@3",
       "stack_in": [
         "awst_tmp%0#0",
@@ -737,10 +741,10 @@
         "or_result%0#0"
       ]
     },
-    "392": {
+    "396": {
       "op": "b contract_is_receiver_bool_merge@4"
     },
-    "395": {
+    "399": {
       "subroutine": "contract.refund_excess_mbr",
       "params": {
         "pre_mbr#0": "uint64",
@@ -751,7 +755,7 @@
       "stack_in": [],
       "op": "proto 3 0"
     },
-    "398": {
+    "402": {
       "op": "frame_dig -2",
       "defined_out": [
         "post_mbr#0 (copy)"
@@ -760,7 +764,7 @@
         "post_mbr#0 (copy)"
       ]
     },
-    "400": {
+    "404": {
       "op": "frame_dig -3",
       "defined_out": [
         "post_mbr#0 (copy)",
@@ -771,7 +775,7 @@
         "pre_mbr#0 (copy)"
       ]
     },
-    "402": {
+    "406": {
       "op": "-",
       "defined_out": [
         "mbr_used#0"
@@ -780,7 +784,7 @@
         "mbr_used#0"
       ]
     },
-    "403": {
+    "407": {
       "op": "frame_dig -1",
       "defined_out": [
         "mbr_payment#0 (copy)",
@@ -791,7 +795,7 @@
         "mbr_payment#0 (copy)"
       ]
     },
-    "405": {
+    "409": {
       "op": "gtxns Amount",
       "defined_out": [
         "mbr_used#0",
@@ -802,14 +806,14 @@
         "tmp%1#0"
       ]
     },
-    "407": {
+    "411": {
       "op": "swap",
       "stack_out": [
         "tmp%1#0",
         "mbr_used#0"
       ]
     },
-    "408": {
+    "412": {
       "op": "-",
       "defined_out": [
         "excess#0"
@@ -818,10 +822,10 @@
         "excess#0"
       ]
     },
-    "409": {
+    "413": {
       "op": "itxn_begin"
     },
-    "410": {
+    "414": {
       "op": "txn Sender",
       "defined_out": [
         "excess#0",
@@ -832,14 +836,14 @@
         "inner_txn_params%0%%param_Receiver_idx_0#0"
       ]
     },
-    "412": {
+    "416": {
       "op": "itxn_field Receiver"
     },
-    "414": {
+    "418": {
       "op": "itxn_field Amount",
       "stack_out": []
     },
-    "416": {
+    "420": {
       "op": "intc_1 // pay",
       "defined_out": [
         "pay"
@@ -848,11 +852,11 @@
         "pay"
       ]
     },
-    "417": {
+    "421": {
       "op": "itxn_field TypeEnum",
       "stack_out": []
     },
-    "419": {
+    "423": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0"
@@ -861,18 +865,18 @@
         "0"
       ]
     },
-    "420": {
+    "424": {
       "op": "itxn_field Fee",
       "stack_out": []
     },
-    "422": {
+    "426": {
       "op": "itxn_submit"
     },
-    "423": {
+    "427": {
       "retsub": true,
       "op": "retsub"
     },
-    "424": {
+    "428": {
       "subroutine": "contract.itoa",
       "params": {
         "i#0": "uint64"
@@ -881,7 +885,7 @@
       "stack_in": [],
       "op": "proto 1 1"
     },
-    "427": {
+    "431": {
       "op": "frame_dig -1",
       "defined_out": [
         "i#0 (copy)"
@@ -890,7 +894,7 @@
         "i#0 (copy)"
       ]
     },
-    "429": {
+    "433": {
       "op": "pushint 10 // 10",
       "defined_out": [
         "10",
@@ -901,7 +905,7 @@
         "10"
       ]
     },
-    "431": {
+    "435": {
       "op": "<",
       "defined_out": [
         "tmp%1#0"
@@ -910,12 +914,12 @@
         "tmp%1#0"
       ]
     },
-    "432": {
+    "436": {
       "op": "bz itoa_after_if_else@2",
       "stack_out": []
     },
-    "435": {
-      "op": "bytec 8 // 0x30313233343536373839",
+    "439": {
+      "op": "bytec 9 // 0x30313233343536373839",
       "defined_out": [
         "0x30313233343536373839"
       ],
@@ -923,14 +927,14 @@
         "0x30313233343536373839"
       ]
     },
-    "437": {
+    "441": {
       "op": "frame_dig -1",
       "stack_out": [
         "0x30313233343536373839",
         "i#0 (copy)"
       ]
     },
-    "439": {
+    "443": {
       "op": "intc_1 // 1",
       "defined_out": [
         "0x30313233343536373839",
@@ -943,7 +947,7 @@
         "1"
       ]
     },
-    "440": {
+    "444": {
       "op": "extract3",
       "defined_out": [
         "extract%0#0"
@@ -952,11 +956,11 @@
         "extract%0#0"
       ]
     },
-    "441": {
+    "445": {
       "retsub": true,
       "op": "retsub"
     },
-    "442": {
+    "446": {
       "block": "itoa_after_if_else@2",
       "stack_in": [],
       "op": "frame_dig -1",
@@ -967,7 +971,7 @@
         "i#0 (copy)"
       ]
     },
-    "444": {
+    "448": {
       "op": "pushint 10 // 10",
       "defined_out": [
         "10",
@@ -978,7 +982,7 @@
         "10"
       ]
     },
-    "446": {
+    "450": {
       "op": "/",
       "defined_out": [
         "tmp%2#0"
@@ -987,7 +991,7 @@
         "tmp%2#0"
       ]
     },
-    "447": {
+    "451": {
       "callsub": "contract.itoa",
       "op": "callsub itoa",
       "defined_out": [
@@ -997,14 +1001,14 @@
         "tmp%3#0"
       ]
     },
-    "450": {
+    "454": {
       "op": "frame_dig -1",
       "stack_out": [
         "tmp%3#0",
         "i#0 (copy)"
       ]
     },
-    "452": {
+    "456": {
       "op": "pushint 10 // 10",
       "stack_out": [
         "tmp%3#0",
@@ -1012,7 +1016,7 @@
         "10"
       ]
     },
-    "454": {
+    "458": {
       "op": "%",
       "defined_out": [
         "tmp%3#0",
@@ -1023,8 +1027,8 @@
         "tmp%4#0"
       ]
     },
-    "455": {
-      "op": "bytec 8 // 0x30313233343536373839",
+    "459": {
+      "op": "bytec 9 // 0x30313233343536373839",
       "defined_out": [
         "0x30313233343536373839",
         "tmp%3#0",
@@ -1036,7 +1040,7 @@
         "0x30313233343536373839"
       ]
     },
-    "457": {
+    "461": {
       "op": "swap",
       "stack_out": [
         "tmp%3#0",
@@ -1044,7 +1048,7 @@
         "tmp%4#0"
       ]
     },
-    "458": {
+    "462": {
       "op": "intc_1 // 1",
       "defined_out": [
         "0x30313233343536373839",
@@ -1059,7 +1063,7 @@
         "1"
       ]
     },
-    "459": {
+    "463": {
       "op": "extract3",
       "defined_out": [
         "extract%1#0",
@@ -1070,7 +1074,7 @@
         "extract%1#0"
       ]
     },
-    "460": {
+    "464": {
       "op": "concat",
       "defined_out": [
         "tmp%5#0"
@@ -1079,11 +1083,11 @@
         "tmp%5#0"
       ]
     },
-    "461": {
+    "465": {
       "retsub": true,
       "op": "retsub"
     },
-    "462": {
+    "466": {
       "subroutine": "contract.Eco.mint_eco[routing]",
       "params": {},
       "block": "mint_eco",
@@ -1096,7 +1100,7 @@
         "tmp%0#0"
       ]
     },
-    "464": {
+    "468": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -1107,7 +1111,7 @@
         "1"
       ]
     },
-    "465": {
+    "469": {
       "op": "-",
       "defined_out": [
         "mbr_payment#0"
@@ -1116,11 +1120,11 @@
         "mbr_payment#0"
       ]
     },
-    "466": {
+    "470": {
       "callsub": "contract.is_creator",
       "op": "callsub is_creator"
     },
-    "469": {
+    "473": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -1131,28 +1135,28 @@
         "mbr_payment#0 (copy)"
       ]
     },
-    "470": {
+    "474": {
       "callsub": "contract.contract_is_receiver",
       "op": "callsub contract_is_receiver",
       "stack_out": [
         "mbr_payment#0"
       ]
     },
-    "473": {
+    "477": {
       "op": "dup",
       "stack_out": [
         "mbr_payment#0",
         "mbr_payment#0 (copy)"
       ]
     },
-    "474": {
+    "478": {
       "op": "gtxns TypeEnum",
       "stack_out": [
         "mbr_payment#0",
         "tmp%0#0"
       ]
     },
-    "476": {
+    "480": {
       "op": "intc_1 // pay",
       "defined_out": [
         "mbr_payment#0",
@@ -1165,7 +1169,7 @@
         "pay"
       ]
     },
-    "477": {
+    "481": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -1176,13 +1180,13 @@
         "tmp%1#0"
       ]
     },
-    "478": {
+    "482": {
       "op": "assert",
       "stack_out": [
         "mbr_payment#0"
       ]
     },
-    "479": {
+    "483": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "mbr_payment#0",
@@ -1193,7 +1197,7 @@
         "tmp%0#2"
       ]
     },
-    "481": {
+    "485": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -1206,7 +1210,7 @@
         "check%0#0"
       ]
     },
-    "483": {
+    "487": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -1214,10 +1218,10 @@
         "pre_mbr#0"
       ]
     },
-    "484": {
+    "488": {
       "op": "itxn_begin"
     },
-    "485": {
+    "489": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -1230,7 +1234,7 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "487": {
+    "491": {
       "op": "dup",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -1245,7 +1249,7 @@
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "488": {
+    "492": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
@@ -1262,7 +1266,7 @@
         "0"
       ]
     },
-    "489": {
+    "493": {
       "op": "itxn_field ConfigAssetDefaultFrozen",
       "stack_out": [
         "mbr_payment#0",
@@ -1271,7 +1275,7 @@
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "491": {
+    "495": {
       "op": "itxn_field ConfigAssetReserve",
       "stack_out": [
         "mbr_payment#0",
@@ -1279,14 +1283,14 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "493": {
+    "497": {
       "op": "itxn_field ConfigAssetManager",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "495": {
+    "499": {
       "op": "intc_0 // 0",
       "stack_out": [
         "mbr_payment#0",
@@ -1294,14 +1298,14 @@
         "0"
       ]
     },
-    "496": {
+    "500": {
       "op": "itxn_field ConfigAssetDecimals",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "498": {
+    "502": {
       "op": "pushint 18446744073709551615 // 18446744073709551615",
       "defined_out": [
         "18446744073709551615",
@@ -1314,15 +1318,15 @@
         "18446744073709551615"
       ]
     },
-    "509": {
+    "513": {
       "op": "itxn_field ConfigAssetTotal",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "511": {
-      "op": "bytec 9 // \"ECO\"",
+    "515": {
+      "op": "bytec 10 // \"ECO\"",
       "defined_out": [
         "\"ECO\"",
         "mbr_payment#0",
@@ -1334,29 +1338,29 @@
         "\"ECO\""
       ]
     },
-    "513": {
+    "517": {
       "op": "itxn_field ConfigAssetUnitName",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "515": {
-      "op": "bytec 9 // \"ECO\"",
+    "519": {
+      "op": "bytec 10 // \"ECO\"",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0",
         "\"ECO\""
       ]
     },
-    "517": {
+    "521": {
       "op": "itxn_field ConfigAssetName",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "519": {
+    "523": {
       "op": "intc_2 // acfg",
       "defined_out": [
         "acfg",
@@ -1369,14 +1373,14 @@
         "acfg"
       ]
     },
-    "520": {
+    "524": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "522": {
+    "526": {
       "op": "intc_0 // 0",
       "stack_out": [
         "mbr_payment#0",
@@ -1384,18 +1388,18 @@
         "0"
       ]
     },
-    "523": {
+    "527": {
       "op": "itxn_field Fee",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "525": {
+    "529": {
       "op": "itxn_submit"
     },
-    "526": {
-      "op": "bytec_1 // \"eco_token\"",
+    "530": {
+      "op": "bytec_0 // \"eco_token\"",
       "defined_out": [
         "\"eco_token\"",
         "mbr_payment#0",
@@ -1407,7 +1411,7 @@
         "\"eco_token\""
       ]
     },
-    "527": {
+    "531": {
       "op": "itxn CreatedAssetID",
       "defined_out": [
         "\"eco_token\"",
@@ -1422,14 +1426,14 @@
         "create_eco_txn.CreatedAssetID#0"
       ]
     },
-    "529": {
+    "533": {
       "op": "app_global_put",
       "stack_out": [
         "mbr_payment#0",
         "pre_mbr#0"
       ]
     },
-    "530": {
+    "534": {
       "op": "global CurrentApplicationAddress",
       "stack_out": [
         "mbr_payment#0",
@@ -1437,7 +1441,7 @@
         "tmp%0#2"
       ]
     },
-    "532": {
+    "536": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -1452,7 +1456,7 @@
         "check%0#0"
       ]
     },
-    "534": {
+    "538": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -1461,7 +1465,7 @@
         "post_mbr#0"
       ]
     },
-    "535": {
+    "539": {
       "op": "uncover 2",
       "stack_out": [
         "pre_mbr#0",
@@ -1469,25 +1473,25 @@
         "mbr_payment#0"
       ]
     },
-    "537": {
+    "541": {
       "callsub": "contract.refund_excess_mbr",
       "op": "callsub refund_excess_mbr",
       "stack_out": []
     },
-    "540": {
+    "544": {
       "op": "intc_0 // 0",
       "stack_out": [
         "0"
       ]
     },
-    "541": {
-      "op": "bytec_1 // \"eco_token\"",
+    "545": {
+      "op": "bytec_0 // \"eco_token\"",
       "stack_out": [
         "0",
         "\"eco_token\""
       ]
     },
-    "542": {
+    "546": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -1498,14 +1502,14 @@
         "maybe_exists%0#0"
       ]
     },
-    "543": {
+    "547": {
       "error": "check self.eco_token exists",
       "op": "assert // check self.eco_token exists",
       "stack_out": [
         "maybe_value%0#0"
       ]
     },
-    "544": {
+    "548": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%0#0"
@@ -1514,8 +1518,8 @@
         "aggregate%val_as_bytes%0#0"
       ]
     },
-    "545": {
-      "op": "pushbytes 0x151f7c75",
+    "549": {
+      "op": "bytec 11 // 0x151f7c75",
       "defined_out": [
         "0x151f7c75",
         "aggregate%val_as_bytes%0#0"
@@ -1741,7 +1745,7 @@
       ]
     },
     "581": {
-      "op": "bytec 6 // \"pool_logicsig_template\"",
+      "op": "bytec 7 // \"pool_logicsig_template\"",
       "defined_out": [
         "\"pool_logicsig_template\"",
         "0",
@@ -2113,7 +2117,7 @@
       ]
     },
     "613": {
-      "op": "bytec 7 // \"tinyman_router\"",
+      "op": "bytec 8 // \"tinyman_router\"",
       "defined_out": [
         "\"tinyman_router\"",
         "0",
@@ -2282,7 +2286,7 @@
       ]
     },
     "624": {
-      "op": "bytec_1 // \"eco_token\"",
+      "op": "bytec_0 // \"eco_token\"",
       "defined_out": [
         "\"eco_token\"",
         "0",
@@ -2450,7 +2454,7 @@
       ]
     },
     "633": {
-      "op": "bytec 10 // 0x0000000000000000",
+      "op": "pushbytes 0x0000000000000000",
       "defined_out": [
         "0x0000000000000000",
         "length%0#0",
@@ -2474,7 +2478,7 @@
         "0x0000000000000000"
       ]
     },
-    "635": {
+    "643": {
       "op": "concat",
       "defined_out": [
         "length%0#0",
@@ -2497,7 +2501,7 @@
         "tmp%5#0"
       ]
     },
-    "636": {
+    "644": {
       "op": "pushint 27 // 27",
       "defined_out": [
         "27",
@@ -2522,7 +2526,7 @@
         "27"
       ]
     },
-    "638": {
+    "646": {
       "op": "dig 4",
       "stack_out": [
         "cursor#0",
@@ -2538,7 +2542,7 @@
         "length%0#0 (copy)"
       ]
     },
-    "640": {
+    "648": {
       "op": ">=",
       "defined_out": [
         "is_out_of_bounds%2#0",
@@ -2563,7 +2567,7 @@
         "is_out_of_bounds%2#0"
       ]
     },
-    "641": {
+    "649": {
       "op": "pushint 27 // 27",
       "stack_out": [
         "cursor#0",
@@ -2579,7 +2583,7 @@
         "27"
       ]
     },
-    "643": {
+    "651": {
       "op": "dig 5",
       "stack_out": [
         "cursor#0",
@@ -2596,7 +2600,7 @@
         "length%0#0 (copy)"
       ]
     },
-    "645": {
+    "653": {
       "op": "uncover 2",
       "stack_out": [
         "cursor#0",
@@ -2613,7 +2617,7 @@
         "is_out_of_bounds%2#0"
       ]
     },
-    "647": {
+    "655": {
       "op": "select",
       "defined_out": [
         "bounded_index%2#0",
@@ -2638,7 +2642,7 @@
         "bounded_index%2#0"
       ]
     },
-    "648": {
+    "656": {
       "op": "uncover 5",
       "stack_out": [
         "cursor#0",
@@ -2653,7 +2657,7 @@
         "program_bytes#0"
       ]
     },
-    "650": {
+    "658": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -2668,7 +2672,7 @@
         "bounded_index%2#0"
       ]
     },
-    "651": {
+    "659": {
       "op": "uncover 5",
       "stack_out": [
         "cursor#0",
@@ -2683,7 +2687,7 @@
         "length%0#0"
       ]
     },
-    "653": {
+    "661": {
       "op": "substring3",
       "defined_out": [
         "maybe_value%1#0",
@@ -2704,7 +2708,7 @@
         "tmp%6#0"
       ]
     },
-    "654": {
+    "662": {
       "op": "concat",
       "stack_out": [
         "cursor#0",
@@ -2716,7 +2720,7 @@
         "program_bytes#0"
       ]
     },
-    "655": {
+    "663": {
       "op": "pushbytes 0x50726f6772616d",
       "defined_out": [
         "0x50726f6772616d",
@@ -2737,7 +2741,7 @@
         "0x50726f6772616d"
       ]
     },
-    "664": {
+    "672": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -2750,7 +2754,7 @@
         "program_bytes#0"
       ]
     },
-    "665": {
+    "673": {
       "op": "concat",
       "defined_out": [
         "maybe_value%1#0",
@@ -2769,7 +2773,7 @@
         "tmp%8#0"
       ]
     },
-    "666": {
+    "674": {
       "op": "sha512_256",
       "defined_out": [
         "maybe_value%1#0",
@@ -2788,7 +2792,7 @@
         "pool_address#0"
       ]
     },
-    "667": {
+    "675": {
       "op": "dup",
       "defined_out": [
         "maybe_value%1#0",
@@ -2809,7 +2813,7 @@
         "pool_address#0 (copy)"
       ]
     },
-    "668": {
+    "676": {
       "op": "dig 3",
       "stack_out": [
         "cursor#0",
@@ -2823,7 +2827,7 @@
         "maybe_value%1#0 (copy)"
       ]
     },
-    "670": {
+    "678": {
       "op": "pushbytes 0x706f6f6c5f746f6b656e5f61737365745f6964",
       "defined_out": [
         "0x706f6f6c5f746f6b656e5f61737365745f6964",
@@ -2848,7 +2852,7 @@
         "0x706f6f6c5f746f6b656e5f61737365745f6964"
       ]
     },
-    "691": {
+    "699": {
       "op": "app_local_get_ex",
       "defined_out": [
         "LP_token_id#0",
@@ -2871,7 +2875,7 @@
         "tmp%1#1"
       ]
     },
-    "692": {
+    "700": {
       "op": "pop",
       "stack_out": [
         "cursor#0",
@@ -2884,7 +2888,7 @@
         "LP_token_id#0"
       ]
     },
-    "693": {
+    "701": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "LP_token_id#0",
@@ -2907,10 +2911,10 @@
         "optin_lp%%param_AssetReceiver_idx_0#0"
       ]
     },
-    "695": {
+    "703": {
       "op": "itxn_begin"
     },
-    "696": {
+    "704": {
       "op": "itxn_field AssetReceiver",
       "stack_out": [
         "cursor#0",
@@ -2923,7 +2927,7 @@
         "LP_token_id#0"
       ]
     },
-    "698": {
+    "706": {
       "op": "dup",
       "defined_out": [
         "LP_token_id#0",
@@ -2946,7 +2950,7 @@
         "LP_token_id#0 (copy)"
       ]
     },
-    "699": {
+    "707": {
       "op": "itxn_field XferAsset",
       "stack_out": [
         "cursor#0",
@@ -2959,7 +2963,7 @@
         "LP_token_id#0"
       ]
     },
-    "701": {
+    "709": {
       "op": "intc_3 // axfer",
       "defined_out": [
         "LP_token_id#0",
@@ -2982,7 +2986,7 @@
         "axfer"
       ]
     },
-    "702": {
+    "710": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -2995,7 +2999,7 @@
         "LP_token_id#0"
       ]
     },
-    "704": {
+    "712": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3009,7 +3013,7 @@
         "0"
       ]
     },
-    "705": {
+    "713": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -3022,10 +3026,10 @@
         "LP_token_id#0"
       ]
     },
-    "707": {
+    "715": {
       "op": "itxn_next"
     },
-    "708": {
+    "716": {
       "op": "pushint 9223372036854775808 // 9223372036854775808",
       "defined_out": [
         "9223372036854775808",
@@ -3048,7 +3052,7 @@
         "9223372036854775808"
       ]
     },
-    "719": {
+    "727": {
       "op": "itxn_field AssetAmount",
       "stack_out": [
         "cursor#0",
@@ -3061,7 +3065,7 @@
         "LP_token_id#0"
       ]
     },
-    "721": {
+    "729": {
       "op": "dig 1",
       "stack_out": [
         "cursor#0",
@@ -3075,7 +3079,7 @@
         "pool_address#0 (copy)"
       ]
     },
-    "723": {
+    "731": {
       "op": "itxn_field AssetReceiver",
       "stack_out": [
         "cursor#0",
@@ -3088,7 +3092,7 @@
         "LP_token_id#0"
       ]
     },
-    "725": {
+    "733": {
       "op": "uncover 2",
       "stack_out": [
         "cursor#0",
@@ -3101,7 +3105,7 @@
         "maybe_value%2#0"
       ]
     },
-    "727": {
+    "735": {
       "op": "itxn_field XferAsset",
       "stack_out": [
         "cursor#0",
@@ -3113,7 +3117,7 @@
         "LP_token_id#0"
       ]
     },
-    "729": {
+    "737": {
       "op": "intc_3 // axfer",
       "stack_out": [
         "cursor#0",
@@ -3126,7 +3130,7 @@
         "axfer"
       ]
     },
-    "730": {
+    "738": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -3138,7 +3142,7 @@
         "LP_token_id#0"
       ]
     },
-    "732": {
+    "740": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3151,7 +3155,7 @@
         "0"
       ]
     },
-    "733": {
+    "741": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -3163,10 +3167,10 @@
         "LP_token_id#0"
       ]
     },
-    "735": {
+    "743": {
       "op": "itxn_next"
     },
-    "736": {
+    "744": {
       "op": "intc 4 // 1000000",
       "defined_out": [
         "1000000",
@@ -3187,7 +3191,7 @@
         "1000000"
       ]
     },
-    "738": {
+    "746": {
       "op": "itxn_field Amount",
       "stack_out": [
         "cursor#0",
@@ -3199,7 +3203,7 @@
         "LP_token_id#0"
       ]
     },
-    "740": {
+    "748": {
       "op": "dig 1",
       "stack_out": [
         "cursor#0",
@@ -3212,7 +3216,7 @@
         "pool_address#0 (copy)"
       ]
     },
-    "742": {
+    "750": {
       "op": "itxn_field Receiver",
       "stack_out": [
         "cursor#0",
@@ -3224,7 +3228,7 @@
         "LP_token_id#0"
       ]
     },
-    "744": {
+    "752": {
       "op": "intc_1 // pay",
       "stack_out": [
         "cursor#0",
@@ -3237,7 +3241,7 @@
         "pay"
       ]
     },
-    "745": {
+    "753": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -3249,7 +3253,7 @@
         "LP_token_id#0"
       ]
     },
-    "747": {
+    "755": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3262,7 +3266,7 @@
         "0"
       ]
     },
-    "748": {
+    "756": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -3274,10 +3278,10 @@
         "LP_token_id#0"
       ]
     },
-    "750": {
+    "758": {
       "op": "itxn_next"
     },
-    "751": {
+    "759": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -3289,7 +3293,7 @@
         "pool_address#0"
       ]
     },
-    "752": {
+    "760": {
       "op": "itxn_field Accounts",
       "stack_out": [
         "cursor#0",
@@ -3300,7 +3304,7 @@
         "LP_token_id#0"
       ]
     },
-    "754": {
+    "762": {
       "op": "dup",
       "stack_out": [
         "cursor#0",
@@ -3312,7 +3316,7 @@
         "LP_token_id#0 (copy)"
       ]
     },
-    "755": {
+    "763": {
       "op": "itxn_field Assets",
       "stack_out": [
         "cursor#0",
@@ -3323,7 +3327,7 @@
         "LP_token_id#0"
       ]
     },
-    "757": {
+    "765": {
       "op": "pushbytes 0x6164645f696e697469616c5f6c6971756964697479",
       "defined_out": [
         "0x6164645f696e697469616c5f6c6971756964697479",
@@ -3342,7 +3346,7 @@
         "0x6164645f696e697469616c5f6c6971756964697479"
       ]
     },
-    "780": {
+    "788": {
       "op": "itxn_field ApplicationArgs",
       "stack_out": [
         "cursor#0",
@@ -3353,7 +3357,7 @@
         "LP_token_id#0"
       ]
     },
-    "782": {
+    "790": {
       "op": "intc_0 // NoOp",
       "defined_out": [
         "LP_token_id#0",
@@ -3372,7 +3376,7 @@
         "NoOp"
       ]
     },
-    "783": {
+    "791": {
       "op": "itxn_field OnCompletion",
       "stack_out": [
         "cursor#0",
@@ -3383,7 +3387,7 @@
         "LP_token_id#0"
       ]
     },
-    "785": {
+    "793": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -3394,7 +3398,7 @@
         "maybe_value%1#0"
       ]
     },
-    "786": {
+    "794": {
       "op": "itxn_field ApplicationID",
       "stack_out": [
         "cursor#0",
@@ -3404,7 +3408,7 @@
         "LP_token_id#0"
       ]
     },
-    "788": {
+    "796": {
       "op": "pushint 6 // appl",
       "defined_out": [
         "LP_token_id#0",
@@ -3421,7 +3425,7 @@
         "appl"
       ]
     },
-    "790": {
+    "798": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -3431,7 +3435,7 @@
         "LP_token_id#0"
       ]
     },
-    "792": {
+    "800": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3442,7 +3446,7 @@
         "0"
       ]
     },
-    "793": {
+    "801": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -3452,10 +3456,10 @@
         "LP_token_id#0"
       ]
     },
-    "795": {
+    "803": {
       "op": "itxn_submit"
     },
-    "796": {
+    "804": {
       "op": "bytec 4 // \"eco_lp_token\"",
       "defined_out": [
         "\"eco_lp_token\"",
@@ -3472,7 +3476,7 @@
         "\"eco_lp_token\""
       ]
     },
-    "798": {
+    "806": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -3483,7 +3487,7 @@
         "LP_token_id#0"
       ]
     },
-    "799": {
+    "807": {
       "op": "app_global_put",
       "stack_out": [
         "cursor#0",
@@ -3492,7 +3496,7 @@
         "pre_mbr#0"
       ]
     },
-    "800": {
+    "808": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3502,7 +3506,7 @@
         "0"
       ]
     },
-    "801": {
+    "809": {
       "op": "bytec_2 // \"plot_count\"",
       "defined_out": [
         "\"plot_count\"",
@@ -3519,7 +3523,7 @@
         "\"plot_count\""
       ]
     },
-    "802": {
+    "810": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -3536,7 +3540,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "803": {
+    "811": {
       "error": "check self.plot_count exists",
       "op": "assert // check self.plot_count exists",
       "stack_out": [
@@ -3547,7 +3551,7 @@
         "maybe_value%0#2"
       ]
     },
-    "804": {
+    "812": {
       "callsub": "contract.itoa",
       "op": "callsub itoa",
       "defined_out": [
@@ -3563,7 +3567,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "807": {
+    "815": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -3579,7 +3583,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "808": {
+    "816": {
       "op": "bytec_3 // 0x",
       "defined_out": [
         "mbr_payment#0",
@@ -3597,7 +3601,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "809": {
+    "817": {
       "op": "swap",
       "defined_out": [
         "mbr_payment#0",
@@ -3615,7 +3619,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "810": {
+    "818": {
       "op": "len",
       "defined_out": [
         "mbr_payment#0",
@@ -3634,7 +3638,7 @@
         "tmp%1#2"
       ]
     },
-    "811": {
+    "819": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -3654,7 +3658,7 @@
         "tmp%1#2"
       ]
     },
-    "812": {
+    "820": {
       "op": "intc_2 // 3",
       "stack_out": [
         "cursor#0",
@@ -3668,7 +3672,7 @@
         "3"
       ]
     },
-    "813": {
+    "821": {
       "op": "<=",
       "defined_out": [
         "mbr_payment#0",
@@ -3689,7 +3693,7 @@
         "tmp%2#2"
       ]
     },
-    "814": {
+    "822": {
       "op": "bz bootstrap_via_outer_and_add_initial_liquidity_else_body@7",
       "stack_out": [
         "cursor#0",
@@ -3701,7 +3705,7 @@
         "tmp%1#2"
       ]
     },
-    "817": {
+    "825": {
       "op": "dig 2",
       "stack_out": [
         "cursor#0",
@@ -3714,7 +3718,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "819": {
+    "827": {
       "op": "bury 2",
       "stack_out": [
         "cursor#0",
@@ -3726,7 +3730,7 @@
         "tmp%1#2"
       ]
     },
-    "821": {
+    "829": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13",
       "stack_in": [
         "cursor#0",
@@ -3739,8 +3743,8 @@
       ],
       "op": "itxn_begin"
     },
-    "822": {
-      "op": "bytec 11 // 0x506c6f7420233a20",
+    "830": {
+      "op": "bytec 12 // 0x506c6f7420233a20",
       "defined_out": [
         "0x506c6f7420233a20"
       ],
@@ -3755,7 +3759,7 @@
         "0x506c6f7420233a20"
       ]
     },
-    "824": {
+    "832": {
       "op": "dig 2",
       "defined_out": [
         "0x506c6f7420233a20",
@@ -3773,7 +3777,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "826": {
+    "834": {
       "op": "concat",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
@@ -3790,7 +3794,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "827": {
+    "835": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -3809,7 +3813,7 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "829": {
+    "837": {
       "op": "dup",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -3830,7 +3834,7 @@
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "830": {
+    "838": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
@@ -3853,7 +3857,7 @@
         "0"
       ]
     },
-    "831": {
+    "839": {
       "op": "itxn_field ConfigAssetDefaultFrozen",
       "stack_out": [
         "cursor#0",
@@ -3868,7 +3872,7 @@
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "833": {
+    "841": {
       "op": "itxn_field ConfigAssetReserve",
       "stack_out": [
         "cursor#0",
@@ -3882,7 +3886,7 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "835": {
+    "843": {
       "op": "itxn_field ConfigAssetManager",
       "stack_out": [
         "cursor#0",
@@ -3895,7 +3899,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "837": {
+    "845": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -3909,7 +3913,7 @@
         "0"
       ]
     },
-    "838": {
+    "846": {
       "op": "itxn_field ConfigAssetDecimals",
       "stack_out": [
         "cursor#0",
@@ -3922,7 +3926,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "840": {
+    "848": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -3941,7 +3945,7 @@
         "1"
       ]
     },
-    "841": {
+    "849": {
       "op": "itxn_field ConfigAssetTotal",
       "stack_out": [
         "cursor#0",
@@ -3954,8 +3958,8 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "843": {
-      "op": "bytec 12 // \"PLOT\"",
+    "851": {
+      "op": "bytec 13 // \"PLOT\"",
       "defined_out": [
         "\"PLOT\"",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
@@ -3973,7 +3977,7 @@
         "\"PLOT\""
       ]
     },
-    "845": {
+    "853": {
       "op": "itxn_field ConfigAssetUnitName",
       "stack_out": [
         "cursor#0",
@@ -3986,7 +3990,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "847": {
+    "855": {
       "op": "itxn_field ConfigAssetName",
       "stack_out": [
         "cursor#0",
@@ -3998,7 +4002,7 @@
         "tmp%1#2"
       ]
     },
-    "849": {
+    "857": {
       "op": "intc_2 // acfg",
       "defined_out": [
         "acfg",
@@ -4015,7 +4019,7 @@
         "acfg"
       ]
     },
-    "850": {
+    "858": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -4027,7 +4031,7 @@
         "tmp%1#2"
       ]
     },
-    "852": {
+    "860": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -4040,7 +4044,7 @@
         "0"
       ]
     },
-    "853": {
+    "861": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -4052,11 +4056,11 @@
         "tmp%1#2"
       ]
     },
-    "855": {
+    "863": {
       "op": "itxn_submit"
     },
-    "856": {
-      "op": "bytec_0 // \"next_plot\"",
+    "864": {
+      "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
         "plot_count_with_commas#0"
@@ -4072,7 +4076,7 @@
         "\"next_plot\""
       ]
     },
-    "857": {
+    "865": {
       "op": "itxn CreatedAssetID",
       "defined_out": [
         "\"next_plot\"",
@@ -4091,7 +4095,7 @@
         "create_initial_plot.CreatedAssetID#0"
       ]
     },
-    "859": {
+    "867": {
       "op": "app_global_put",
       "stack_out": [
         "cursor#0",
@@ -4103,7 +4107,7 @@
         "tmp%1#2"
       ]
     },
-    "860": {
+    "868": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4120,7 +4124,7 @@
         "tmp%0#2"
       ]
     },
-    "862": {
+    "870": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -4139,7 +4143,7 @@
         "check%0#0"
       ]
     },
-    "864": {
+    "872": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -4153,7 +4157,7 @@
         "value%0#0"
       ]
     },
-    "865": {
+    "873": {
       "op": "intc 4 // 1000000",
       "defined_out": [
         "1000000",
@@ -4172,7 +4176,7 @@
         "1000000"
       ]
     },
-    "867": {
+    "875": {
       "op": "+",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4189,7 +4193,7 @@
         "post_mbr#0"
       ]
     },
-    "868": {
+    "876": {
       "op": "dig 4",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4208,7 +4212,7 @@
         "pre_mbr#0"
       ]
     },
-    "870": {
+    "878": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -4222,7 +4226,7 @@
         "post_mbr#0"
       ]
     },
-    "871": {
+    "879": {
       "op": "dig 6",
       "defined_out": [
         "mbr_payment#0",
@@ -4243,7 +4247,7 @@
         "mbr_payment#0"
       ]
     },
-    "873": {
+    "881": {
       "callsub": "contract.refund_excess_mbr",
       "op": "callsub refund_excess_mbr",
       "stack_out": [
@@ -4256,7 +4260,7 @@
         "tmp%1#2"
       ]
     },
-    "876": {
+    "884": {
       "op": "intc_1 // 1",
       "stack_out": [
         "cursor#0",
@@ -4269,7 +4273,7 @@
         "1"
       ]
     },
-    "877": {
+    "885": {
       "op": "return",
       "stack_out": [
         "cursor#0",
@@ -4281,7 +4285,7 @@
         "tmp%1#2"
       ]
     },
-    "878": {
+    "886": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_else_body@7",
       "stack_in": [
         "cursor#0",
@@ -4307,7 +4311,7 @@
         "cursor#0"
       ]
     },
-    "879": {
+    "887": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0"
@@ -4322,7 +4326,7 @@
         "tmp%1#2"
       ]
     },
-    "881": {
+    "889": {
       "op": "intc_0 // 0",
       "defined_out": [
         "cursor#0",
@@ -4339,7 +4343,7 @@
         "i#0"
       ]
     },
-    "882": {
+    "890": {
       "op": "bury 6",
       "defined_out": [
         "cursor#0",
@@ -4355,7 +4359,7 @@
         "tmp%1#2"
       ]
     },
-    "884": {
+    "892": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_for_header@8",
       "stack_in": [
         "cursor#0",
@@ -4381,7 +4385,7 @@
         "i#0"
       ]
     },
-    "886": {
+    "894": {
       "op": "dig 1",
       "defined_out": [
         "i#0",
@@ -4399,7 +4403,7 @@
         "tmp%1#2"
       ]
     },
-    "888": {
+    "896": {
       "op": "<",
       "defined_out": [
         "continue_looping%0#0",
@@ -4417,7 +4421,7 @@
         "continue_looping%0#0"
       ]
     },
-    "889": {
+    "897": {
       "op": "bz bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13",
       "stack_out": [
         "cursor#0",
@@ -4429,7 +4433,7 @@
         "tmp%1#2"
       ]
     },
-    "892": {
+    "900": {
       "op": "dig 6",
       "defined_out": [
         "cursor#0",
@@ -4447,7 +4451,7 @@
         "cursor#0"
       ]
     },
-    "894": {
+    "902": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -4467,7 +4471,7 @@
         "1"
       ]
     },
-    "895": {
+    "903": {
       "op": "+",
       "stack_out": [
         "cursor#0",
@@ -4480,7 +4484,7 @@
         "cursor#0"
       ]
     },
-    "896": {
+    "904": {
       "op": "dup",
       "stack_out": [
         "cursor#0",
@@ -4494,7 +4498,7 @@
         "cursor#0"
       ]
     },
-    "897": {
+    "905": {
       "op": "bury 8",
       "defined_out": [
         "cursor#0",
@@ -4512,7 +4516,7 @@
         "cursor#0"
       ]
     },
-    "899": {
+    "907": {
       "op": "intc_2 // 3",
       "defined_out": [
         "3",
@@ -4532,7 +4536,7 @@
         "3"
       ]
     },
-    "900": {
+    "908": {
       "op": "==",
       "defined_out": [
         "cursor#0",
@@ -4551,7 +4555,7 @@
         "tmp%5#1"
       ]
     },
-    "901": {
+    "909": {
       "op": "bz bootstrap_via_outer_and_add_initial_liquidity_after_if_else@11",
       "stack_out": [
         "cursor#0",
@@ -4563,7 +4567,7 @@
         "tmp%1#2"
       ]
     },
-    "904": {
+    "912": {
       "op": "dig 1",
       "defined_out": [
         "cursor#0",
@@ -4582,7 +4586,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "906": {
+    "914": {
       "op": "pushbytes 0x2c",
       "defined_out": [
         "0x2c",
@@ -4603,7 +4607,7 @@
         "0x2c"
       ]
     },
-    "909": {
+    "917": {
       "op": "concat",
       "stack_out": [
         "cursor#0",
@@ -4616,7 +4620,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "910": {
+    "918": {
       "op": "bury 2",
       "defined_out": [
         "cursor#0",
@@ -4634,7 +4638,7 @@
         "tmp%1#2"
       ]
     },
-    "912": {
+    "920": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -4647,7 +4651,7 @@
         "cursor#0"
       ]
     },
-    "913": {
+    "921": {
       "op": "bury 7",
       "stack_out": [
         "cursor#0",
@@ -4659,7 +4663,7 @@
         "tmp%1#2"
       ]
     },
-    "915": {
+    "923": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_after_if_else@11",
       "stack_in": [
         "cursor#0",
@@ -4685,7 +4689,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "917": {
+    "925": {
       "op": "dig 6",
       "defined_out": [
         "i#0",
@@ -4703,7 +4707,7 @@
         "i#0"
       ]
     },
-    "919": {
+    "927": {
       "op": "dup",
       "defined_out": [
         "i#0",
@@ -4723,7 +4727,7 @@
         "i#0 (copy)"
       ]
     },
-    "920": {
+    "928": {
       "op": "cover 2",
       "stack_out": [
         "cursor#0",
@@ -4738,7 +4742,7 @@
         "i#0 (copy)"
       ]
     },
-    "922": {
+    "930": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -4760,7 +4764,7 @@
         "1"
       ]
     },
-    "923": {
+    "931": {
       "op": "extract3",
       "defined_out": [
         "extract%0#0",
@@ -4779,7 +4783,7 @@
         "extract%0#0"
       ]
     },
-    "924": {
+    "932": {
       "op": "dig 3",
       "defined_out": [
         "extract%0#0",
@@ -4800,7 +4804,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "926": {
+    "934": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -4815,7 +4819,7 @@
         "extract%0#0"
       ]
     },
-    "927": {
+    "935": {
       "op": "concat",
       "stack_out": [
         "cursor#0",
@@ -4829,7 +4833,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "928": {
+    "936": {
       "op": "bury 3",
       "defined_out": [
         "i#0",
@@ -4847,7 +4851,7 @@
         "i#0"
       ]
     },
-    "930": {
+    "938": {
       "op": "intc_1 // 1",
       "stack_out": [
         "cursor#0",
@@ -4861,7 +4865,7 @@
         "1"
       ]
     },
-    "931": {
+    "939": {
       "op": "+",
       "stack_out": [
         "cursor#0",
@@ -4874,7 +4878,7 @@
         "i#0"
       ]
     },
-    "932": {
+    "940": {
       "op": "bury 6",
       "stack_out": [
         "cursor#0",
@@ -4886,10 +4890,10 @@
         "tmp%1#2"
       ]
     },
-    "934": {
+    "942": {
       "op": "b bootstrap_via_outer_and_add_initial_liquidity_for_header@8"
     },
-    "937": {
+    "945": {
       "subroutine": "contract.Eco.mint_plot[routing]",
       "params": {},
       "block": "mint_plot",
@@ -4899,14 +4903,14 @@
         "plot_count_as_string#0"
       ]
     },
-    "938": {
+    "946": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0"
       ]
     },
-    "939": {
+    "947": {
       "op": "bytec_3 // \"\"",
       "stack_out": [
         "plot_count_as_string#0",
@@ -4914,7 +4918,7 @@
         "cursor#0"
       ]
     },
-    "940": {
+    "948": {
       "op": "dupn 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -4924,7 +4928,7 @@
         "tmp%3#0"
       ]
     },
-    "942": {
+    "950": {
       "op": "txn GroupIndex",
       "defined_out": [
         "tmp%0#0"
@@ -4938,7 +4942,7 @@
         "tmp%0#0"
       ]
     },
-    "944": {
+    "952": {
       "op": "pushint 2 // 2",
       "defined_out": [
         "2",
@@ -4954,7 +4958,7 @@
         "2"
       ]
     },
-    "946": {
+    "954": {
       "op": "-",
       "defined_out": [
         "plot_payment#0"
@@ -4968,7 +4972,7 @@
         "plot_payment#0"
       ]
     },
-    "947": {
+    "955": {
       "op": "txn GroupIndex",
       "defined_out": [
         "plot_payment#0",
@@ -4984,7 +4988,7 @@
         "tmp%1#0"
       ]
     },
-    "949": {
+    "957": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -5002,7 +5006,7 @@
         "1"
       ]
     },
-    "950": {
+    "958": {
       "op": "-",
       "defined_out": [
         "mbr_payment#0",
@@ -5018,7 +5022,7 @@
         "mbr_payment#0"
       ]
     },
-    "951": {
+    "959": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5031,7 +5035,7 @@
         "mbr_payment#0"
       ]
     },
-    "952": {
+    "960": {
       "op": "cover 2",
       "defined_out": [
         "mbr_payment#0",
@@ -5048,7 +5052,7 @@
         "mbr_payment#0"
       ]
     },
-    "954": {
+    "962": {
       "op": "dig 1",
       "defined_out": [
         "mbr_payment#0",
@@ -5067,7 +5071,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "956": {
+    "964": {
       "callsub": "contract.contract_is_receiver",
       "op": "callsub contract_is_receiver",
       "stack_out": [
@@ -5081,7 +5085,7 @@
         "mbr_payment#0"
       ]
     },
-    "959": {
+    "967": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -5100,7 +5104,7 @@
         "mbr_payment#0 (copy)"
       ]
     },
-    "960": {
+    "968": {
       "callsub": "contract.contract_is_receiver",
       "op": "callsub contract_is_receiver",
       "stack_out": [
@@ -5114,7 +5118,7 @@
         "mbr_payment#0"
       ]
     },
-    "963": {
+    "971": {
       "op": "dig 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5128,7 +5132,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "965": {
+    "973": {
       "op": "gtxns TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5142,7 +5146,7 @@
         "tmp%0#0"
       ]
     },
-    "967": {
+    "975": {
       "op": "intc_1 // pay",
       "defined_out": [
         "mbr_payment#0",
@@ -5163,7 +5167,7 @@
         "pay"
       ]
     },
-    "968": {
+    "976": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5182,7 +5186,7 @@
         "tmp%1#3"
       ]
     },
-    "969": {
+    "977": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5195,7 +5199,7 @@
         "mbr_payment#0"
       ]
     },
-    "970": {
+    "978": {
       "op": "gtxns TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5208,7 +5212,7 @@
         "tmp%0#0"
       ]
     },
-    "972": {
+    "980": {
       "op": "intc_1 // pay",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5222,7 +5226,7 @@
         "pay"
       ]
     },
-    "973": {
+    "981": {
       "op": "==",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5235,7 +5239,7 @@
         "tmp%1#3"
       ]
     },
-    "974": {
+    "982": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5247,7 +5251,7 @@
         "plot_payment#0"
       ]
     },
-    "975": {
+    "983": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5260,7 +5264,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "976": {
+    "984": {
       "op": "gtxns Receiver",
       "defined_out": [
         "mbr_payment#0",
@@ -5278,7 +5282,7 @@
         "tmp%0#1"
       ]
     },
-    "978": {
+    "986": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "mbr_payment#0",
@@ -5298,7 +5302,7 @@
         "tmp%1#2"
       ]
     },
-    "980": {
+    "988": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5316,7 +5320,7 @@
         "tmp%2#0"
       ]
     },
-    "981": {
+    "989": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5328,7 +5332,7 @@
         "plot_payment#0"
       ]
     },
-    "982": {
+    "990": {
       "op": "gtxns Amount",
       "defined_out": [
         "mbr_payment#0",
@@ -5344,7 +5348,7 @@
         "tmp%3#0"
       ]
     },
-    "984": {
+    "992": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5357,7 +5361,7 @@
         "0"
       ]
     },
-    "985": {
+    "993": {
       "op": "bytec 5 // \"plot_cost\"",
       "defined_out": [
         "\"plot_cost\"",
@@ -5377,7 +5381,7 @@
         "\"plot_cost\""
       ]
     },
-    "987": {
+    "995": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -5397,7 +5401,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "988": {
+    "996": {
       "error": "check self.plot_cost exists",
       "op": "assert // check self.plot_cost exists",
       "stack_out": [
@@ -5411,7 +5415,7 @@
         "maybe_value%0#0"
       ]
     },
-    "989": {
+    "997": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5428,7 +5432,7 @@
         "tmp%4#0"
       ]
     },
-    "990": {
+    "998": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5439,7 +5443,7 @@
         "mbr_payment#0"
       ]
     },
-    "991": {
+    "999": {
       "op": "global CurrentApplicationAddress",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5451,7 +5455,7 @@
         "tmp%0#1"
       ]
     },
-    "993": {
+    "1001": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -5470,7 +5474,7 @@
         "check%0#0"
       ]
     },
-    "995": {
+    "1003": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -5483,7 +5487,7 @@
         "pre_mbr#0"
       ]
     },
-    "996": {
+    "1004": {
       "op": "pushbytes 0x70",
       "defined_out": [
         "0x70",
@@ -5502,7 +5506,7 @@
         "0x70"
       ]
     },
-    "999": {
+    "1007": {
       "op": "txn Sender",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5516,13 +5520,13 @@
         "tmp%0#1"
       ]
     },
-    "1001": {
+    "1009": {
       "op": "concat",
       "defined_out": [
-        "box#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5532,16 +5536,16 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "users_plots#0"
       ]
     },
-    "1002": {
+    "1010": {
       "op": "dup",
       "defined_out": [
-        "box#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5551,11 +5555,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0"
+        "users_plots#0",
+        "users_plots#0"
       ]
     },
-    "1003": {
+    "1011": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5565,20 +5569,20 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "0"
       ]
     },
-    "1004": {
-      "op": "bytec_0 // \"next_plot\"",
+    "1012": {
+      "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
         "0",
-        "box#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5588,13 +5592,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "0",
         "\"next_plot\""
       ]
     },
-    "1005": {
+    "1013": {
       "op": "app_global_get_ex",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5604,13 +5608,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "maybe_value%0#0",
         "maybe_exists%0#0"
       ]
     },
-    "1006": {
+    "1014": {
       "error": "check self.next_plot exists",
       "op": "assert // check self.next_plot exists",
       "stack_out": [
@@ -5621,19 +5625,19 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "maybe_value%0#0"
       ]
     },
-    "1007": {
+    "1015": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%0#0",
-        "box#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5643,20 +5647,36 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "aggregate%val_as_bytes%0#0"
       ]
     },
-    "1008": {
-      "op": "bytec 10 // 0x0000000000000000",
-      "defined_out": [
-        "0x0000000000000000",
-        "aggregate%val_as_bytes%0#0",
-        "box#0",
+    "1016": {
+      "op": "global LatestTimestamp",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
+        "users_plots#0",
+        "users_plots#0",
+        "aggregate%val_as_bytes%0#0",
         "tmp%3#0"
+      ]
+    },
+    "1018": {
+      "op": "itob",
+      "defined_out": [
+        "aggregate%val_as_bytes%0#0",
+        "aggregate%val_as_bytes%1#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5666,20 +5686,20 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "aggregate%val_as_bytes%0#0",
-        "0x0000000000000000"
+        "aggregate%val_as_bytes%1#0"
       ]
     },
-    "1010": {
+    "1019": {
       "op": "concat",
       "defined_out": [
-        "box#0",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5689,19 +5709,19 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "users_plots#0",
+        "users_plots#0",
         "plot_info#0"
       ]
     },
-    "1011": {
-      "op": "swap",
+    "1020": {
+      "op": "cover 2",
       "defined_out": [
-        "box#0",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5711,21 +5731,21 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0"
+        "users_plots#0",
+        "users_plots#0"
       ]
     },
-    "1012": {
+    "1022": {
       "op": "box_len",
       "defined_out": [
         "_%0#0",
-        "box#0",
         "maybe_exists%1#1",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5735,13 +5755,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
+        "users_plots#0",
         "_%0#0",
         "maybe_exists%1#1"
       ]
     },
-    "1013": {
+    "1023": {
       "op": "bury 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5751,12 +5771,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
+        "users_plots#0",
         "maybe_exists%1#1"
       ]
     },
-    "1015": {
+    "1025": {
       "op": "bz mint_plot_else_body@15",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5766,34 +5786,19 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "plot_info#0"
-      ]
-    },
-    "1018": {
-      "op": "dig 1",
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0"
+        "users_plots#0"
       ]
     },
-    "1020": {
+    "1028": {
       "op": "dup",
       "defined_out": [
-        "box#0",
-        "box#0 (copy)",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0",
+        "users_plots#0 (copy)"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5803,22 +5808,21 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
-        "box#0 (copy)"
+        "users_plots#0",
+        "users_plots#0 (copy)"
       ]
     },
-    "1021": {
+    "1029": {
       "op": "box_len",
       "defined_out": [
-        "box#0",
         "check%0#0",
         "initial_box_length#0",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5828,14 +5832,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
         "check%0#0"
       ]
     },
-    "1022": {
+    "1030": {
       "error": "check Box exists",
       "op": "assert // check Box exists",
       "stack_out": [
@@ -5846,22 +5849,21 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0"
       ]
     },
-    "1023": {
+    "1031": {
       "op": "dup",
       "defined_out": [
-        "box#0",
         "initial_box_length#0",
         "initial_box_length#0 (copy)",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5871,24 +5873,23 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
         "initial_box_length#0 (copy)"
       ]
     },
-    "1024": {
+    "1032": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
-        "box#0",
         "initial_box_length#0",
         "initial_box_length#0 (copy)",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
-        "tmp%3#0"
+        "tmp%3#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5898,24 +5899,23 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
         "initial_box_length#0 (copy)",
         "16"
       ]
     },
-    "1026": {
+    "1034": {
       "op": "+",
       "defined_out": [
-        "box#0",
         "initial_box_length#0",
         "mbr_payment#0",
         "plot_info#0",
         "pre_mbr#0",
         "tmp%3#0",
-        "tmp%4#2"
+        "tmp%6#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -5925,14 +5925,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
-        "tmp%4#2"
+        "tmp%6#0"
       ]
     },
-    "1027": {
+    "1035": {
       "op": "dig 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5942,15 +5941,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
-        "tmp%4#2",
-        "box#0 (copy)"
+        "tmp%6#0",
+        "users_plots#0 (copy)"
       ]
     },
-    "1029": {
+    "1037": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5960,15 +5958,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
-        "box#0 (copy)",
-        "tmp%4#2"
+        "users_plots#0 (copy)",
+        "tmp%6#0"
       ]
     },
-    "1030": {
+    "1038": {
       "op": "box_resize",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5978,13 +5975,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0"
       ]
     },
-    "1031": {
+    "1039": {
       "op": "pushint 16 // 16",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5994,15 +5990,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "initial_box_length#0",
         "16"
       ]
     },
-    "1033": {
-      "op": "uncover 3",
+    "1041": {
+      "op": "dig 3",
       "stack_out": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0",
@@ -6011,14 +6006,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "plot_info#0",
+        "users_plots#0",
         "initial_box_length#0",
         "16",
         "plot_info#0"
       ]
     },
-    "1035": {
+    "1043": {
       "op": "box_splice",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6028,10 +6023,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1036": {
+    "1044": {
       "block": "mint_plot_after_if_else@16",
       "stack_in": [
         "plot_count_as_string#0",
@@ -6041,7 +6036,7 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ],
       "op": "intc_0 // 0",
       "defined_out": [
@@ -6055,11 +6050,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "0"
       ]
     },
-    "1037": {
+    "1045": {
       "op": "bytec_2 // \"plot_count\"",
       "defined_out": [
         "\"plot_count\"",
@@ -6073,12 +6068,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "0",
         "\"plot_count\""
       ]
     },
-    "1038": {
+    "1046": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -6092,12 +6087,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "maybe_value%0#0",
         "maybe_exists%0#0"
       ]
     },
-    "1039": {
+    "1047": {
       "error": "check self.plot_count exists",
       "op": "assert // check self.plot_count exists",
       "stack_out": [
@@ -6108,11 +6103,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "maybe_value%0#0"
       ]
     },
-    "1040": {
+    "1048": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -6126,12 +6121,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "maybe_value%0#0",
         "1"
       ]
     },
-    "1041": {
+    "1049": {
       "op": "+",
       "defined_out": [
         "tmp%1#0"
@@ -6144,11 +6139,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%1#0"
       ]
     },
-    "1042": {
+    "1050": {
       "op": "bytec_2 // \"plot_count\"",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6158,12 +6153,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%1#0",
         "\"plot_count\""
       ]
     },
-    "1043": {
+    "1051": {
       "op": "dig 1",
       "defined_out": [
         "\"plot_count\"",
@@ -6178,13 +6173,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%1#0",
         "\"plot_count\"",
         "tmp%1#0 (copy)"
       ]
     },
-    "1045": {
+    "1053": {
       "op": "app_global_put",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6194,11 +6189,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%1#0"
       ]
     },
-    "1046": {
+    "1054": {
       "callsub": "contract.itoa",
       "op": "callsub itoa",
       "defined_out": [
@@ -6212,11 +6207,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0"
       ]
     },
-    "1049": {
+    "1057": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6226,12 +6221,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0",
         "plot_count_as_string#0"
       ]
     },
-    "1050": {
+    "1058": {
       "op": "bury 9",
       "defined_out": [
         "plot_count_as_string#0"
@@ -6244,11 +6239,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0"
       ]
     },
-    "1052": {
+    "1060": {
       "op": "bytec_3 // 0x",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6262,12 +6257,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1053": {
+    "1061": {
       "op": "bury 8",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6281,11 +6276,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0"
       ]
     },
-    "1055": {
+    "1063": {
       "op": "len",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6300,11 +6295,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%3#0"
       ]
     },
-    "1056": {
+    "1064": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6314,12 +6309,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%3#0",
         "tmp%3#0"
       ]
     },
-    "1057": {
+    "1065": {
       "op": "bury 5",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6334,11 +6329,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%3#0"
       ]
     },
-    "1059": {
+    "1067": {
       "op": "intc_2 // 3",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6348,12 +6343,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%3#0",
         "3"
       ]
     },
-    "1060": {
+    "1068": {
       "op": "<=",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6369,11 +6364,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%4#0"
       ]
     },
-    "1061": {
+    "1069": {
       "op": "bz mint_plot_else_body@3",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6383,10 +6378,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1064": {
+    "1072": {
       "op": "dig 7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6396,11 +6391,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1066": {
+    "1074": {
       "op": "bury 7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6410,10 +6405,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1068": {
+    "1076": {
       "block": "mint_plot_after_if_else@10",
       "stack_in": [
         "plot_count_as_string#0",
@@ -6423,12 +6418,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ],
       "op": "itxn_begin"
     },
-    "1069": {
-      "op": "bytec 11 // 0x506c6f7420233a20",
+    "1077": {
+      "op": "bytec 12 // 0x506c6f7420233a20",
       "defined_out": [
         "0x506c6f7420233a20"
       ],
@@ -6440,11 +6435,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "0x506c6f7420233a20"
       ]
     },
-    "1071": {
+    "1079": {
       "op": "dig 7",
       "defined_out": [
         "0x506c6f7420233a20",
@@ -6458,12 +6453,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "0x506c6f7420233a20",
         "plot_count_with_commas#0"
       ]
     },
-    "1073": {
+    "1081": {
       "op": "concat",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
@@ -6477,11 +6472,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1074": {
+    "1082": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -6496,12 +6491,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "1076": {
+    "1084": {
       "op": "dup",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -6517,13 +6512,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "1077": {
+    "1085": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
@@ -6540,14 +6535,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
         "0"
       ]
     },
-    "1078": {
+    "1086": {
       "op": "itxn_field ConfigAssetDefaultFrozen",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6557,13 +6552,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "1080": {
+    "1088": {
       "op": "itxn_field ConfigAssetReserve",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6573,12 +6568,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "1082": {
+    "1090": {
       "op": "itxn_field ConfigAssetManager",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6588,11 +6583,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1084": {
+    "1092": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6602,12 +6597,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "0"
       ]
     },
-    "1085": {
+    "1093": {
       "op": "itxn_field ConfigAssetDecimals",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6617,11 +6612,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1087": {
+    "1095": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -6636,12 +6631,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "1"
       ]
     },
-    "1088": {
+    "1096": {
       "op": "itxn_field ConfigAssetTotal",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6651,12 +6646,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1090": {
-      "op": "bytec 12 // \"PLOT\"",
+    "1098": {
+      "op": "bytec 13 // \"PLOT\"",
       "defined_out": [
         "\"PLOT\"",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
@@ -6670,12 +6665,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "\"PLOT\""
       ]
     },
-    "1092": {
+    "1100": {
       "op": "itxn_field ConfigAssetUnitName",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6685,11 +6680,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1094": {
+    "1102": {
       "op": "itxn_field ConfigAssetName",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6699,10 +6694,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1096": {
+    "1104": {
       "op": "intc_2 // acfg",
       "defined_out": [
         "acfg",
@@ -6716,11 +6711,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "acfg"
       ]
     },
-    "1097": {
+    "1105": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6730,10 +6725,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1099": {
+    "1107": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6743,11 +6738,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "0"
       ]
     },
-    "1100": {
+    "1108": {
       "op": "itxn_field Fee",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6757,13 +6752,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1102": {
+    "1110": {
       "op": "itxn_submit"
     },
-    "1103": {
+    "1111": {
       "op": "itxn CreatedAssetID",
       "defined_out": [
         "create_next_users_plot.CreatedAssetID#0",
@@ -6777,14 +6772,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1105": {
+    "1113": {
       "op": "itxn_begin"
     },
-    "1106": {
+    "1114": {
       "op": "txn Sender",
       "defined_out": [
         "create_next_users_plot.CreatedAssetID#0",
@@ -6799,12 +6794,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0"
       ]
     },
-    "1108": {
+    "1116": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6814,14 +6809,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "0"
       ]
     },
-    "1109": {
-      "op": "bytec_0 // \"next_plot\"",
+    "1117": {
+      "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
         "0",
@@ -6837,14 +6832,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "0",
         "\"next_plot\""
       ]
     },
-    "1110": {
+    "1118": {
       "op": "app_global_get_ex",
       "defined_out": [
         "create_next_users_plot.CreatedAssetID#0",
@@ -6861,14 +6856,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "maybe_value%2#0",
         "maybe_exists%2#0"
       ]
     },
-    "1111": {
+    "1119": {
       "error": "check self.next_plot exists",
       "op": "assert // check self.next_plot exists",
       "stack_out": [
@@ -6879,13 +6874,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "maybe_value%2#0"
       ]
     },
-    "1112": {
+    "1120": {
       "op": "itxn_field XferAsset",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6895,12 +6890,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0"
       ]
     },
-    "1114": {
+    "1122": {
       "op": "itxn_field AssetReceiver",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6910,11 +6905,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1116": {
+    "1124": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6924,12 +6919,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "1"
       ]
     },
-    "1117": {
+    "1125": {
       "op": "itxn_field AssetAmount",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6939,11 +6934,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1119": {
+    "1127": {
       "op": "intc_3 // axfer",
       "defined_out": [
         "axfer",
@@ -6958,12 +6953,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "axfer"
       ]
     },
-    "1120": {
+    "1128": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6973,11 +6968,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1122": {
+    "1130": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6987,12 +6982,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "0"
       ]
     },
-    "1123": {
+    "1131": {
       "op": "itxn_field Fee",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7002,15 +6997,15 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1125": {
+    "1133": {
       "op": "itxn_submit"
     },
-    "1126": {
-      "op": "bytec_0 // \"next_plot\"",
+    "1134": {
+      "op": "bytec_1 // \"next_plot\"",
       "stack_out": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0",
@@ -7019,12 +7014,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
         "\"next_plot\""
       ]
     },
-    "1127": {
+    "1135": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7034,12 +7029,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "\"next_plot\"",
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1128": {
+    "1136": {
       "op": "app_global_put",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7049,10 +7044,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1129": {
+    "1137": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -7066,11 +7061,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%0#1"
       ]
     },
-    "1131": {
+    "1139": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -7085,12 +7080,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "post_mbr#0",
         "check%0#0"
       ]
     },
-    "1133": {
+    "1141": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -7101,11 +7096,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "post_mbr#0"
       ]
     },
-    "1134": {
+    "1142": {
       "op": "dig 2",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -7120,12 +7115,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "post_mbr#0",
         "pre_mbr#0"
       ]
     },
-    "1136": {
+    "1144": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7135,12 +7130,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "pre_mbr#0",
         "post_mbr#0"
       ]
     },
-    "1137": {
+    "1145": {
       "op": "dig 4",
       "defined_out": [
         "mbr_payment#0",
@@ -7156,13 +7151,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "pre_mbr#0",
         "post_mbr#0",
         "mbr_payment#0"
       ]
     },
-    "1139": {
+    "1147": {
       "callsub": "contract.refund_excess_mbr",
       "op": "callsub refund_excess_mbr",
       "stack_out": [
@@ -7173,10 +7168,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1142": {
+    "1150": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7186,11 +7181,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "1"
       ]
     },
-    "1143": {
+    "1151": {
       "op": "return",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7200,10 +7195,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1144": {
+    "1152": {
       "block": "mint_plot_else_body@3",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7213,7 +7208,7 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ],
       "op": "intc_0 // 0",
       "defined_out": [
@@ -7227,11 +7222,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0"
       ]
     },
-    "1145": {
+    "1153": {
       "op": "bury 6",
       "defined_out": [
         "cursor#0"
@@ -7244,10 +7239,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1147": {
+    "1155": {
       "op": "intc_0 // 0",
       "defined_out": [
         "cursor#0",
@@ -7261,11 +7256,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0"
       ]
     },
-    "1148": {
+    "1156": {
       "op": "bury 5",
       "defined_out": [
         "cursor#0",
@@ -7279,10 +7274,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1150": {
+    "1158": {
       "block": "mint_plot_for_header@4",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7292,7 +7287,7 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ],
       "op": "dig 4",
       "defined_out": [
@@ -7306,11 +7301,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0"
       ]
     },
-    "1152": {
+    "1160": {
       "op": "dig 4",
       "defined_out": [
         "i#0",
@@ -7324,12 +7319,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "tmp%3#0"
       ]
     },
-    "1154": {
+    "1162": {
       "op": "<",
       "defined_out": [
         "continue_looping%0#0",
@@ -7344,11 +7339,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "continue_looping%0#0"
       ]
     },
-    "1155": {
+    "1163": {
       "op": "bz mint_plot_after_if_else@10",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7358,10 +7353,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1158": {
+    "1166": {
       "op": "dig 5",
       "defined_out": [
         "cursor#0",
@@ -7376,11 +7371,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0"
       ]
     },
-    "1160": {
+    "1168": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -7396,12 +7391,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0",
         "1"
       ]
     },
-    "1161": {
+    "1169": {
       "op": "+",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7411,11 +7406,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0"
       ]
     },
-    "1162": {
+    "1170": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7425,12 +7420,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0",
         "cursor#0"
       ]
     },
-    "1163": {
+    "1171": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0",
@@ -7445,11 +7440,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0"
       ]
     },
-    "1165": {
+    "1173": {
       "op": "intc_2 // 3",
       "defined_out": [
         "3",
@@ -7465,12 +7460,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0",
         "3"
       ]
     },
-    "1166": {
+    "1174": {
       "op": "==",
       "defined_out": [
         "cursor#0",
@@ -7486,11 +7481,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "tmp%7#0"
       ]
     },
-    "1167": {
+    "1175": {
       "op": "bz mint_plot_after_if_else@7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7500,10 +7495,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1170": {
+    "1178": {
       "op": "dig 6",
       "defined_out": [
         "cursor#0",
@@ -7519,11 +7514,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1172": {
+    "1180": {
       "op": "pushbytes 0x2c",
       "defined_out": [
         "0x2c",
@@ -7540,12 +7535,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_with_commas#0",
         "0x2c"
       ]
     },
-    "1175": {
+    "1183": {
       "op": "concat",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7555,11 +7550,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1176": {
+    "1184": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0",
@@ -7575,10 +7570,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1178": {
+    "1186": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7588,11 +7583,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "cursor#0"
       ]
     },
-    "1179": {
+    "1187": {
       "op": "bury 6",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7602,10 +7597,10 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1181": {
+    "1189": {
       "block": "mint_plot_after_if_else@7",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7615,7 +7610,7 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ],
       "op": "dig 7",
       "defined_out": [
@@ -7629,11 +7624,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0"
       ]
     },
-    "1183": {
+    "1191": {
       "op": "dig 5",
       "defined_out": [
         "i#0",
@@ -7647,12 +7642,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0",
         "i#0"
       ]
     },
-    "1185": {
+    "1193": {
       "op": "dup",
       "defined_out": [
         "i#0",
@@ -7667,13 +7662,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "plot_count_as_string#0",
         "i#0 (copy)",
         "i#0 (copy)"
       ]
     },
-    "1186": {
+    "1194": {
       "op": "cover 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7683,13 +7678,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "plot_count_as_string#0",
         "i#0 (copy)"
       ]
     },
-    "1188": {
+    "1196": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -7705,14 +7700,14 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "plot_count_as_string#0",
         "i#0 (copy)",
         "1"
       ]
     },
-    "1189": {
+    "1197": {
       "op": "extract3",
       "defined_out": [
         "extract%0#0",
@@ -7727,12 +7722,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "extract%0#0"
       ]
     },
-    "1190": {
+    "1198": {
       "op": "dig 8",
       "defined_out": [
         "extract%0#0",
@@ -7748,13 +7743,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "extract%0#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1192": {
+    "1200": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7764,13 +7759,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "plot_count_with_commas#0",
         "extract%0#0"
       ]
     },
-    "1193": {
+    "1201": {
       "op": "concat",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7780,12 +7775,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "plot_count_with_commas#0"
       ]
     },
-    "1194": {
+    "1202": {
       "op": "bury 8",
       "defined_out": [
         "i#0",
@@ -7800,11 +7795,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0"
       ]
     },
-    "1196": {
+    "1204": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7814,12 +7809,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0",
         "1"
       ]
     },
-    "1197": {
+    "1205": {
       "op": "+",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7829,11 +7824,11 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
+        "plot_info#0",
         "i#0"
       ]
     },
-    "1198": {
+    "1206": {
       "op": "bury 5",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7843,13 +7838,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1200": {
+    "1208": {
       "op": "b mint_plot_for_header@4"
     },
-    "1203": {
+    "1211": {
       "block": "mint_plot_else_body@15",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7859,31 +7854,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "plot_info#0"
-      ],
-      "op": "dig 1",
-      "defined_out": [
-        "box#0"
-      ],
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0"
-      ]
-    },
-    "1205": {
+        "users_plots#0"
+      ],
       "op": "dup",
       "defined_out": [
-        "box#0",
-        "box#0 (copy)"
+        "users_plots#0",
+        "users_plots#0 (copy)"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -7893,18 +7870,17 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
-        "box#0 (copy)"
+        "users_plots#0",
+        "users_plots#0 (copy)"
       ]
     },
-    "1206": {
+    "1212": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
-        "box#0",
-        "box#0 (copy)"
+        "users_plots#0",
+        "users_plots#0 (copy)"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -7914,17 +7890,16 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
-        "box#0 (copy)",
+        "users_plots#0",
+        "users_plots#0 (copy)",
         "16"
       ]
     },
-    "1208": {
+    "1214": {
       "op": "box_create",
       "defined_out": [
-        "box#0",
+        "users_plots#0",
         "{box_create}"
       ],
       "stack_out": [
@@ -7935,13 +7910,12 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "{box_create}"
       ]
     },
-    "1209": {
+    "1215": {
       "op": "pop",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7951,16 +7925,15 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0"
+        "users_plots#0"
       ]
     },
-    "1210": {
+    "1216": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
-        "box#0"
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -7970,18 +7943,17 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
         "plot_info#0",
-        "box#0",
+        "users_plots#0",
         "0"
       ]
     },
-    "1211": {
-      "op": "uncover 2",
+    "1217": {
+      "op": "dig 2",
       "defined_out": [
         "0",
-        "box#0",
-        "plot_info#0"
+        "plot_info#0",
+        "users_plots#0"
       ],
       "stack_out": [
         "plot_count_as_string#0",
@@ -7991,13 +7963,13 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0",
-        "box#0",
+        "plot_info#0",
+        "users_plots#0",
         "0",
         "plot_info#0"
       ]
     },
-    "1213": {
+    "1219": {
       "op": "box_replace",
       "stack_out": [
         "plot_count_as_string#0",
@@ -8007,11 +7979,1099 @@
         "tmp%3#0",
         "mbr_payment#0",
         "pre_mbr#0",
-        "box#0"
+        "plot_info#0"
       ]
     },
-    "1214": {
+    "1220": {
       "op": "b mint_plot_after_if_else@16"
+    },
+    "1223": {
+      "subroutine": "contract.Eco.claim_plot_rewards[routing]",
+      "params": {},
+      "block": "claim_plot_rewards",
+      "stack_in": [],
+      "op": "intc_0 // 0"
+    },
+    "1224": {
+      "op": "pushbytes 0x70"
+    },
+    "1227": {
+      "op": "txn Sender",
+      "defined_out": [
+        "0x70",
+        "tmp%0#0",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "0x70",
+        "tmp%0#0"
+      ]
+    },
+    "1229": {
+      "op": "concat",
+      "defined_out": [
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0"
+      ]
+    },
+    "1230": {
+      "op": "dup",
+      "defined_out": [
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "users_plots#0"
+      ]
+    },
+    "1231": {
+      "op": "box_len",
+      "defined_out": [
+        "check%0#0",
+        "total_reward#1",
+        "users_plots#0",
+        "value%0#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "value%0#0",
+        "check%0#0"
+      ]
+    },
+    "1232": {
+      "error": "check Box exists",
+      "op": "assert // check Box exists",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "value%0#0"
+      ]
+    },
+    "1233": {
+      "op": "pushint 16 // 16",
+      "defined_out": [
+        "16",
+        "total_reward#1",
+        "users_plots#0",
+        "value%0#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "value%0#0",
+        "16"
+      ]
+    },
+    "1235": {
+      "op": "/",
+      "defined_out": [
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1"
+      ]
+    },
+    "1236": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ]
+    },
+    "1237": {
+      "block": "claim_plot_rewards_for_header@2",
+      "stack_in": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ],
+      "op": "dup",
+      "defined_out": [
+        "i#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1238": {
+      "op": "dig 2",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "tmp%2#1"
+      ]
+    },
+    "1240": {
+      "op": "<",
+      "defined_out": [
+        "continue_looping%0#0",
+        "i#0",
+        "tmp%2#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "continue_looping%0#0"
+      ]
+    },
+    "1241": {
+      "op": "bz claim_plot_rewards_after_for@4",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ]
+    },
+    "1244": {
+      "op": "dupn 2",
+      "defined_out": [
+        "i#0",
+        "i#0 (copy)",
+        "tmp%2#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "i#0 (copy)"
+      ]
+    },
+    "1246": {
+      "op": "pushint 16 // 16",
+      "defined_out": [
+        "16",
+        "i#0",
+        "i#0 (copy)",
+        "tmp%2#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "i#0 (copy)",
+        "16"
+      ]
+    },
+    "1248": {
+      "op": "+",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1",
+        "tmp%3#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "tmp%3#0"
+      ]
+    },
+    "1249": {
+      "op": "dig 4",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1",
+        "tmp%3#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "tmp%3#0",
+        "users_plots#0"
+      ]
+    },
+    "1251": {
+      "op": "dup",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1",
+        "tmp%3#0",
+        "users_plots#0",
+        "users_plots#0 (copy)"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "tmp%3#0",
+        "users_plots#0 (copy)",
+        "users_plots#0 (copy)"
+      ]
+    },
+    "1252": {
+      "op": "cover 3",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "tmp%3#0",
+        "users_plots#0 (copy)"
+      ]
+    },
+    "1254": {
+      "op": "dig 2",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "tmp%3#0",
+        "users_plots#0 (copy)",
+        "i#0 (copy)"
+      ]
+    },
+    "1256": {
+      "op": "uncover 2",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "users_plots#0 (copy)",
+        "i#0 (copy)",
+        "tmp%3#0"
+      ]
+    },
+    "1258": {
+      "op": "box_extract",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0"
+      ]
+    },
+    "1259": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "tmp%5#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%5#0"
+      ]
+    },
+    "1261": {
+      "op": "dig 1",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "individual_plot_bytes#0 (copy)",
+        "tmp%2#1",
+        "tmp%5#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%5#0",
+        "individual_plot_bytes#0 (copy)"
+      ]
+    },
+    "1263": {
+      "op": "pushint 8 // 8",
+      "defined_out": [
+        "8",
+        "i#0",
+        "individual_plot_bytes#0",
+        "individual_plot_bytes#0 (copy)",
+        "tmp%2#1",
+        "tmp%5#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%5#0",
+        "individual_plot_bytes#0 (copy)",
+        "8"
+      ]
+    },
+    "1265": {
+      "op": "extract_uint64",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "tmp%5#0",
+        "tmp%6#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%5#0",
+        "tmp%6#0"
+      ]
+    },
+    "1266": {
+      "op": "-",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "tmp%7#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%7#0"
+      ]
+    },
+    "1267": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "tmp%7#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%7#0",
+        "0"
+      ]
+    },
+    "1268": {
+      "op": "bytec 6 // \"plot_reward_rate\"",
+      "defined_out": [
+        "\"plot_reward_rate\"",
+        "0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "tmp%7#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%7#0",
+        "0",
+        "\"plot_reward_rate\""
+      ]
+    },
+    "1270": {
+      "op": "app_global_get_ex",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "maybe_exists%0#0",
+        "maybe_value%0#0",
+        "tmp%2#1",
+        "tmp%7#0",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%7#0",
+        "maybe_value%0#0",
+        "maybe_exists%0#0"
+      ]
+    },
+    "1271": {
+      "error": "check self.plot_reward_rate exists",
+      "op": "assert // check self.plot_reward_rate exists",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%7#0",
+        "maybe_value%0#0"
+      ]
+    },
+    "1272": {
+      "op": "*",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "plot_reward#0",
+        "tmp%2#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "plot_reward#0"
+      ]
+    },
+    "1273": {
+      "op": "dig 7",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "plot_reward#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "plot_reward#0",
+        "total_reward#1"
+      ]
+    },
+    "1275": {
+      "op": "+",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "total_reward#1"
+      ]
+    },
+    "1276": {
+      "op": "bury 7",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0"
+      ]
+    },
+    "1278": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%10#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%10#0"
+      ]
+    },
+    "1280": {
+      "op": "itob",
+      "defined_out": [
+        "aggregate%val_as_bytes%0#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "individual_plot_bytes#0",
+        "aggregate%val_as_bytes%0#0"
+      ]
+    },
+    "1281": {
+      "op": "replace2 8",
+      "defined_out": [
+        "i#0",
+        "plot_info#1",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "plot_info#1"
+      ]
+    },
+    "1283": {
+      "op": "dig 1",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "plot_info#1",
+        "i#0 (copy)"
+      ]
+    },
+    "1285": {
+      "op": "pushint 8 // 8",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "plot_info#1",
+        "i#0 (copy)",
+        "8"
+      ]
+    },
+    "1287": {
+      "op": "+",
+      "defined_out": [
+        "i#0",
+        "plot_info#1",
+        "tmp%12#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "plot_info#1",
+        "tmp%12#0"
+      ]
+    },
+    "1288": {
+      "op": "uncover 3",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "plot_info#1",
+        "tmp%12#0",
+        "users_plots#0"
+      ]
+    },
+    "1290": {
+      "op": "swap",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "plot_info#1",
+        "users_plots#0",
+        "tmp%12#0"
+      ]
+    },
+    "1291": {
+      "op": "pushint 8 // 8",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "plot_info#1",
+        "users_plots#0",
+        "tmp%12#0",
+        "8"
+      ]
+    },
+    "1293": {
+      "op": "uncover 3",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "users_plots#0",
+        "tmp%12#0",
+        "8",
+        "plot_info#1"
+      ]
+    },
+    "1295": {
+      "op": "box_splice",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1296": {
+      "op": "intc_1 // 1",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0",
+        "1"
+      ]
+    },
+    "1297": {
+      "op": "+",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "i#0"
+      ]
+    },
+    "1298": {
+      "op": "bury 1",
+      "defined_out": [
+        "i#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ]
+    },
+    "1300": {
+      "op": "b claim_plot_rewards_for_header@2"
+    },
+    "1303": {
+      "block": "claim_plot_rewards_after_for@4",
+      "stack_in": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ],
+      "op": "itxn_begin"
+    },
+    "1304": {
+      "op": "intc_0 // 0",
+      "defined_out": [
+        "0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "0"
+      ]
+    },
+    "1305": {
+      "op": "bytec_0 // \"eco_token\"",
+      "defined_out": [
+        "\"eco_token\"",
+        "0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "0",
+        "\"eco_token\""
+      ]
+    },
+    "1306": {
+      "op": "app_global_get_ex",
+      "defined_out": [
+        "maybe_exists%0#0",
+        "maybe_value%0#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0",
+        "maybe_exists%0#0"
+      ]
+    },
+    "1307": {
+      "error": "check self.eco_token exists",
+      "op": "assert // check self.eco_token exists",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0"
+      ]
+    },
+    "1308": {
+      "op": "txn Sender",
+      "defined_out": [
+        "inner_txn_params%0%%param_AssetReceiver_idx_0#0",
+        "maybe_value%0#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0",
+        "inner_txn_params%0%%param_AssetReceiver_idx_0#0"
+      ]
+    },
+    "1310": {
+      "op": "itxn_field AssetReceiver",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0"
+      ]
+    },
+    "1312": {
+      "op": "dig 4",
+      "defined_out": [
+        "maybe_value%0#0",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0",
+        "total_reward#1"
+      ]
+    },
+    "1314": {
+      "op": "dup",
+      "defined_out": [
+        "maybe_value%0#0",
+        "total_reward#1",
+        "total_reward#1 (copy)"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "maybe_value%0#0",
+        "total_reward#1 (copy)",
+        "total_reward#1 (copy)"
+      ]
+    },
+    "1315": {
+      "op": "cover 2",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1",
+        "maybe_value%0#0",
+        "total_reward#1 (copy)"
+      ]
+    },
+    "1317": {
+      "op": "itxn_field AssetAmount",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1",
+        "maybe_value%0#0"
+      ]
+    },
+    "1319": {
+      "op": "itxn_field XferAsset",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1"
+      ]
+    },
+    "1321": {
+      "op": "intc_3 // axfer",
+      "defined_out": [
+        "axfer",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1",
+        "axfer"
+      ]
+    },
+    "1322": {
+      "op": "itxn_field TypeEnum",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1"
+      ]
+    },
+    "1324": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1",
+        "0"
+      ]
+    },
+    "1325": {
+      "op": "itxn_field Fee",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "total_reward#1"
+      ]
+    },
+    "1327": {
+      "op": "itxn_submit"
+    },
+    "1328": {
+      "op": "itob",
+      "defined_out": [
+        "aggregate%val_as_bytes%1#0",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "aggregate%val_as_bytes%1#0"
+      ]
+    },
+    "1329": {
+      "op": "bytec 11 // 0x151f7c75",
+      "defined_out": [
+        "0x151f7c75",
+        "aggregate%val_as_bytes%1#0",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "aggregate%val_as_bytes%1#0",
+        "0x151f7c75"
+      ]
+    },
+    "1331": {
+      "op": "swap",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "0x151f7c75",
+        "aggregate%val_as_bytes%1#0"
+      ]
+    },
+    "1332": {
+      "op": "concat",
+      "defined_out": [
+        "tmp%2#0",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "tmp%2#0"
+      ]
+    },
+    "1333": {
+      "op": "log",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ]
+    },
+    "1334": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1",
+        "total_reward#1"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "1"
+      ]
+    },
+    "1335": {
+      "op": "return",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0"
+      ]
     }
   }
 }

@@ -190,7 +190,6 @@ class Eco(ARC4Contract):
 
         return create_initial_plot.created_asset.id
 
-
     @abimethod
     def mint_plot(self, plot_payment: gtxn.Transaction, mbr_payment: gtxn.Transaction) -> None:
         contract_is_receiver(plot_payment)
@@ -240,7 +239,6 @@ class Eco(ARC4Contract):
         post_mbr = get_mbr()
         refund_excess_mbr(pre_mbr, post_mbr, mbr_payment)
 
-
     @subroutine
     def paid_for_plot(self, txn: gtxn.Transaction) -> None:
         assert txn.receiver == Global.current_application_address
@@ -249,7 +247,7 @@ class Eco(ARC4Contract):
     @subroutine
     def add_plot_to_user_inventory(self) -> None:
         users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
-        plot_info = PlotInfo(plot_id=arc4.UInt64(self.next_plot), plot_last_claim_time=arc4.UInt64(0))
+        plot_info = PlotInfo(plot_id=arc4.UInt64(self.next_plot), plot_last_claim_time=arc4.UInt64(Global.latest_timestamp))
         if users_plots:
             initial_box_length = users_plots.length
             users_plots.resize(initial_box_length + 16)
@@ -259,7 +257,6 @@ class Eco(ARC4Contract):
             users_plots.create(size=UInt64(16))
             users_plots.replace(0, plot_info.bytes)
 
-        
     @subroutine
     def get_logicsig_address(self) -> Account:
         program_bytes = self.pool_logicsig_template
@@ -273,15 +270,12 @@ class Eco(ARC4Contract):
         )
 
         return Account.from_bytes(op.sha512_256(b'Program' + program_bytes))
-    
 
     @abimethod
     def claim_plot_rewards(self) -> UInt64:
         total_reward = self.calculate_plot_reward_and_reset_claim_times()
         self.dispense_reward(total_reward)
         return total_reward
-
-
 
     @subroutine
     def calculate_plot_reward_and_reset_claim_times(self) -> UInt64:
@@ -303,5 +297,6 @@ class Eco(ARC4Contract):
             asset_amount=reward_amount,
             asset_receiver=Txn.sender
         ).submit()
+
 # class EcoMarket(ARC4Contract):
 
