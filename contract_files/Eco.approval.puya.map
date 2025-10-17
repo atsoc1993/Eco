@@ -3,7 +3,7 @@
   "sources": [
     "../contract.py"
   ],
-  "mappings": "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",
+  "mappings": "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",
   "op_pc_offset": 0,
   "pc_events": {
     "1": {
@@ -3814,30 +3814,9 @@
       ]
     },
     "837": {
-      "op": "dup",
+      "op": "dupn 2",
       "defined_out": [
-        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
-        "plot_count_with_commas#0"
-      ],
-      "stack_out": [
-        "cursor#0",
-        "i#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "tmp%1#2",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
-      ]
-    },
-    "838": {
-      "op": "intc_0 // 0",
-      "defined_out": [
-        "0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
@@ -3854,10 +3833,35 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
-        "0"
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0"
       ]
     },
     "839": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "plot_count_with_commas#0"
+      ],
+      "stack_out": [
+        "cursor#0",
+        "i#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "tmp%1#2",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
+        "1"
+      ]
+    },
+    "840": {
       "op": "itxn_field ConfigAssetDefaultFrozen",
       "stack_out": [
         "cursor#0",
@@ -3869,10 +3873,26 @@
         "tmp%1#2",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0"
+      ]
+    },
+    "842": {
+      "op": "itxn_field ConfigAssetFreeze",
+      "stack_out": [
+        "cursor#0",
+        "i#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "tmp%1#2",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "841": {
+    "844": {
       "op": "itxn_field ConfigAssetReserve",
       "stack_out": [
         "cursor#0",
@@ -3886,7 +3906,7 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "843": {
+    "846": {
       "op": "itxn_field ConfigAssetManager",
       "stack_out": [
         "cursor#0",
@@ -3899,37 +3919,10 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "845": {
-      "op": "intc_0 // 0",
-      "stack_out": [
-        "cursor#0",
-        "i#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "tmp%1#2",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "0"
-      ]
-    },
-    "846": {
-      "op": "itxn_field ConfigAssetDecimals",
-      "stack_out": [
-        "cursor#0",
-        "i#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "tmp%1#2",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
-      ]
-    },
     "848": {
-      "op": "intc_1 // 1",
+      "op": "intc_0 // 0",
       "defined_out": [
-        "1",
+        "0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "plot_count_with_commas#0"
       ],
@@ -3942,11 +3935,11 @@
         "plot_count_with_commas#0",
         "tmp%1#2",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "1"
+        "0"
       ]
     },
     "849": {
-      "op": "itxn_field ConfigAssetTotal",
+      "op": "itxn_field ConfigAssetDecimals",
       "stack_out": [
         "cursor#0",
         "i#0",
@@ -3959,6 +3952,33 @@
       ]
     },
     "851": {
+      "op": "intc_1 // 1",
+      "stack_out": [
+        "cursor#0",
+        "i#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "tmp%1#2",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "1"
+      ]
+    },
+    "852": {
+      "op": "itxn_field ConfigAssetTotal",
+      "stack_out": [
+        "cursor#0",
+        "i#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "tmp%1#2",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
+      ]
+    },
+    "854": {
       "op": "bytec 13 // \"PLOT\"",
       "defined_out": [
         "\"PLOT\"",
@@ -3977,7 +3997,7 @@
         "\"PLOT\""
       ]
     },
-    "853": {
+    "856": {
       "op": "itxn_field ConfigAssetUnitName",
       "stack_out": [
         "cursor#0",
@@ -3990,7 +4010,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "855": {
+    "858": {
       "op": "itxn_field ConfigAssetName",
       "stack_out": [
         "cursor#0",
@@ -4002,7 +4022,7 @@
         "tmp%1#2"
       ]
     },
-    "857": {
+    "860": {
       "op": "intc_2 // acfg",
       "defined_out": [
         "acfg",
@@ -4019,7 +4039,7 @@
         "acfg"
       ]
     },
-    "858": {
+    "861": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "cursor#0",
@@ -4031,7 +4051,7 @@
         "tmp%1#2"
       ]
     },
-    "860": {
+    "863": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -4044,7 +4064,7 @@
         "0"
       ]
     },
-    "861": {
+    "864": {
       "op": "itxn_field Fee",
       "stack_out": [
         "cursor#0",
@@ -4056,10 +4076,10 @@
         "tmp%1#2"
       ]
     },
-    "863": {
+    "866": {
       "op": "itxn_submit"
     },
-    "864": {
+    "867": {
       "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
@@ -4076,7 +4096,7 @@
         "\"next_plot\""
       ]
     },
-    "865": {
+    "868": {
       "op": "itxn CreatedAssetID",
       "defined_out": [
         "\"next_plot\"",
@@ -4095,7 +4115,7 @@
         "create_initial_plot.CreatedAssetID#0"
       ]
     },
-    "867": {
+    "870": {
       "op": "app_global_put",
       "stack_out": [
         "cursor#0",
@@ -4107,7 +4127,7 @@
         "tmp%1#2"
       ]
     },
-    "868": {
+    "871": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4124,7 +4144,7 @@
         "tmp%0#2"
       ]
     },
-    "870": {
+    "873": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -4143,7 +4163,7 @@
         "check%0#0"
       ]
     },
-    "872": {
+    "875": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -4157,7 +4177,7 @@
         "value%0#0"
       ]
     },
-    "873": {
+    "876": {
       "op": "intc 4 // 1000000",
       "defined_out": [
         "1000000",
@@ -4176,7 +4196,7 @@
         "1000000"
       ]
     },
-    "875": {
+    "878": {
       "op": "+",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4193,7 +4213,7 @@
         "post_mbr#0"
       ]
     },
-    "876": {
+    "879": {
       "op": "dig 4",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -4212,7 +4232,7 @@
         "pre_mbr#0"
       ]
     },
-    "878": {
+    "881": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -4226,7 +4246,7 @@
         "post_mbr#0"
       ]
     },
-    "879": {
+    "882": {
       "op": "dig 6",
       "defined_out": [
         "mbr_payment#0",
@@ -4247,7 +4267,7 @@
         "mbr_payment#0"
       ]
     },
-    "881": {
+    "884": {
       "callsub": "contract.refund_excess_mbr",
       "op": "callsub refund_excess_mbr",
       "stack_out": [
@@ -4260,7 +4280,7 @@
         "tmp%1#2"
       ]
     },
-    "884": {
+    "887": {
       "op": "intc_1 // 1",
       "stack_out": [
         "cursor#0",
@@ -4273,7 +4293,7 @@
         "1"
       ]
     },
-    "885": {
+    "888": {
       "op": "return",
       "stack_out": [
         "cursor#0",
@@ -4285,7 +4305,7 @@
         "tmp%1#2"
       ]
     },
-    "886": {
+    "889": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_else_body@7",
       "stack_in": [
         "cursor#0",
@@ -4311,7 +4331,7 @@
         "cursor#0"
       ]
     },
-    "887": {
+    "890": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0"
@@ -4326,7 +4346,7 @@
         "tmp%1#2"
       ]
     },
-    "889": {
+    "892": {
       "op": "intc_0 // 0",
       "defined_out": [
         "cursor#0",
@@ -4343,7 +4363,7 @@
         "i#0"
       ]
     },
-    "890": {
+    "893": {
       "op": "bury 6",
       "defined_out": [
         "cursor#0",
@@ -4359,7 +4379,7 @@
         "tmp%1#2"
       ]
     },
-    "892": {
+    "895": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_for_header@8",
       "stack_in": [
         "cursor#0",
@@ -4385,7 +4405,7 @@
         "i#0"
       ]
     },
-    "894": {
+    "897": {
       "op": "dig 1",
       "defined_out": [
         "i#0",
@@ -4403,7 +4423,7 @@
         "tmp%1#2"
       ]
     },
-    "896": {
+    "899": {
       "op": "<",
       "defined_out": [
         "continue_looping%0#0",
@@ -4421,7 +4441,7 @@
         "continue_looping%0#0"
       ]
     },
-    "897": {
+    "900": {
       "op": "bz bootstrap_via_outer_and_add_initial_liquidity_after_if_else@13",
       "stack_out": [
         "cursor#0",
@@ -4433,7 +4453,7 @@
         "tmp%1#2"
       ]
     },
-    "900": {
+    "903": {
       "op": "dig 6",
       "defined_out": [
         "cursor#0",
@@ -4451,7 +4471,7 @@
         "cursor#0"
       ]
     },
-    "902": {
+    "905": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -4471,7 +4491,7 @@
         "1"
       ]
     },
-    "903": {
+    "906": {
       "op": "+",
       "stack_out": [
         "cursor#0",
@@ -4484,7 +4504,7 @@
         "cursor#0"
       ]
     },
-    "904": {
+    "907": {
       "op": "dup",
       "stack_out": [
         "cursor#0",
@@ -4498,7 +4518,7 @@
         "cursor#0"
       ]
     },
-    "905": {
+    "908": {
       "op": "bury 8",
       "defined_out": [
         "cursor#0",
@@ -4516,7 +4536,7 @@
         "cursor#0"
       ]
     },
-    "907": {
+    "910": {
       "op": "intc_2 // 3",
       "defined_out": [
         "3",
@@ -4536,7 +4556,7 @@
         "3"
       ]
     },
-    "908": {
+    "911": {
       "op": "==",
       "defined_out": [
         "cursor#0",
@@ -4555,7 +4575,7 @@
         "tmp%5#1"
       ]
     },
-    "909": {
+    "912": {
       "op": "bz bootstrap_via_outer_and_add_initial_liquidity_after_if_else@11",
       "stack_out": [
         "cursor#0",
@@ -4567,7 +4587,7 @@
         "tmp%1#2"
       ]
     },
-    "912": {
+    "915": {
       "op": "dig 1",
       "defined_out": [
         "cursor#0",
@@ -4586,7 +4606,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "914": {
+    "917": {
       "op": "pushbytes 0x2c",
       "defined_out": [
         "0x2c",
@@ -4607,7 +4627,7 @@
         "0x2c"
       ]
     },
-    "917": {
+    "920": {
       "op": "concat",
       "stack_out": [
         "cursor#0",
@@ -4620,7 +4640,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "918": {
+    "921": {
       "op": "bury 2",
       "defined_out": [
         "cursor#0",
@@ -4638,7 +4658,7 @@
         "tmp%1#2"
       ]
     },
-    "920": {
+    "923": {
       "op": "intc_0 // 0",
       "stack_out": [
         "cursor#0",
@@ -4651,7 +4671,7 @@
         "cursor#0"
       ]
     },
-    "921": {
+    "924": {
       "op": "bury 7",
       "stack_out": [
         "cursor#0",
@@ -4663,7 +4683,7 @@
         "tmp%1#2"
       ]
     },
-    "923": {
+    "926": {
       "block": "bootstrap_via_outer_and_add_initial_liquidity_after_if_else@11",
       "stack_in": [
         "cursor#0",
@@ -4689,7 +4709,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "925": {
+    "928": {
       "op": "dig 6",
       "defined_out": [
         "i#0",
@@ -4707,7 +4727,7 @@
         "i#0"
       ]
     },
-    "927": {
+    "930": {
       "op": "dup",
       "defined_out": [
         "i#0",
@@ -4727,7 +4747,7 @@
         "i#0 (copy)"
       ]
     },
-    "928": {
+    "931": {
       "op": "cover 2",
       "stack_out": [
         "cursor#0",
@@ -4742,7 +4762,7 @@
         "i#0 (copy)"
       ]
     },
-    "930": {
+    "933": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -4764,7 +4784,7 @@
         "1"
       ]
     },
-    "931": {
+    "934": {
       "op": "extract3",
       "defined_out": [
         "extract%0#0",
@@ -4783,7 +4803,7 @@
         "extract%0#0"
       ]
     },
-    "932": {
+    "935": {
       "op": "dig 3",
       "defined_out": [
         "extract%0#0",
@@ -4804,7 +4824,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "934": {
+    "937": {
       "op": "swap",
       "stack_out": [
         "cursor#0",
@@ -4819,7 +4839,7 @@
         "extract%0#0"
       ]
     },
-    "935": {
+    "938": {
       "op": "concat",
       "stack_out": [
         "cursor#0",
@@ -4833,7 +4853,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "936": {
+    "939": {
       "op": "bury 3",
       "defined_out": [
         "i#0",
@@ -4851,7 +4871,7 @@
         "i#0"
       ]
     },
-    "938": {
+    "941": {
       "op": "intc_1 // 1",
       "stack_out": [
         "cursor#0",
@@ -4865,7 +4885,7 @@
         "1"
       ]
     },
-    "939": {
+    "942": {
       "op": "+",
       "stack_out": [
         "cursor#0",
@@ -4878,7 +4898,7 @@
         "i#0"
       ]
     },
-    "940": {
+    "943": {
       "op": "bury 6",
       "stack_out": [
         "cursor#0",
@@ -4890,10 +4910,10 @@
         "tmp%1#2"
       ]
     },
-    "942": {
+    "945": {
       "op": "b bootstrap_via_outer_and_add_initial_liquidity_for_header@8"
     },
-    "945": {
+    "948": {
       "subroutine": "contract.Eco.mint_plot[routing]",
       "params": {},
       "block": "mint_plot",
@@ -4903,14 +4923,14 @@
         "plot_count_as_string#0"
       ]
     },
-    "946": {
+    "949": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0"
       ]
     },
-    "947": {
+    "950": {
       "op": "bytec_3 // \"\"",
       "stack_out": [
         "plot_count_as_string#0",
@@ -4918,7 +4938,7 @@
         "cursor#0"
       ]
     },
-    "948": {
+    "951": {
       "op": "dupn 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -4928,7 +4948,7 @@
         "tmp%3#0"
       ]
     },
-    "950": {
+    "953": {
       "op": "txn GroupIndex",
       "defined_out": [
         "tmp%0#0"
@@ -4942,7 +4962,7 @@
         "tmp%0#0"
       ]
     },
-    "952": {
+    "955": {
       "op": "pushint 2 // 2",
       "defined_out": [
         "2",
@@ -4958,7 +4978,7 @@
         "2"
       ]
     },
-    "954": {
+    "957": {
       "op": "-",
       "defined_out": [
         "plot_payment#0"
@@ -4972,7 +4992,7 @@
         "plot_payment#0"
       ]
     },
-    "955": {
+    "958": {
       "op": "txn GroupIndex",
       "defined_out": [
         "plot_payment#0",
@@ -4988,7 +5008,7 @@
         "tmp%1#0"
       ]
     },
-    "957": {
+    "960": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -5006,7 +5026,7 @@
         "1"
       ]
     },
-    "958": {
+    "961": {
       "op": "-",
       "defined_out": [
         "mbr_payment#0",
@@ -5022,7 +5042,7 @@
         "mbr_payment#0"
       ]
     },
-    "959": {
+    "962": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5035,7 +5055,7 @@
         "mbr_payment#0"
       ]
     },
-    "960": {
+    "963": {
       "op": "cover 2",
       "defined_out": [
         "mbr_payment#0",
@@ -5052,7 +5072,7 @@
         "mbr_payment#0"
       ]
     },
-    "962": {
+    "965": {
       "op": "dig 1",
       "defined_out": [
         "mbr_payment#0",
@@ -5071,7 +5091,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "964": {
+    "967": {
       "callsub": "contract.contract_is_receiver",
       "op": "callsub contract_is_receiver",
       "stack_out": [
@@ -5085,7 +5105,7 @@
         "mbr_payment#0"
       ]
     },
-    "967": {
+    "970": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -5104,7 +5124,7 @@
         "mbr_payment#0 (copy)"
       ]
     },
-    "968": {
+    "971": {
       "callsub": "contract.contract_is_receiver",
       "op": "callsub contract_is_receiver",
       "stack_out": [
@@ -5118,7 +5138,7 @@
         "mbr_payment#0"
       ]
     },
-    "971": {
+    "974": {
       "op": "dig 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5132,7 +5152,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "973": {
+    "976": {
       "op": "gtxns TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5146,7 +5166,7 @@
         "tmp%0#0"
       ]
     },
-    "975": {
+    "978": {
       "op": "intc_1 // pay",
       "defined_out": [
         "mbr_payment#0",
@@ -5167,7 +5187,7 @@
         "pay"
       ]
     },
-    "976": {
+    "979": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5186,7 +5206,7 @@
         "tmp%1#3"
       ]
     },
-    "977": {
+    "980": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5199,7 +5219,7 @@
         "mbr_payment#0"
       ]
     },
-    "978": {
+    "981": {
       "op": "gtxns TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5212,7 +5232,7 @@
         "tmp%0#0"
       ]
     },
-    "980": {
+    "983": {
       "op": "intc_1 // pay",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5226,7 +5246,7 @@
         "pay"
       ]
     },
-    "981": {
+    "984": {
       "op": "==",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5239,7 +5259,7 @@
         "tmp%1#3"
       ]
     },
-    "982": {
+    "985": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5251,7 +5271,7 @@
         "plot_payment#0"
       ]
     },
-    "983": {
+    "986": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5264,7 +5284,7 @@
         "plot_payment#0 (copy)"
       ]
     },
-    "984": {
+    "987": {
       "op": "gtxns Receiver",
       "defined_out": [
         "mbr_payment#0",
@@ -5282,7 +5302,7 @@
         "tmp%0#1"
       ]
     },
-    "986": {
+    "989": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "mbr_payment#0",
@@ -5302,7 +5322,7 @@
         "tmp%1#2"
       ]
     },
-    "988": {
+    "991": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5320,7 +5340,7 @@
         "tmp%2#0"
       ]
     },
-    "989": {
+    "992": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5332,7 +5352,7 @@
         "plot_payment#0"
       ]
     },
-    "990": {
+    "993": {
       "op": "gtxns Amount",
       "defined_out": [
         "mbr_payment#0",
@@ -5348,7 +5368,7 @@
         "tmp%3#0"
       ]
     },
-    "992": {
+    "995": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5361,7 +5381,7 @@
         "0"
       ]
     },
-    "993": {
+    "996": {
       "op": "bytec 5 // \"plot_cost\"",
       "defined_out": [
         "\"plot_cost\"",
@@ -5381,7 +5401,7 @@
         "\"plot_cost\""
       ]
     },
-    "995": {
+    "998": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -5401,7 +5421,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "996": {
+    "999": {
       "error": "check self.plot_cost exists",
       "op": "assert // check self.plot_cost exists",
       "stack_out": [
@@ -5415,7 +5435,7 @@
         "maybe_value%0#0"
       ]
     },
-    "997": {
+    "1000": {
       "op": "==",
       "defined_out": [
         "mbr_payment#0",
@@ -5432,7 +5452,7 @@
         "tmp%4#0"
       ]
     },
-    "998": {
+    "1001": {
       "op": "assert",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5443,7 +5463,7 @@
         "mbr_payment#0"
       ]
     },
-    "999": {
+    "1002": {
       "op": "global CurrentApplicationAddress",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5455,7 +5475,7 @@
         "tmp%0#1"
       ]
     },
-    "1001": {
+    "1004": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -5474,7 +5494,7 @@
         "check%0#0"
       ]
     },
-    "1003": {
+    "1006": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -5487,7 +5507,7 @@
         "pre_mbr#0"
       ]
     },
-    "1004": {
+    "1007": {
       "op": "pushbytes 0x70",
       "defined_out": [
         "0x70",
@@ -5506,7 +5526,7 @@
         "0x70"
       ]
     },
-    "1007": {
+    "1010": {
       "op": "txn Sender",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5520,7 +5540,7 @@
         "tmp%0#1"
       ]
     },
-    "1009": {
+    "1012": {
       "op": "concat",
       "defined_out": [
         "mbr_payment#0",
@@ -5539,7 +5559,7 @@
         "users_plots#0"
       ]
     },
-    "1010": {
+    "1013": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -5559,7 +5579,7 @@
         "users_plots#0"
       ]
     },
-    "1011": {
+    "1014": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5574,7 +5594,7 @@
         "0"
       ]
     },
-    "1012": {
+    "1015": {
       "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
@@ -5598,7 +5618,7 @@
         "\"next_plot\""
       ]
     },
-    "1013": {
+    "1016": {
       "op": "app_global_get_ex",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5614,7 +5634,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "1014": {
+    "1017": {
       "error": "check self.next_plot exists",
       "op": "assert // check self.next_plot exists",
       "stack_out": [
@@ -5630,7 +5650,7 @@
         "maybe_value%0#0"
       ]
     },
-    "1015": {
+    "1018": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%0#0",
@@ -5652,7 +5672,7 @@
         "aggregate%val_as_bytes%0#0"
       ]
     },
-    "1016": {
+    "1019": {
       "op": "global LatestTimestamp",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5668,7 +5688,7 @@
         "tmp%3#0"
       ]
     },
-    "1018": {
+    "1021": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%0#0",
@@ -5692,7 +5712,7 @@
         "aggregate%val_as_bytes%1#0"
       ]
     },
-    "1019": {
+    "1022": {
       "op": "concat",
       "defined_out": [
         "mbr_payment#0",
@@ -5714,7 +5734,7 @@
         "plot_info#0"
       ]
     },
-    "1020": {
+    "1023": {
       "op": "cover 2",
       "defined_out": [
         "mbr_payment#0",
@@ -5736,7 +5756,7 @@
         "users_plots#0"
       ]
     },
-    "1022": {
+    "1025": {
       "op": "box_len",
       "defined_out": [
         "_%0#0",
@@ -5761,7 +5781,7 @@
         "maybe_exists%1#1"
       ]
     },
-    "1023": {
+    "1026": {
       "op": "bury 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5776,8 +5796,8 @@
         "maybe_exists%1#1"
       ]
     },
-    "1025": {
-      "op": "bz mint_plot_else_body@15",
+    "1028": {
+      "op": "bz mint_plot_else_body@19",
       "stack_out": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0",
@@ -5790,7 +5810,7 @@
         "users_plots#0"
       ]
     },
-    "1028": {
+    "1031": {
       "op": "dup",
       "defined_out": [
         "mbr_payment#0",
@@ -5813,7 +5833,7 @@
         "users_plots#0 (copy)"
       ]
     },
-    "1029": {
+    "1032": {
       "op": "box_len",
       "defined_out": [
         "check%0#0",
@@ -5838,7 +5858,7 @@
         "check%0#0"
       ]
     },
-    "1030": {
+    "1033": {
       "error": "check Box exists",
       "op": "assert // check Box exists",
       "stack_out": [
@@ -5854,7 +5874,7 @@
         "initial_box_length#0"
       ]
     },
-    "1031": {
+    "1034": {
       "op": "dup",
       "defined_out": [
         "initial_box_length#0",
@@ -5879,7 +5899,7 @@
         "initial_box_length#0 (copy)"
       ]
     },
-    "1032": {
+    "1035": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
@@ -5906,7 +5926,7 @@
         "16"
       ]
     },
-    "1034": {
+    "1037": {
       "op": "+",
       "defined_out": [
         "initial_box_length#0",
@@ -5931,7 +5951,7 @@
         "tmp%6#0"
       ]
     },
-    "1035": {
+    "1038": {
       "op": "dig 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5948,7 +5968,7 @@
         "users_plots#0 (copy)"
       ]
     },
-    "1037": {
+    "1040": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5965,7 +5985,7 @@
         "tmp%6#0"
       ]
     },
-    "1038": {
+    "1041": {
       "op": "box_resize",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5980,7 +6000,7 @@
         "initial_box_length#0"
       ]
     },
-    "1039": {
+    "1042": {
       "op": "pushint 16 // 16",
       "stack_out": [
         "plot_count_as_string#0",
@@ -5996,7 +6016,7 @@
         "16"
       ]
     },
-    "1041": {
+    "1044": {
       "op": "dig 3",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6013,7 +6033,7 @@
         "plot_info#0"
       ]
     },
-    "1043": {
+    "1046": {
       "op": "box_splice",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6026,8 +6046,8 @@
         "plot_info#0"
       ]
     },
-    "1044": {
-      "block": "mint_plot_after_if_else@16",
+    "1047": {
+      "block": "mint_plot_after_if_else@20",
       "stack_in": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0",
@@ -6054,7 +6074,7 @@
         "0"
       ]
     },
-    "1045": {
+    "1048": {
       "op": "bytec_2 // \"plot_count\"",
       "defined_out": [
         "\"plot_count\"",
@@ -6073,7 +6093,7 @@
         "\"plot_count\""
       ]
     },
-    "1046": {
+    "1049": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -6092,7 +6112,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "1047": {
+    "1050": {
       "error": "check self.plot_count exists",
       "op": "assert // check self.plot_count exists",
       "stack_out": [
@@ -6107,7 +6127,7 @@
         "maybe_value%0#0"
       ]
     },
-    "1048": {
+    "1051": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -6126,7 +6146,7 @@
         "1"
       ]
     },
-    "1049": {
+    "1052": {
       "op": "+",
       "defined_out": [
         "tmp%1#0"
@@ -6143,7 +6163,7 @@
         "tmp%1#0"
       ]
     },
-    "1050": {
+    "1053": {
       "op": "bytec_2 // \"plot_count\"",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6158,7 +6178,7 @@
         "\"plot_count\""
       ]
     },
-    "1051": {
+    "1054": {
       "op": "dig 1",
       "defined_out": [
         "\"plot_count\"",
@@ -6179,7 +6199,7 @@
         "tmp%1#0 (copy)"
       ]
     },
-    "1053": {
+    "1056": {
       "op": "app_global_put",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6193,7 +6213,7 @@
         "tmp%1#0"
       ]
     },
-    "1054": {
+    "1057": {
       "callsub": "contract.itoa",
       "op": "callsub itoa",
       "defined_out": [
@@ -6211,7 +6231,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "1057": {
+    "1060": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6226,7 +6246,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "1058": {
+    "1061": {
       "op": "bury 9",
       "defined_out": [
         "plot_count_as_string#0"
@@ -6243,7 +6263,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "1060": {
+    "1063": {
       "op": "bytec_3 // 0x",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6262,7 +6282,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1061": {
+    "1064": {
       "op": "bury 8",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6280,7 +6300,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "1063": {
+    "1066": {
       "op": "len",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6299,7 +6319,7 @@
         "tmp%3#0"
       ]
     },
-    "1064": {
+    "1067": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6314,7 +6334,7 @@
         "tmp%3#0"
       ]
     },
-    "1065": {
+    "1068": {
       "op": "bury 5",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6333,7 +6353,7 @@
         "tmp%3#0"
       ]
     },
-    "1067": {
+    "1070": {
       "op": "intc_2 // 3",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6348,7 +6368,7 @@
         "3"
       ]
     },
-    "1068": {
+    "1071": {
       "op": "<=",
       "defined_out": [
         "plot_count_as_string#0",
@@ -6368,7 +6388,7 @@
         "tmp%4#0"
       ]
     },
-    "1069": {
+    "1072": {
       "op": "bz mint_plot_else_body@3",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6381,7 +6401,7 @@
         "plot_info#0"
       ]
     },
-    "1072": {
+    "1075": {
       "op": "dig 7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6395,7 +6415,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1074": {
+    "1077": {
       "op": "bury 7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6408,7 +6428,7 @@
         "plot_info#0"
       ]
     },
-    "1076": {
+    "1079": {
       "block": "mint_plot_after_if_else@10",
       "stack_in": [
         "plot_count_as_string#0",
@@ -6422,7 +6442,7 @@
       ],
       "op": "itxn_begin"
     },
-    "1077": {
+    "1080": {
       "op": "bytec 12 // 0x506c6f7420233a20",
       "defined_out": [
         "0x506c6f7420233a20"
@@ -6439,7 +6459,7 @@
         "0x506c6f7420233a20"
       ]
     },
-    "1079": {
+    "1082": {
       "op": "dig 7",
       "defined_out": [
         "0x506c6f7420233a20",
@@ -6458,7 +6478,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1081": {
+    "1084": {
       "op": "concat",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
@@ -6476,7 +6496,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1082": {
+    "1085": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
@@ -6496,32 +6516,10 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "1084": {
-      "op": "dup",
+    "1087": {
+      "op": "dupn 2",
       "defined_out": [
-        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
-        "plot_count_with_commas#0"
-      ],
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_info#0",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
-        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
-      ]
-    },
-    "1085": {
-      "op": "intc_0 // 0",
-      "defined_out": [
-        "0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
@@ -6539,10 +6537,36 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
-        "0"
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0"
       ]
     },
-    "1086": {
+    "1089": {
+      "op": "intc_1 // 1",
+      "defined_out": [
+        "1",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "plot_count_with_commas#0"
+      ],
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0",
+        "1"
+      ]
+    },
+    "1090": {
       "op": "itxn_field ConfigAssetDefaultFrozen",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6555,10 +6579,27 @@
         "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetFreeze_idx_0#0"
+      ]
+    },
+    "1092": {
+      "op": "itxn_field ConfigAssetFreeze",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0",
         "inner_txn_params%0%%param_ConfigAssetReserve_idx_0#0"
       ]
     },
-    "1088": {
+    "1094": {
       "op": "itxn_field ConfigAssetReserve",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6573,7 +6614,7 @@
         "inner_txn_params%0%%param_ConfigAssetManager_idx_0#0"
       ]
     },
-    "1090": {
+    "1096": {
       "op": "itxn_field ConfigAssetManager",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6587,39 +6628,10 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1092": {
+    "1098": {
       "op": "intc_0 // 0",
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_info#0",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
-        "0"
-      ]
-    },
-    "1093": {
-      "op": "itxn_field ConfigAssetDecimals",
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_info#0",
-        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
-      ]
-    },
-    "1095": {
-      "op": "intc_1 // 1",
       "defined_out": [
-        "1",
+        "0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "plot_count_with_commas#0"
       ],
@@ -6633,10 +6645,39 @@
         "pre_mbr#0",
         "plot_info#0",
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
+        "0"
+      ]
+    },
+    "1099": {
+      "op": "itxn_field ConfigAssetDecimals",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
+      ]
+    },
+    "1101": {
+      "op": "intc_1 // 1",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "inner_txn_params%0%%param_ConfigAssetName_idx_0#0",
         "1"
       ]
     },
-    "1096": {
+    "1102": {
       "op": "itxn_field ConfigAssetTotal",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6650,7 +6691,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1098": {
+    "1104": {
       "op": "bytec 13 // \"PLOT\"",
       "defined_out": [
         "\"PLOT\"",
@@ -6670,7 +6711,7 @@
         "\"PLOT\""
       ]
     },
-    "1100": {
+    "1106": {
       "op": "itxn_field ConfigAssetUnitName",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6684,7 +6725,7 @@
         "inner_txn_params%0%%param_ConfigAssetName_idx_0#0"
       ]
     },
-    "1102": {
+    "1108": {
       "op": "itxn_field ConfigAssetName",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6697,7 +6738,7 @@
         "plot_info#0"
       ]
     },
-    "1104": {
+    "1110": {
       "op": "intc_2 // acfg",
       "defined_out": [
         "acfg",
@@ -6715,7 +6756,7 @@
         "acfg"
       ]
     },
-    "1105": {
+    "1111": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6728,7 +6769,7 @@
         "plot_info#0"
       ]
     },
-    "1107": {
+    "1113": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6742,7 +6783,7 @@
         "0"
       ]
     },
-    "1108": {
+    "1114": {
       "op": "itxn_field Fee",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6755,10 +6796,10 @@
         "plot_info#0"
       ]
     },
-    "1110": {
+    "1116": {
       "op": "itxn_submit"
     },
-    "1111": {
+    "1117": {
       "op": "itxn CreatedAssetID",
       "defined_out": [
         "create_next_users_plot.CreatedAssetID#0",
@@ -6776,30 +6817,7 @@
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1113": {
-      "op": "itxn_begin"
-    },
-    "1114": {
-      "op": "txn Sender",
-      "defined_out": [
-        "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
-        "plot_count_with_commas#0"
-      ],
-      "stack_out": [
-        "plot_count_as_string#0",
-        "plot_count_with_commas#0",
-        "cursor#0",
-        "i#0",
-        "tmp%3#0",
-        "mbr_payment#0",
-        "pre_mbr#0",
-        "plot_info#0",
-        "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0"
-      ]
-    },
-    "1116": {
+    "1119": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6811,17 +6829,15 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "0"
       ]
     },
-    "1117": {
+    "1120": {
       "op": "bytec_1 // \"next_plot\"",
       "defined_out": [
         "\"next_plot\"",
         "0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "plot_count_with_commas#0"
       ],
       "stack_out": [
@@ -6834,18 +6850,16 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "0",
         "\"next_plot\""
       ]
     },
-    "1118": {
+    "1121": {
       "op": "app_global_get_ex",
       "defined_out": [
+        "asset#0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
         "maybe_exists%2#0",
-        "maybe_value%2#0",
         "plot_count_with_commas#0"
       ],
       "stack_out": [
@@ -6858,12 +6872,11 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
-        "maybe_value%2#0",
+        "asset#0",
         "maybe_exists%2#0"
       ]
     },
-    "1119": {
+    "1122": {
       "error": "check self.next_plot exists",
       "op": "assert // check self.next_plot exists",
       "stack_out": [
@@ -6876,11 +6889,236 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
-        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
-        "maybe_value%2#0"
+        "asset#0"
       ]
     },
-    "1120": {
+    "1123": {
+      "op": "txn Sender",
+      "defined_out": [
+        "asset#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "plot_count_with_commas#0",
+        "target#0"
+      ],
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0"
+      ]
+    },
+    "1125": {
+      "op": "itxn_begin"
+    },
+    "1126": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0",
+        "0"
+      ]
+    },
+    "1127": {
+      "op": "itxn_field FreezeAssetFrozen",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0"
+      ]
+    },
+    "1129": {
+      "op": "dig 1",
+      "defined_out": [
+        "asset#0",
+        "asset#0 (copy)",
+        "create_next_users_plot.CreatedAssetID#0",
+        "plot_count_with_commas#0",
+        "target#0"
+      ],
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0",
+        "asset#0 (copy)"
+      ]
+    },
+    "1131": {
+      "op": "itxn_field FreezeAsset",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0"
+      ]
+    },
+    "1133": {
+      "op": "itxn_field FreezeAssetAccount",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
+      ]
+    },
+    "1135": {
+      "op": "pushint 5 // afrz",
+      "defined_out": [
+        "afrz",
+        "asset#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "plot_count_with_commas#0"
+      ],
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "afrz"
+      ]
+    },
+    "1137": {
+      "op": "itxn_field TypeEnum",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
+      ]
+    },
+    "1139": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "0"
+      ]
+    },
+    "1140": {
+      "op": "itxn_field Fee",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
+      ]
+    },
+    "1142": {
+      "op": "itxn_submit"
+    },
+    "1143": {
+      "op": "itxn_begin"
+    },
+    "1144": {
+      "op": "txn Sender",
+      "defined_out": [
+        "asset#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
+        "plot_count_with_commas#0"
+      ],
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "inner_txn_params%1%%param_AssetReceiver_idx_0#0"
+      ]
+    },
+    "1146": {
+      "op": "dig 1",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "inner_txn_params%1%%param_AssetReceiver_idx_0#0",
+        "asset#0 (copy)"
+      ]
+    },
+    "1148": {
       "op": "itxn_field XferAsset",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6892,10 +7130,11 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
         "inner_txn_params%1%%param_AssetReceiver_idx_0#0"
       ]
     },
-    "1122": {
+    "1150": {
       "op": "itxn_field AssetReceiver",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6906,10 +7145,11 @@
         "mbr_payment#0",
         "pre_mbr#0",
         "plot_info#0",
-        "create_next_users_plot.CreatedAssetID#0"
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
       ]
     },
-    "1124": {
+    "1152": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6921,10 +7161,11 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
         "1"
       ]
     },
-    "1125": {
+    "1153": {
       "op": "itxn_field AssetAmount",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6935,12 +7176,14 @@
         "mbr_payment#0",
         "pre_mbr#0",
         "plot_info#0",
-        "create_next_users_plot.CreatedAssetID#0"
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
       ]
     },
-    "1127": {
+    "1155": {
       "op": "intc_3 // axfer",
       "defined_out": [
+        "asset#0",
         "axfer",
         "create_next_users_plot.CreatedAssetID#0",
         "plot_count_with_commas#0"
@@ -6955,10 +7198,144 @@
         "pre_mbr#0",
         "plot_info#0",
         "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
         "axfer"
       ]
     },
-    "1128": {
+    "1156": {
+      "op": "itxn_field TypeEnum",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
+      ]
+    },
+    "1158": {
+      "op": "intc_0 // 0",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "0"
+      ]
+    },
+    "1159": {
+      "op": "itxn_field Fee",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0"
+      ]
+    },
+    "1161": {
+      "op": "itxn_submit"
+    },
+    "1162": {
+      "op": "txn Sender",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0"
+      ]
+    },
+    "1164": {
+      "op": "itxn_begin"
+    },
+    "1165": {
+      "op": "intc_1 // 1",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0",
+        "1"
+      ]
+    },
+    "1166": {
+      "op": "itxn_field FreezeAssetFrozen",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "asset#0",
+        "target#0"
+      ]
+    },
+    "1168": {
+      "op": "itxn_field FreezeAssetAccount"
+    },
+    "1170": {
+      "op": "itxn_field FreezeAsset",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0"
+      ]
+    },
+    "1172": {
+      "op": "pushint 5 // afrz",
+      "stack_out": [
+        "plot_count_as_string#0",
+        "plot_count_with_commas#0",
+        "cursor#0",
+        "i#0",
+        "tmp%3#0",
+        "mbr_payment#0",
+        "pre_mbr#0",
+        "plot_info#0",
+        "create_next_users_plot.CreatedAssetID#0",
+        "afrz"
+      ]
+    },
+    "1174": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6972,7 +7349,7 @@
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1130": {
+    "1176": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -6987,7 +7364,7 @@
         "0"
       ]
     },
-    "1131": {
+    "1177": {
       "op": "itxn_field Fee",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7001,10 +7378,10 @@
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1133": {
+    "1179": {
       "op": "itxn_submit"
     },
-    "1134": {
+    "1180": {
       "op": "bytec_1 // \"next_plot\"",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7019,7 +7396,7 @@
         "\"next_plot\""
       ]
     },
-    "1135": {
+    "1181": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7034,7 +7411,7 @@
         "create_next_users_plot.CreatedAssetID#0"
       ]
     },
-    "1136": {
+    "1182": {
       "op": "app_global_put",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7047,7 +7424,7 @@
         "plot_info#0"
       ]
     },
-    "1137": {
+    "1183": {
       "op": "global CurrentApplicationAddress",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -7065,7 +7442,7 @@
         "tmp%0#1"
       ]
     },
-    "1139": {
+    "1185": {
       "op": "acct_params_get AcctMinBalance",
       "defined_out": [
         "check%0#0",
@@ -7085,7 +7462,7 @@
         "check%0#0"
       ]
     },
-    "1141": {
+    "1187": {
       "error": "account funded",
       "op": "assert // account funded",
       "stack_out": [
@@ -7100,7 +7477,7 @@
         "post_mbr#0"
       ]
     },
-    "1142": {
+    "1188": {
       "op": "dig 2",
       "defined_out": [
         "plot_count_with_commas#0",
@@ -7120,7 +7497,7 @@
         "pre_mbr#0"
       ]
     },
-    "1144": {
+    "1190": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7135,7 +7512,7 @@
         "post_mbr#0"
       ]
     },
-    "1145": {
+    "1191": {
       "op": "dig 4",
       "defined_out": [
         "mbr_payment#0",
@@ -7157,7 +7534,7 @@
         "mbr_payment#0"
       ]
     },
-    "1147": {
+    "1193": {
       "callsub": "contract.refund_excess_mbr",
       "op": "callsub refund_excess_mbr",
       "stack_out": [
@@ -7171,7 +7548,7 @@
         "plot_info#0"
       ]
     },
-    "1150": {
+    "1196": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7185,7 +7562,7 @@
         "1"
       ]
     },
-    "1151": {
+    "1197": {
       "op": "return",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7198,7 +7575,7 @@
         "plot_info#0"
       ]
     },
-    "1152": {
+    "1198": {
       "block": "mint_plot_else_body@3",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7226,7 +7603,7 @@
         "cursor#0"
       ]
     },
-    "1153": {
+    "1199": {
       "op": "bury 6",
       "defined_out": [
         "cursor#0"
@@ -7242,7 +7619,7 @@
         "plot_info#0"
       ]
     },
-    "1155": {
+    "1201": {
       "op": "intc_0 // 0",
       "defined_out": [
         "cursor#0",
@@ -7260,7 +7637,7 @@
         "i#0"
       ]
     },
-    "1156": {
+    "1202": {
       "op": "bury 5",
       "defined_out": [
         "cursor#0",
@@ -7277,7 +7654,7 @@
         "plot_info#0"
       ]
     },
-    "1158": {
+    "1204": {
       "block": "mint_plot_for_header@4",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7305,7 +7682,7 @@
         "i#0"
       ]
     },
-    "1160": {
+    "1206": {
       "op": "dig 4",
       "defined_out": [
         "i#0",
@@ -7324,7 +7701,7 @@
         "tmp%3#0"
       ]
     },
-    "1162": {
+    "1208": {
       "op": "<",
       "defined_out": [
         "continue_looping%0#0",
@@ -7343,7 +7720,7 @@
         "continue_looping%0#0"
       ]
     },
-    "1163": {
+    "1209": {
       "op": "bz mint_plot_after_if_else@10",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7356,7 +7733,7 @@
         "plot_info#0"
       ]
     },
-    "1166": {
+    "1212": {
       "op": "dig 5",
       "defined_out": [
         "cursor#0",
@@ -7375,7 +7752,7 @@
         "cursor#0"
       ]
     },
-    "1168": {
+    "1214": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -7396,7 +7773,7 @@
         "1"
       ]
     },
-    "1169": {
+    "1215": {
       "op": "+",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7410,7 +7787,7 @@
         "cursor#0"
       ]
     },
-    "1170": {
+    "1216": {
       "op": "dup",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7425,7 +7802,7 @@
         "cursor#0"
       ]
     },
-    "1171": {
+    "1217": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0",
@@ -7444,7 +7821,7 @@
         "cursor#0"
       ]
     },
-    "1173": {
+    "1219": {
       "op": "intc_2 // 3",
       "defined_out": [
         "3",
@@ -7465,7 +7842,7 @@
         "3"
       ]
     },
-    "1174": {
+    "1220": {
       "op": "==",
       "defined_out": [
         "cursor#0",
@@ -7485,7 +7862,7 @@
         "tmp%7#0"
       ]
     },
-    "1175": {
+    "1221": {
       "op": "bz mint_plot_after_if_else@7",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7498,7 +7875,7 @@
         "plot_info#0"
       ]
     },
-    "1178": {
+    "1224": {
       "op": "dig 6",
       "defined_out": [
         "cursor#0",
@@ -7518,7 +7895,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1180": {
+    "1226": {
       "op": "pushbytes 0x2c",
       "defined_out": [
         "0x2c",
@@ -7540,7 +7917,7 @@
         "0x2c"
       ]
     },
-    "1183": {
+    "1229": {
       "op": "concat",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7554,7 +7931,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1184": {
+    "1230": {
       "op": "bury 7",
       "defined_out": [
         "cursor#0",
@@ -7573,7 +7950,7 @@
         "plot_info#0"
       ]
     },
-    "1186": {
+    "1232": {
       "op": "intc_0 // 0",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7587,7 +7964,7 @@
         "cursor#0"
       ]
     },
-    "1187": {
+    "1233": {
       "op": "bury 6",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7600,7 +7977,7 @@
         "plot_info#0"
       ]
     },
-    "1189": {
+    "1235": {
       "block": "mint_plot_after_if_else@7",
       "stack_in": [
         "plot_count_as_string#0",
@@ -7628,7 +8005,7 @@
         "plot_count_as_string#0"
       ]
     },
-    "1191": {
+    "1237": {
       "op": "dig 5",
       "defined_out": [
         "i#0",
@@ -7647,7 +8024,7 @@
         "i#0"
       ]
     },
-    "1193": {
+    "1239": {
       "op": "dup",
       "defined_out": [
         "i#0",
@@ -7668,7 +8045,7 @@
         "i#0 (copy)"
       ]
     },
-    "1194": {
+    "1240": {
       "op": "cover 2",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7684,7 +8061,7 @@
         "i#0 (copy)"
       ]
     },
-    "1196": {
+    "1242": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -7707,7 +8084,7 @@
         "1"
       ]
     },
-    "1197": {
+    "1243": {
       "op": "extract3",
       "defined_out": [
         "extract%0#0",
@@ -7727,7 +8104,7 @@
         "extract%0#0"
       ]
     },
-    "1198": {
+    "1244": {
       "op": "dig 8",
       "defined_out": [
         "extract%0#0",
@@ -7749,7 +8126,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1200": {
+    "1246": {
       "op": "swap",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7765,7 +8142,7 @@
         "extract%0#0"
       ]
     },
-    "1201": {
+    "1247": {
       "op": "concat",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7780,7 +8157,7 @@
         "plot_count_with_commas#0"
       ]
     },
-    "1202": {
+    "1248": {
       "op": "bury 8",
       "defined_out": [
         "i#0",
@@ -7799,7 +8176,7 @@
         "i#0"
       ]
     },
-    "1204": {
+    "1250": {
       "op": "intc_1 // 1",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7814,7 +8191,7 @@
         "1"
       ]
     },
-    "1205": {
+    "1251": {
       "op": "+",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7828,7 +8205,7 @@
         "i#0"
       ]
     },
-    "1206": {
+    "1252": {
       "op": "bury 5",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7841,11 +8218,11 @@
         "plot_info#0"
       ]
     },
-    "1208": {
+    "1254": {
       "op": "b mint_plot_for_header@4"
     },
-    "1211": {
-      "block": "mint_plot_else_body@15",
+    "1257": {
+      "block": "mint_plot_else_body@19",
       "stack_in": [
         "plot_count_as_string#0",
         "plot_count_with_commas#0",
@@ -7875,7 +8252,7 @@
         "users_plots#0 (copy)"
       ]
     },
-    "1212": {
+    "1258": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
@@ -7896,7 +8273,7 @@
         "16"
       ]
     },
-    "1214": {
+    "1260": {
       "op": "box_create",
       "defined_out": [
         "users_plots#0",
@@ -7915,7 +8292,7 @@
         "{box_create}"
       ]
     },
-    "1215": {
+    "1261": {
       "op": "pop",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7929,7 +8306,7 @@
         "users_plots#0"
       ]
     },
-    "1216": {
+    "1262": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
@@ -7948,7 +8325,7 @@
         "0"
       ]
     },
-    "1217": {
+    "1263": {
       "op": "dig 2",
       "defined_out": [
         "0",
@@ -7969,7 +8346,7 @@
         "plot_info#0"
       ]
     },
-    "1219": {
+    "1265": {
       "op": "box_replace",
       "stack_out": [
         "plot_count_as_string#0",
@@ -7982,20 +8359,20 @@
         "plot_info#0"
       ]
     },
-    "1220": {
-      "op": "b mint_plot_after_if_else@16"
+    "1266": {
+      "op": "b mint_plot_after_if_else@20"
     },
-    "1223": {
+    "1269": {
       "subroutine": "contract.Eco.claim_plot_rewards[routing]",
       "params": {},
       "block": "claim_plot_rewards",
       "stack_in": [],
       "op": "intc_0 // 0"
     },
-    "1224": {
+    "1270": {
       "op": "pushbytes 0x70"
     },
-    "1227": {
+    "1273": {
       "op": "txn Sender",
       "defined_out": [
         "0x70",
@@ -8008,7 +8385,7 @@
         "tmp%0#0"
       ]
     },
-    "1229": {
+    "1275": {
       "op": "concat",
       "defined_out": [
         "total_reward#1",
@@ -8019,7 +8396,7 @@
         "users_plots#0"
       ]
     },
-    "1230": {
+    "1276": {
       "op": "dup",
       "defined_out": [
         "total_reward#1",
@@ -8031,7 +8408,7 @@
         "users_plots#0"
       ]
     },
-    "1231": {
+    "1277": {
       "op": "box_len",
       "defined_out": [
         "check%0#0",
@@ -8046,7 +8423,7 @@
         "check%0#0"
       ]
     },
-    "1232": {
+    "1278": {
       "error": "check Box exists",
       "op": "assert // check Box exists",
       "stack_out": [
@@ -8055,7 +8432,7 @@
         "value%0#0"
       ]
     },
-    "1233": {
+    "1279": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
@@ -8070,7 +8447,7 @@
         "16"
       ]
     },
-    "1235": {
+    "1281": {
       "op": "/",
       "defined_out": [
         "tmp%2#1",
@@ -8083,7 +8460,7 @@
         "tmp%2#1"
       ]
     },
-    "1236": {
+    "1282": {
       "op": "intc_0 // 0",
       "defined_out": [
         "i#0",
@@ -8098,7 +8475,7 @@
         "i#0"
       ]
     },
-    "1237": {
+    "1283": {
       "block": "claim_plot_rewards_for_header@2",
       "stack_in": [
         "total_reward#1",
@@ -8118,7 +8495,7 @@
         "i#0"
       ]
     },
-    "1238": {
+    "1284": {
       "op": "dig 2",
       "defined_out": [
         "i#0",
@@ -8133,7 +8510,7 @@
         "tmp%2#1"
       ]
     },
-    "1240": {
+    "1286": {
       "op": "<",
       "defined_out": [
         "continue_looping%0#0",
@@ -8148,7 +8525,7 @@
         "continue_looping%0#0"
       ]
     },
-    "1241": {
+    "1287": {
       "op": "bz claim_plot_rewards_after_for@4",
       "stack_out": [
         "total_reward#1",
@@ -8157,7 +8534,7 @@
         "i#0"
       ]
     },
-    "1244": {
+    "1290": {
       "op": "dupn 2",
       "defined_out": [
         "i#0",
@@ -8173,7 +8550,7 @@
         "i#0 (copy)"
       ]
     },
-    "1246": {
+    "1292": {
       "op": "pushint 16 // 16",
       "defined_out": [
         "16",
@@ -8191,7 +8568,7 @@
         "16"
       ]
     },
-    "1248": {
+    "1294": {
       "op": "+",
       "defined_out": [
         "i#0",
@@ -8207,7 +8584,7 @@
         "tmp%3#0"
       ]
     },
-    "1249": {
+    "1295": {
       "op": "dig 4",
       "defined_out": [
         "i#0",
@@ -8225,7 +8602,7 @@
         "users_plots#0"
       ]
     },
-    "1251": {
+    "1297": {
       "op": "dup",
       "defined_out": [
         "i#0",
@@ -8245,7 +8622,7 @@
         "users_plots#0 (copy)"
       ]
     },
-    "1252": {
+    "1298": {
       "op": "cover 3",
       "stack_out": [
         "total_reward#1",
@@ -8258,7 +8635,7 @@
         "users_plots#0 (copy)"
       ]
     },
-    "1254": {
+    "1300": {
       "op": "dig 2",
       "stack_out": [
         "total_reward#1",
@@ -8272,7 +8649,7 @@
         "i#0 (copy)"
       ]
     },
-    "1256": {
+    "1302": {
       "op": "uncover 2",
       "stack_out": [
         "total_reward#1",
@@ -8286,7 +8663,7 @@
         "tmp%3#0"
       ]
     },
-    "1258": {
+    "1304": {
       "op": "box_extract",
       "defined_out": [
         "i#0",
@@ -8304,7 +8681,7 @@
         "individual_plot_bytes#0"
       ]
     },
-    "1259": {
+    "1305": {
       "op": "global LatestTimestamp",
       "defined_out": [
         "i#0",
@@ -8324,16 +8701,8 @@
         "tmp%5#0"
       ]
     },
-    "1261": {
-      "op": "dig 1",
-      "defined_out": [
-        "i#0",
-        "individual_plot_bytes#0",
-        "individual_plot_bytes#0 (copy)",
-        "tmp%2#1",
-        "tmp%5#0",
-        "users_plots#0"
-      ],
+    "1307": {
+      "op": "swap",
       "stack_out": [
         "total_reward#1",
         "users_plots#0",
@@ -8341,18 +8710,16 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%5#0",
-        "individual_plot_bytes#0 (copy)"
+        "individual_plot_bytes#0"
       ]
     },
-    "1263": {
+    "1308": {
       "op": "pushint 8 // 8",
       "defined_out": [
         "8",
         "i#0",
         "individual_plot_bytes#0",
-        "individual_plot_bytes#0 (copy)",
         "tmp%2#1",
         "tmp%5#0",
         "users_plots#0"
@@ -8364,17 +8731,15 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%5#0",
-        "individual_plot_bytes#0 (copy)",
+        "individual_plot_bytes#0",
         "8"
       ]
     },
-    "1265": {
+    "1310": {
       "op": "extract_uint64",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%2#1",
         "tmp%5#0",
         "tmp%6#0",
@@ -8387,16 +8752,14 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%5#0",
         "tmp%6#0"
       ]
     },
-    "1266": {
+    "1311": {
       "op": "-",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%2#1",
         "tmp%7#0",
         "users_plots#0"
@@ -8408,16 +8771,14 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%7#0"
       ]
     },
-    "1267": {
+    "1312": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%2#1",
         "tmp%7#0",
         "users_plots#0"
@@ -8429,18 +8790,16 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%7#0",
         "0"
       ]
     },
-    "1268": {
+    "1313": {
       "op": "bytec 6 // \"plot_reward_rate\"",
       "defined_out": [
         "\"plot_reward_rate\"",
         "0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%2#1",
         "tmp%7#0",
         "users_plots#0"
@@ -8452,17 +8811,15 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%7#0",
         "0",
         "\"plot_reward_rate\""
       ]
     },
-    "1270": {
+    "1315": {
       "op": "app_global_get_ex",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "maybe_exists%0#0",
         "maybe_value%0#0",
         "tmp%2#1",
@@ -8476,13 +8833,12 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%7#0",
         "maybe_value%0#0",
         "maybe_exists%0#0"
       ]
     },
-    "1271": {
+    "1316": {
       "error": "check self.plot_reward_rate exists",
       "op": "assert // check self.plot_reward_rate exists",
       "stack_out": [
@@ -8492,16 +8848,14 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%7#0",
         "maybe_value%0#0"
       ]
     },
-    "1272": {
+    "1317": {
       "op": "*",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "plot_reward#0",
         "tmp%2#1",
         "users_plots#0"
@@ -8513,15 +8867,13 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "plot_reward#0"
       ]
     },
-    "1273": {
-      "op": "dig 7",
+    "1318": {
+      "op": "dig 6",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "plot_reward#0",
         "tmp%2#1",
         "total_reward#1",
@@ -8534,12 +8886,11 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "plot_reward#0",
         "total_reward#1"
       ]
     },
-    "1275": {
+    "1320": {
       "op": "+",
       "stack_out": [
         "total_reward#1",
@@ -8548,15 +8899,13 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "total_reward#1"
       ]
     },
-    "1276": {
-      "op": "bury 7",
+    "1321": {
+      "op": "bury 6",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%2#1",
         "total_reward#1",
         "users_plots#0"
@@ -8567,15 +8916,38 @@
         "tmp%2#1",
         "i#0",
         "users_plots#0",
-        "i#0",
-        "individual_plot_bytes#0"
+        "i#0"
       ]
     },
-    "1278": {
-      "op": "global LatestTimestamp",
+    "1323": {
+      "op": "dup",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "i#0 (copy)"
+      ]
+    },
+    "1324": {
+      "op": "pushint 8 // 8",
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "i#0 (copy)",
+        "8"
+      ]
+    },
+    "1326": {
+      "op": "+",
       "defined_out": [
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%10#0",
         "tmp%2#1",
         "total_reward#1",
@@ -8588,16 +8960,36 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
         "tmp%10#0"
       ]
     },
-    "1280": {
+    "1327": {
+      "op": "global LatestTimestamp",
+      "defined_out": [
+        "i#0",
+        "tmp%10#0",
+        "tmp%11#0",
+        "tmp%2#1",
+        "total_reward#1",
+        "users_plots#0"
+      ],
+      "stack_out": [
+        "total_reward#1",
+        "users_plots#0",
+        "tmp%2#1",
+        "i#0",
+        "users_plots#0",
+        "i#0",
+        "tmp%10#0",
+        "tmp%11#0"
+      ]
+    },
+    "1329": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%0#0",
         "i#0",
-        "individual_plot_bytes#0",
+        "tmp%10#0",
         "tmp%2#1",
         "total_reward#1",
         "users_plots#0"
@@ -8609,78 +9001,11 @@
         "i#0",
         "users_plots#0",
         "i#0",
-        "individual_plot_bytes#0",
+        "tmp%10#0",
         "aggregate%val_as_bytes%0#0"
       ]
     },
-    "1281": {
-      "op": "replace2 8",
-      "defined_out": [
-        "i#0",
-        "plot_info#1",
-        "tmp%2#1",
-        "total_reward#1",
-        "users_plots#0"
-      ],
-      "stack_out": [
-        "total_reward#1",
-        "users_plots#0",
-        "tmp%2#1",
-        "i#0",
-        "users_plots#0",
-        "i#0",
-        "plot_info#1"
-      ]
-    },
-    "1283": {
-      "op": "dig 1",
-      "stack_out": [
-        "total_reward#1",
-        "users_plots#0",
-        "tmp%2#1",
-        "i#0",
-        "users_plots#0",
-        "i#0",
-        "plot_info#1",
-        "i#0 (copy)"
-      ]
-    },
-    "1285": {
-      "op": "pushint 8 // 8",
-      "stack_out": [
-        "total_reward#1",
-        "users_plots#0",
-        "tmp%2#1",
-        "i#0",
-        "users_plots#0",
-        "i#0",
-        "plot_info#1",
-        "i#0 (copy)",
-        "8"
-      ]
-    },
-    "1287": {
-      "op": "+",
-      "defined_out": [
-        "i#0",
-        "plot_info#1",
-        "tmp%12#0",
-        "tmp%2#1",
-        "total_reward#1",
-        "users_plots#0"
-      ],
-      "stack_out": [
-        "total_reward#1",
-        "users_plots#0",
-        "tmp%2#1",
-        "i#0",
-        "users_plots#0",
-        "i#0",
-        "plot_info#1",
-        "tmp%12#0"
-      ]
-    },
-    "1288": {
+    "1330": {
       "op": "uncover 3",
       "stack_out": [
         "total_reward#1",
@@ -8688,25 +9013,25 @@
         "tmp%2#1",
         "i#0",
         "i#0",
-        "plot_info#1",
-        "tmp%12#0",
+        "tmp%10#0",
+        "aggregate%val_as_bytes%0#0",
         "users_plots#0"
       ]
     },
-    "1290": {
-      "op": "swap",
+    "1332": {
+      "op": "uncover 2",
       "stack_out": [
         "total_reward#1",
         "users_plots#0",
         "tmp%2#1",
         "i#0",
         "i#0",
-        "plot_info#1",
+        "aggregate%val_as_bytes%0#0",
         "users_plots#0",
-        "tmp%12#0"
+        "tmp%10#0"
       ]
     },
-    "1291": {
+    "1334": {
       "op": "pushint 8 // 8",
       "stack_out": [
         "total_reward#1",
@@ -8714,13 +9039,13 @@
         "tmp%2#1",
         "i#0",
         "i#0",
-        "plot_info#1",
+        "aggregate%val_as_bytes%0#0",
         "users_plots#0",
-        "tmp%12#0",
+        "tmp%10#0",
         "8"
       ]
     },
-    "1293": {
+    "1336": {
       "op": "uncover 3",
       "stack_out": [
         "total_reward#1",
@@ -8729,12 +9054,12 @@
         "i#0",
         "i#0",
         "users_plots#0",
-        "tmp%12#0",
+        "tmp%10#0",
         "8",
-        "plot_info#1"
+        "aggregate%val_as_bytes%0#0"
       ]
     },
-    "1295": {
+    "1338": {
       "op": "box_splice",
       "stack_out": [
         "total_reward#1",
@@ -8744,7 +9069,7 @@
         "i#0"
       ]
     },
-    "1296": {
+    "1339": {
       "op": "intc_1 // 1",
       "stack_out": [
         "total_reward#1",
@@ -8755,7 +9080,7 @@
         "1"
       ]
     },
-    "1297": {
+    "1340": {
       "op": "+",
       "stack_out": [
         "total_reward#1",
@@ -8765,7 +9090,7 @@
         "i#0"
       ]
     },
-    "1298": {
+    "1341": {
       "op": "bury 1",
       "defined_out": [
         "i#0",
@@ -8780,10 +9105,10 @@
         "i#0"
       ]
     },
-    "1300": {
+    "1343": {
       "op": "b claim_plot_rewards_for_header@2"
     },
-    "1303": {
+    "1346": {
       "block": "claim_plot_rewards_after_for@4",
       "stack_in": [
         "total_reward#1",
@@ -8793,7 +9118,7 @@
       ],
       "op": "itxn_begin"
     },
-    "1304": {
+    "1347": {
       "op": "intc_0 // 0",
       "defined_out": [
         "0"
@@ -8806,7 +9131,7 @@
         "0"
       ]
     },
-    "1305": {
+    "1348": {
       "op": "bytec_0 // \"eco_token\"",
       "defined_out": [
         "\"eco_token\"",
@@ -8821,7 +9146,7 @@
         "\"eco_token\""
       ]
     },
-    "1306": {
+    "1349": {
       "op": "app_global_get_ex",
       "defined_out": [
         "maybe_exists%0#0",
@@ -8836,7 +9161,7 @@
         "maybe_exists%0#0"
       ]
     },
-    "1307": {
+    "1350": {
       "error": "check self.eco_token exists",
       "op": "assert // check self.eco_token exists",
       "stack_out": [
@@ -8847,7 +9172,7 @@
         "maybe_value%0#0"
       ]
     },
-    "1308": {
+    "1351": {
       "op": "txn Sender",
       "defined_out": [
         "inner_txn_params%0%%param_AssetReceiver_idx_0#0",
@@ -8862,7 +9187,7 @@
         "inner_txn_params%0%%param_AssetReceiver_idx_0#0"
       ]
     },
-    "1310": {
+    "1353": {
       "op": "itxn_field AssetReceiver",
       "stack_out": [
         "total_reward#1",
@@ -8872,7 +9197,7 @@
         "maybe_value%0#0"
       ]
     },
-    "1312": {
+    "1355": {
       "op": "dig 4",
       "defined_out": [
         "maybe_value%0#0",
@@ -8887,7 +9212,7 @@
         "total_reward#1"
       ]
     },
-    "1314": {
+    "1357": {
       "op": "dup",
       "defined_out": [
         "maybe_value%0#0",
@@ -8904,7 +9229,7 @@
         "total_reward#1 (copy)"
       ]
     },
-    "1315": {
+    "1358": {
       "op": "cover 2",
       "stack_out": [
         "total_reward#1",
@@ -8916,7 +9241,7 @@
         "total_reward#1 (copy)"
       ]
     },
-    "1317": {
+    "1360": {
       "op": "itxn_field AssetAmount",
       "stack_out": [
         "total_reward#1",
@@ -8927,7 +9252,7 @@
         "maybe_value%0#0"
       ]
     },
-    "1319": {
+    "1362": {
       "op": "itxn_field XferAsset",
       "stack_out": [
         "total_reward#1",
@@ -8937,7 +9262,7 @@
         "total_reward#1"
       ]
     },
-    "1321": {
+    "1364": {
       "op": "intc_3 // axfer",
       "defined_out": [
         "axfer",
@@ -8952,7 +9277,7 @@
         "axfer"
       ]
     },
-    "1322": {
+    "1365": {
       "op": "itxn_field TypeEnum",
       "stack_out": [
         "total_reward#1",
@@ -8962,7 +9287,7 @@
         "total_reward#1"
       ]
     },
-    "1324": {
+    "1367": {
       "op": "intc_0 // 0",
       "stack_out": [
         "total_reward#1",
@@ -8973,7 +9298,7 @@
         "0"
       ]
     },
-    "1325": {
+    "1368": {
       "op": "itxn_field Fee",
       "stack_out": [
         "total_reward#1",
@@ -8983,10 +9308,10 @@
         "total_reward#1"
       ]
     },
-    "1327": {
+    "1370": {
       "op": "itxn_submit"
     },
-    "1328": {
+    "1371": {
       "op": "itob",
       "defined_out": [
         "aggregate%val_as_bytes%1#0",
@@ -9000,7 +9325,7 @@
         "aggregate%val_as_bytes%1#0"
       ]
     },
-    "1329": {
+    "1372": {
       "op": "bytec 11 // 0x151f7c75",
       "defined_out": [
         "0x151f7c75",
@@ -9016,7 +9341,7 @@
         "0x151f7c75"
       ]
     },
-    "1331": {
+    "1374": {
       "op": "swap",
       "stack_out": [
         "total_reward#1",
@@ -9027,7 +9352,7 @@
         "aggregate%val_as_bytes%1#0"
       ]
     },
-    "1332": {
+    "1375": {
       "op": "concat",
       "defined_out": [
         "tmp%2#0",
@@ -9041,7 +9366,7 @@
         "tmp%2#0"
       ]
     },
-    "1333": {
+    "1376": {
       "op": "log",
       "stack_out": [
         "total_reward#1",
@@ -9050,7 +9375,7 @@
         "i#0"
       ]
     },
-    "1334": {
+    "1377": {
       "op": "intc_1 // 1",
       "defined_out": [
         "1",
@@ -9064,7 +9389,7 @@
         "1"
       ]
     },
-    "1335": {
+    "1378": {
       "op": "return",
       "stack_out": [
         "total_reward#1",

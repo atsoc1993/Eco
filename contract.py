@@ -185,7 +185,8 @@ class Eco(ARC4Contract):
             decimals=0,
             manager=Global.current_application_address,
             reserve=Global.current_application_address,
-            default_frozen=False,
+            freeze=Global.current_application_address,
+            default_frozen=True,
         ).submit()
 
         return create_initial_plot.created_asset.id
@@ -224,15 +225,17 @@ class Eco(ARC4Contract):
             decimals=0,
             manager=Global.current_application_address,
             reserve=Global.current_application_address,
-            default_frozen=False,
+            freeze=Global.current_application_address,
+            default_frozen=True,
         ).submit()
-
-
+        
+        self.unfreeze_asset(self.next_plot, Txn.sender)
         itxn.AssetTransfer(
             asset_amount=1,
             asset_receiver=Txn.sender,
             xfer_asset=self.next_plot,
         ).submit()
+        self.freeze_asset(self.next_plot, Txn.sender)
 
         self.next_plot = create_next_users_plot.created_asset.id
 
@@ -256,6 +259,23 @@ class Eco(ARC4Contract):
         else:
             users_plots.create(size=UInt64(16))
             users_plots.replace(0, plot_info.bytes)
+
+    @subroutine
+    def unfreeze_asset(self, asset: UInt64, target: Account) -> None:
+        itxn.AssetFreeze(
+            freeze_account=target,
+            freeze_asset=asset,
+            frozen=False,
+        ).submit()
+
+    @subroutine
+    def freeze_asset(self, asset: UInt64, target: Account) -> None:
+        itxn.AssetFreeze(
+            freeze_account=target,
+            freeze_asset=asset,
+            frozen=True,
+        ).submit()
+
 
     @subroutine
     def get_logicsig_address(self) -> Account:
@@ -286,8 +306,7 @@ class Eco(ARC4Contract):
             plot_info = PlotInfo.from_bytes(individual_plot_bytes)
             plot_reward = (Global.latest_timestamp - plot_info.plot_last_claim_time.as_uint64()) * self.plot_reward_rate
             total_reward += plot_reward
-            plot_info.plot_last_claim_time = arc4.UInt64(Global.latest_timestamp)
-            users_plots.splice(i + 8, 8, plot_info.bytes)
+            users_plots.splice(i + 8, 8, arc4.UInt64(Global.latest_timestamp).bytes)
         return total_reward
     
     @subroutine
