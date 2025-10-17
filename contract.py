@@ -185,8 +185,8 @@ class Eco(ARC4Contract):
             decimals=0,
             manager=Global.current_application_address,
             reserve=Global.current_application_address,
-            freeze=Global.current_application_address,
-            default_frozen=True,
+            freeze=Global.current_application_address, 
+            default_frozen=True, 
         ).submit()
 
         return create_initial_plot.created_asset.id
@@ -225,17 +225,17 @@ class Eco(ARC4Contract):
             decimals=0,
             manager=Global.current_application_address,
             reserve=Global.current_application_address,
-            freeze=Global.current_application_address,
-            default_frozen=True,
+            freeze=Global.current_application_address, 
+            default_frozen=True, 
         ).submit()
         
-        self.unfreeze_asset(self.next_plot, Txn.sender)
+        self.unfreeze_asset(self.next_plot, Txn.sender) 
         itxn.AssetTransfer(
             asset_amount=1,
             asset_receiver=Txn.sender,
             xfer_asset=self.next_plot,
         ).submit()
-        self.freeze_asset(self.next_plot, Txn.sender)
+        self.freeze_asset(self.next_plot, Txn.sender) 
 
         self.next_plot = create_next_users_plot.created_asset.id
 
@@ -261,7 +261,7 @@ class Eco(ARC4Contract):
             users_plots.replace(0, plot_info.bytes)
 
     @subroutine
-    def unfreeze_asset(self, asset: UInt64, target: Account) -> None:
+    def unfreeze_asset(self, asset: UInt64, target: Account) -> None: 
         itxn.AssetFreeze(
             freeze_account=target,
             freeze_asset=asset,
@@ -269,7 +269,7 @@ class Eco(ARC4Contract):
         ).submit()
 
     @subroutine
-    def freeze_asset(self, asset: UInt64, target: Account) -> None:
+    def freeze_asset(self, asset: UInt64, target: Account) -> None: 
         itxn.AssetFreeze(
             freeze_account=target,
             freeze_asset=asset,
