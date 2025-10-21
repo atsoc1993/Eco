@@ -1,5 +1,6 @@
 from algopy import ARC4Contract, subroutine, arc4, UInt64, Global, Txn, itxn, gtxn, TransactionType, Bytes, Box, op, String, urange, Account, Application, Asset, OnCompleteAction
-from algopy.arc4 import abimethod, Struct, DynamicArray
+from algopy.arc4 import abimethod, Struct, StaticArray, Byte
+import typing as t
 
 @subroutine
 def is_creator() -> None:
@@ -42,6 +43,8 @@ def itoa(i: UInt64) -> Bytes:
 class PlotInfo(Struct):
     plot_id: arc4.UInt64
     plot_last_claim_time: arc4.UInt64
+    plot_items: StaticArray[Byte, t.Literal[10]]
+
 
 class Eco(ARC4Contract):
     def __init__(self) -> None:
@@ -54,6 +57,7 @@ class Eco(ARC4Contract):
         self.plot_reward_rate = UInt64(1_000_000)
         self.pool_logicsig_template = op.base64_decode(op.Base64.StdEncoding, b"BoAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQBbNQA0ADEYEkQxGYEBEkSBAUM=")
         self.tinyman_router = Application(148607000) #testnet
+        self.empty_plot_items: StaticArray[Byte, t.Literal[10]] = StaticArray(Byte(0), Byte(0), Byte(0), Byte(0), Byte(0), Byte(0), Byte(0), Byte(0), Byte(0), Byte(0))
 
     @abimethod
     def mint_eco(self, mbr_payment: gtxn.Transaction) -> UInt64:
@@ -250,14 +254,19 @@ class Eco(ARC4Contract):
     @subroutine
     def add_plot_to_user_inventory(self) -> None:
         users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
-        plot_info = PlotInfo(plot_id=arc4.UInt64(self.next_plot), plot_last_claim_time=arc4.UInt64(Global.latest_timestamp))
+        plot_info = PlotInfo(
+            plot_id=arc4.UInt64(self.next_plot), 
+            plot_last_claim_time=arc4.UInt64(Global.latest_timestamp),
+            plot_items=self.empty_plot_items.copy()
+            )
+        
         if users_plots:
             initial_box_length = users_plots.length
-            users_plots.resize(initial_box_length + 16)
-            users_plots.splice(initial_box_length, 16, plot_info.bytes)
+            users_plots.resize(initial_box_length + 26)
+            users_plots.splice(initial_box_length, 26, plot_info.bytes)
 
         else:
-            users_plots.create(size=UInt64(16))
+            users_plots.create(size=UInt64(26))
             users_plots.replace(0, plot_info.bytes)
 
     @subroutine
@@ -301,8 +310,8 @@ class Eco(ARC4Contract):
     def calculate_plot_reward_and_reset_claim_times(self) -> UInt64:
         total_reward = UInt64(0)
         users_plots = Box(Bytes, key=b'p' + Txn.sender.bytes) # p prefix for plots
-        for i in urange(users_plots.length // 16):
-            individual_plot_bytes = users_plots.extract(i, i + 16)
+        for i in urange(users_plots.length // 26):
+            individual_plot_bytes = users_plots.extract(i, i + 26)
             plot_info = PlotInfo.from_bytes(individual_plot_bytes)
             plot_reward = (Global.latest_timestamp - plot_info.plot_last_claim_time.as_uint64()) * self.plot_reward_rate
             total_reward += plot_reward
